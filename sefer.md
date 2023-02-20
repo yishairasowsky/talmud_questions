@@ -1,4 +1,13 @@
+________________________________________________________________
 
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 028: Ein Mashgichin v'Chaf Moznayim
 
@@ -16,8 +25,19 @@ Best regards,
 Yishai
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chulin 033: Shechitah without Blood Coming Out
 
@@ -37,7 +57,19 @@ Sources:
 2. https://www.sefaria.org.il/Chullin.33a.9?lang=bi&p2=Rashba_on_Chullin.33a.5&lang2=bi
 
 
+---
 
+
+_______________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Kama 049: A Pregnant Woman
 
@@ -59,8 +91,19 @@ Sources:
 2. https://www.sefaria.org.il/Rashi_on_Bava_Kamma.49a.7.2?lang=bi&with=Bava%20Kamma&lang2=en#:~:text=%D7%93%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%94%20%D7%93%D7%9E%D7%99%D7%94%20%D7%A4%D7%97%D7%95%D7%AA%D7%99%D7%9F%20%D7%9C%D7%99%D7%9E%D7%9B%D7%A8%20%D7%A9%D7%9E%D7%A1%D7%95%D7%9B%D7%A0%D7%AA%20%D7%94%D7%99%D7%90%20%D7%9C%D7%9E%D7%95%D7%AA%20%D7%91%D7%A6%D7%A2%D7%A8%20%D7%9C%D7%99%D7%93%D7%94
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 005: Dam Mifkad Pakid
 
@@ -93,8 +136,19 @@ Sources:
 1. https://hebrewbooks.org/pdfpager.aspx?req=19918&st=&pgnum=8
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Nazir 00O: Hataras Nezirus
 
@@ -118,8 +172,19 @@ Sources:
 3. https://www.sefaria.org.il/Shulchan_Arukh%2C_Choshen_Mishpat.73.5?lang=bi&with=all&lang2=en#:~:text=%D7%95%D7%90%D7%9D%20%D7%9E%D7%AA%D7%95%D7%9A%20%D7%90%D7%99%D7%9E%D7%AA%20%D7%94%D7%9E%D7%9C%D7%A7%D7%95%D7%AA%20%D7%99%D7%AA%D7%97%D7%A8%D7%98%20%D7%95%D7%99%D7%9E%D7%A6%D7%90%20%D7%A4%D7%AA%D7%97%20%D7%9C%D7%A9%D7%91%D7%95%D7%A2%D7%94%20%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94%20%D7%99%D7%AA%D7%99%D7%A8%D7%95%D7%94%D7%95%20%D7%9C%D7%95
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Pesachim 009: Ein Safeik Motsi mi'Yedei Vadai
 
@@ -144,8 +209,19 @@ Best regards,
 Yishai Rasowsky
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 005: Height of Aron ha'Kodesh
 
@@ -168,8 +244,19 @@ Sources:
 4. https://www.sefaria.org.il/Yoma.72b.4?lang=bi&p2=Rashi_on_Yoma.72b.4.2&lang2=bi
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 005: Lo Yarda Shechinah L'Matah
 
@@ -189,8 +276,19 @@ Sources:
 1. https://hebrewbooks.org/pdfpager.aspx?req=49500&st=&pgnum=15
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 007: Sukah k'Mavoy
 
@@ -223,8 +321,19 @@ Sources:
 2. https://www.sefaria.org.il/Sukkah.7a.4?lang=bi&with=Rashi&lang2=en
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 008: Mishum d'Kevi'i
 
@@ -244,8 +353,19 @@ Sources:
 1. Chochmas Shlomo, Siman 14, Seif Katan 1. I don't have the sefer on hand now. 
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 009: Sechach Higher than 20 Amos
 
@@ -270,8 +390,28 @@ Sources:
 4. https://dafyomi.co.il/sukah/tosfos/su-ts-009.htm#:~:text=%D7%95%D7%A8%D7%91%D7%99%D7%A0%D7%95%20%D7%AA%D7%9D%20%D7%9E%D7%A4%D7%A8%D7%A9%20%D7%93%D7%9C%D7%9E%D7%A2%D7%9C%D7%94%20%D7%9E%D7%A2%D7%A9%D7%A8%D7%99%D7%9D%20%D7%9C%D7%90%20%D7%97%D7%A9%D7%99%D7%91%20%D7%A1%D7%9B%D7%9A%20%D7%A4%D7%A1%D7%95%D7%9C%20%D7%9E%D7%90%D7%97%D7%A8%20%D7%A9%D7%90%D7%99%D7%9F%20%D7%94%D7%A4%D7%A1%D7%95%D7%9C%20%D7%90%D7%9C%D7%90%20%D7%9E%D7%97%D7%9E%D7%AA%20%D7%92%D7%95%D7%91%D7%94
 
 
+---
 
-שה ולמה"ע תמוה קצת, דלמה לא אמר משום שבעינן ד' חוטין בשעת פתיל.  ואולי למד מהקרא על ציצית הכנף פתיל תכלת, אבל עדיין קצת קשה למה חידש ענין ב' כנפים ולא כפשוטו שבעינן ד' חוטין בשעת פתיל.  ואולי טעמו משום שבאמת רק צריך חוט א' לפתיל, וכל דין ד' חוטין רק לענין הגדיל, וכאן הרי כשעושה הגדיל יש ד' חוטין.  וביקשתי לדעת אם נכון הוא זה.  
+
+               דיונים על הדף
+
+
+      הוגש על ידי כולל עיון הדף, ירושלים
+             ראש הכולל: הרב מרדכי קורנפלד
+                      daf@dafyomi.co.il
+
+
+  [הערות ותגובות מקוראים מתקבלות בשמחה]
+________________________________________________________________
+
+
+סוכה יא: כנף בשעת פתיל
+
+
+סענדר קליין  שואל:
+
+
+מה שהעלה הגמ' ריש יא: דבעינן כנף בשעת פתיל ולכן הוי תעשה ולמה"ע תמוה קצת, דלמה לא אמר משום שבעינן ד' חוטין בשעת פתיל.  ואולי למד מהקרא על ציצית הכנף פתיל תכלת, אבל עדיין קצת קשה למה חידש ענין ב' כנפים ולא כפשוטו שבעינן ד' חוטין בשעת פתיל.  ואולי טעמו משום שבאמת רק צריך חוט א' לפתיל, וכל דין ד' חוטין רק לענין הגדיל, וכאן הרי כשעושה הגדיל יש ד' חוטין.  וביקשתי לדעת אם נכון הוא זה.  
 
 
 תודה רבה, בברכת התורה!  
@@ -284,8 +424,19 @@ Sources:
 ישי רזובסקי
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 014: Neser/Pesel of 3 and 4 Tefachim
 
@@ -330,8 +481,19 @@ Sources:
 1. https://www.sefaria.org.il/Sukkah.17b.9?lang=bi&with=Rashi&lang2=en#:~:text=%D7%95%D6%B0%D7%A8%D6%B7%D7%91%20%D7%90%D6%B8%D7%9E%D6%B7%D7%A8%3A%20%D7%91%D6%BC%D6%B5%D7%99%D7%9F%20%D7%9E%D6%B4%D7%9F%20%D7%94%D6%B7%D7%A6%D6%BC%D6%B7%D7%93%20%D7%91%D6%BC%D6%B5%D7%99%D7%9F%20%D7%91%D6%BC%D6%B8%D7%90%D6%B6%D7%9E%D6%B0%D7%A6%D6%B7%D7%A2%20%E2%80%94%20%D7%91%D6%BC%D6%B0%D7%90%D6%B7%D7%A8%D6%B0%D7%91%D6%BC%D6%B7%D7%A2%20%D7%90%D6%B7%D7%9E%D6%BC%D7%95%D6%B9%D7%AA.
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 015: Shesi - Erev
 
@@ -366,8 +528,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 015: Shesi - Erev
 
@@ -394,8 +567,19 @@ Sources:
 4. See  https://dafyomi.co.il/shabbos/halachah/sh-hl-015.htm#:~:text=Minchas%20Shlomo%3A%20However,d%27Ma%27amid%20is%20permitted.
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 020: Tosfos DH ha'Yashen
 
@@ -422,8 +606,19 @@ Sources:
 1. https://www.sefaria.org.il/Ritva_on_Sukkah.10a.2?lang=bi&with=Sukkah&lang2=en
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 020: Tosfos DH ha'Yashen
 
@@ -442,8 +637,19 @@ Yishai Rasowsky
 
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 021: Ma'amad of the Sechach
 
@@ -468,8 +674,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 024: Lavud by Ohel
 
@@ -493,8 +710,19 @@ Yishai
 
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 025: Tirdah of ha'Kones Es ha'Besulah
 
@@ -548,8 +776,19 @@ Sources:
 
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 026: Tefillin Covered by Sudar
 
@@ -572,8 +811,19 @@ Sources:
 4. https://www.sefaria.org.il/Sukkah.26a.14?lang=bi&p2=Rashi_on_Sukkah.26a.14.3&lang2=bi
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 027: Chiyuv to Eat on Chol Hamoed
 
@@ -598,8 +848,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 028: Leaving the Sukah Due to Rain
 
@@ -619,8 +880,19 @@ Sources:
 1. https://www.sefaria.org.il/Shulchan_Arukh%2C_Orach_Chayim.639.7?lang=he&with=Biur%20Halacha&lang2=he#:~:text=%D7%91%D7%92%D7%A9%D7%9E%D7%99%D7%9D%20%D7%9B%D7%99%D7%95%D7%9F%20%D7%A9%D7%94%D7%9D%20%D7%9B%D7%A9%D7%A4%D7%99%D7%9B%D7%AA%20%D7%9B%D7%95%D7%A1%20%D7%A2%D7%9C%20%D7%A4%D7%A0%D7%99%D7%95%20%D7%A9%D7%A8%D7%91%D7%95%20%D7%94%D7%A8%D7%90%D7%94%20%D7%9C%D7%95%20%D7%A9%D7%90%D7%99%D7%A0%D7%95%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%91%D7%A2%D7%91%D7%93%D7%95%D7%AA%D7%95%20%D7%95%D7%94%D7%95%D7%90%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%9B%D7%95%D7%A3%20%D7%A8%D7%91%D7%95%20%D7%9C%D7%A2%D7%91%D7%93%D7%95%20%D7%A9%D7%90%D7%99%D7%9F%20%D7%96%D7%94%20%D7%93%22%D7%90
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 069: v'Asar Lanu Es ha'Arusos
 
@@ -654,8 +926,19 @@ Sources:
 7. https://www.sefaria.org.il/Rashba_on_Ketubot.7b.3?lang=bi#:~:text=%D7%95%D7%94%D7%A8%D7%90%D7%91%22%D7%93%20%D7%96%22%D7%9C%20%D7%A4%D7%99%D7%A8%D7%A9%3A%20%D7%93%D7%97%D7%95%D7%A4%D7%94%20%D7%93%D7%90%D7%95%D7%A8%D7%99%D7%99%D7%AA%D7%90
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 071: Arel
 
@@ -700,8 +983,19 @@ Sources:
 1. https://www.sefaria.org.il/Arukh_HaShulchan%2C_Orach_Chaim.653.4?lang=bi&with=all&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 071: Arel
 
@@ -739,8 +1033,19 @@ Sources:
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 080: Changing of Halachic Shiurim
 
@@ -778,8 +1083,31 @@ f. https://www.sefaria.org.il/Horayot.2a.15?lang=bi&with=Rashi&lang2=en
 g. https://www.dafyomi.co.il/yevamos/insites/ye-dt-077.htm
 
 
+---
 
-על פי נכרים, וברש"י כגון שנים אומרם צריך ושלשה אומרים א צריך
+
+               דיונים על הדף
+
+
+      הוגש על ידי כולל עיון הדף, ירושלים
+             ראש הכולל: הרב מרדכי קורנפלד
+                     dafyomi.co.il
+
+
+  [הערות ותגובות מקוראים מתקבלות בשמחה]
+________________________________________________________________
+
+
+יומא פד: ואין עושין דברים על פי נכרים
+
+
+אברהם יוסף שווארץ  שואל:
+
+
+לכ' כולל עיון הדף
+
+
+פד: ואין עושין דברים על פי נכרים, וברש"י כגון שנים אומרם צריך ושלשה אומרים א צריך
 צ"ע דלעיל מבואר דאף בכה"ג נחשב ספק
 
 
@@ -797,8 +1125,19 @@ g. https://www.dafyomi.co.il/yevamos/insites/ye-dt-077.htm
 1. https://www.sefaria.org.il/Yoma.83a.9?lang=bi&p2=Rashi_on_Yoma.83a.9.1&lang2=bi
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 087: Vidui Me'umad?
 
@@ -832,8 +1171,19 @@ Sources:
 8. https://www.sefaria.org.il/Leviticus.26.1?vhe=Tanach_with_Ta%27amei_Hamikra&lang=he&with=Mishneh%20Torah,%20Foreign%20Worship%20and%20Customs%20of%20the%20Nations&lang2=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 GENERAL 029: Shemoneh Esrei-Last Three Berachos
 
@@ -857,8 +1207,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Menachos 034: Tefilin
 
@@ -892,8 +1253,19 @@ Sources:
 6. https://www.sefaria.org.il/Ibn_Ezra_on_Exodus.13.9.1?lang=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Nedarim 017: Ran DH Shevuah she'Lo Ochal, etc.
 
@@ -919,8 +1291,19 @@ Sources:
 1. https://www.sefaria.org.il/Nedarim.17a.3?lang=bi&with=Tosafot&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Nedarim 017: Ran DH Shevuah she'Lo Ochal, etc.
 
@@ -949,8 +1332,19 @@ Sources:
 1. https://www.sefaria.org.il/Nedarim.17a.3?lang=bi&with=Tosafot&lang2=en
 
 
+---
 
-_
+
+________________________________________________________________
+
+                 THE DAF YOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Pesachim 031: ha'Ochel Terumas Chametz b'Pesach
 
@@ -973,8 +1367,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-_
+
+________________________________________________________________
+
+                 THE DAF YOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Pesachim 031: ha'Ochel Terumas Chametz b'Pesach
 
@@ -1001,8 +1406,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 027: Chiyuv to Eat on Chol Hamoed
 
@@ -1022,8 +1438,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 030: Mitzvah Ha'Bah B'Aveira
 
@@ -1053,8 +1480,19 @@ Sources:
 3. https://www.sefaria.org.il/Shevuot.26b.20?lang=bi&with=Commentary&lang2=en
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 033: Eged Including Esrog
 
@@ -1073,8 +1511,19 @@ Sources:
 1. https://www.sefaria.org.il/Sukkah.34b.4?lang=bi&with=Rashi&lang2=en
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 033: Why is Removing the Berries Considered a Psik Resha?
 
@@ -1114,8 +1563,19 @@ Sources:
 10. According to Tosfos Mutar Min ha'Torah but Asur mid'Rabanan; according to the Aruch Mutar completely.
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 046: Amar Chzikiah Amar R' Yirmiah Mishum Rashbi
 
@@ -1136,8 +1596,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 046: Amar Chzikiah Amar R' Yirmiah Mishum Rashbi
 
@@ -1162,8 +1633,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 050: Chalil
 
@@ -1181,8 +1663,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 070: Children/Servants who are Areylim - Eating Korbonos
 
@@ -1211,8 +1704,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 078: Pregnant Woman Who Converts
 
@@ -1246,8 +1750,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 025: Parhedrin
 
@@ -1268,8 +1783,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 025: Bechor she'Nafal l'Bor
 
@@ -1295,8 +1821,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Menachos 039: Talis of the Tzibur
 
@@ -1333,8 +1870,12 @@ Sources:
 6. https://www.sefaria.org.il/Numbers.25.14?lang=bi&aliyot=0&p2=Ibn_Ezra_on_Numbers.25.14.1&lang2=bi
 
 
+---
 
-nt of the episode is in the back of Chumash Devarim of the Ramban Al ha'Torah. The paragraph begins "Birchani Hashem" [3]. 
+
+st, the question of where to measure the width of the thumb -- either at knuckle which is the widest point (2.4 cm), or nearer to the tip which is narrower (2 cm) -- is found in Tosfos at the bottom of Menachos 41b [1,2]. 
+
+Second, as Rabbi Chavel points out in his edition to the Ramban on Chumash, the Ramban wrote to his son . Typically, the easiest place to find the Ramban's account of the episode is in the back of Chumash Devarim of the Ramban Al ha'Torah. The paragraph begins "Birchani Hashem" [3]. 
 
 Third and finally, you can see Rav Kook's writings in the references below [4,5].
 
@@ -1349,8 +1890,19 @@ References:
 5. https://hebrewbooks.org/pdfpager.aspx?req=26909&st=&pgnum=217&hilite=
 
 
+---
 
-_
+
+________________________________________________________________
+
+                 THE DAF YOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Pesachim 109: Newly Discovered Eggs
 
@@ -1387,8 +1939,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 052: Mashiach Ben Yosef
 
@@ -1426,8 +1989,19 @@ https://hebrewbooks.org/pdfpager.aspx?req=22063&st=&pgnum=379&hilite=
 5. https://www.sefaria.org/Mishneh_Torah%2C_Kings_and_Wars.12.2?lang=he&with=all&lang2=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 062: The Musafim of Shabbos Should (according to Rashi) be Alike
 
@@ -1448,8 +2022,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 066: Takalah
 
@@ -1482,8 +2067,19 @@ References:
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 074: Man on Erev Yom Kipur
 
@@ -1522,8 +2118,19 @@ Sources:
 6. https://www.sefaria.org.il/Yoma.75b.9?vhe=William_Davidson_Edition_-_Vocalized_Aramaic&lang=bi&with=Rashi&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 074: Man on Erev Yom Kipur
 
@@ -1550,8 +2157,19 @@ Notes:
 3.  E.g. cattle meat https://www.sefaria.org.il/Yoma.75a.21?lang=bi&p2=Rashi_on_Yoma.75a.21.1&lang2=bi
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 077: The Lashon Zehoris
 
@@ -1586,8 +2204,19 @@ Yishai Rasowsky
 8. https://dafyomi.co.il/yoma/insites/yo-dt-041.htm
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 078: Asei Sheyesh Bo Kares
 
@@ -1616,8 +2245,19 @@ Sources:
 3. https://www.sefaria.org.il/Mishneh_Torah%2C_Offerings_for_Unintentional_Transgressions.6.5?lang=bi&with=Kessef%20Mishneh&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 078: Asei Sheyesh Bo Kares
 
@@ -1637,8 +2277,19 @@ Sources:
 1. https://www.sefaria.org.il/Sefer_HaMitzvot%2C_Negative_Commandments.196.1?ven=Sefaria_Edition_2021,_Translated_by_Rabbi_Francis_Nataf.&lang=bi&with=all&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 082: Feeding a Pregnant Woman on Yom Kipur
 
@@ -1658,8 +2309,19 @@ Sources:
 https://www.sefaria.org.il/Yoma.83a.15?lang=bi&with=Mishneh%20Torah,%20Forbidden%20Foods&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 083: Tevel vs. Terumah
 
@@ -1686,8 +2348,19 @@ Sources:
 3. See Parshas Derachim https://hebrewbooks.org/pdfpager.aspx?req=30749&st=&pgnum=155&hilite=
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Basra 139: Perek Break
 
@@ -1709,8 +2382,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Berachos 002: Korei vs Kor'in
 
@@ -1731,8 +2415,19 @@ Bivrachah,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 003: 2 Sources to Exclude Deaf and Mute
 
@@ -1758,8 +2453,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 003: Hakhel
 
@@ -1788,8 +2494,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 004: Ma'aseh of Miriam
 
@@ -1813,8 +2530,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 006: Beis Hillel and Beis Shammai - Deeper meaning?
 
@@ -1841,8 +2569,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 006: Why is the gemoro only discussing chigger in bes shamai
 
@@ -1872,8 +2611,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 011: Questions we are not supposed to ask
 
@@ -1896,8 +2646,19 @@ ADDITION:
 Just to add: the Rambam (Avodas Kochavim 2:3) explains the prohibition based on the risk that a person will make errant heretical thoughts about the nature of G-d whilst in the process of contemplate these lofty topics.
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 011: Questions we are not supposed to ask
 
@@ -1918,8 +2679,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 011: Questions we are not supposed to ask
 
@@ -1939,8 +2711,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 015: Tohu
 
@@ -1967,8 +2750,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 009: "Men of stature," who take leave of R' Shimon bar Yochai.
 
@@ -2007,8 +2801,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 018: From Torah, Prophets and Writings, man's wife is from Hashem.
 
@@ -2032,8 +2837,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 025: Limdo Torah and Limdo Chochmah
 
@@ -2053,8 +2869,19 @@ Bivrachah,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 027: Rav Huna and the anonymous woman with seven sons
 
@@ -2073,8 +2900,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Shabbos 030: Mekor that Learning Prevents the Angel of Death
 
@@ -2097,8 +2935,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Shekalim 017: Ein Mazkirin Ma'aseh Nisim
 
@@ -2116,8 +2965,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Shekalim 017: Ein Mazkirin Ma'aseh Nisim
 
@@ -2138,8 +2998,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 007:  Mechalel Shabbos
 
@@ -2160,8 +3031,19 @@ Link:
 https://www.sefaria.org.il/Zohar.2.150b.10?ven=Sefaria_Community_Translation&vhe=New_Torat_Emet_Zohar&lang=bi&vside=Sefaria_Community_Translation|en&with=Translation%20Open&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 014: Arba'ah Nichnesu la'Pardes
 
@@ -2187,8 +3069,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 015: Ben Abuya
 
@@ -2211,8 +3104,19 @@ Warm regards,
 Yishai
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 015: Ben Abuya
 
@@ -2238,8 +3142,19 @@ Warm regards,
 Yishai
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 028: Miriam's Death
 
@@ -2276,8 +3191,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 028: Miriam's Death
 
@@ -2307,8 +3233,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Nedarim 022: Ran on absolving a neder l'chatchilah
 
@@ -2326,8 +3263,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Nedarim 022: Ran on absolving a neder l'chatchilah
 
@@ -2348,8 +3296,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Shekalim 018: Chata'os she'Meisu Ba'aleihen Vadai
 
@@ -2368,8 +3327,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 Sukah 042: Lulav on Shabbos
 
 jacques sueke  asks:
@@ -2389,8 +3359,24 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
-ncept. I will explain. The Koban Mussaf on Shabbos doesn't need the explanation of Aseh Doche in order to give us a understanding why it was OK to bring it. The same HASHEM that doesn't want you to do any of the 39 Melachos, commanded to yes bring the Korban Mussaf. It's not because Aseh Doche. It's done because this is the Tzivui of HASHEM.
+
+__________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi.co.il, http://www.dafyomi.co.il
+________________________________________________________________
+
+Yevamos 004: Aseh Doche Lo Ta'aseh
+
+S Feldinger  asks:
+
+Hello
+
+I struggle to understand the concept. I will explain. The Koban Mussaf on Shabbos doesn't need the explanation of Aseh Doche in order to give us a understanding why it was OK to bring it. The same HASHEM that doesn't want you to do any of the 39 Melachos, commanded to yes bring the Korban Mussaf. It's not because Aseh Doche. It's done because this is the Tzivui of HASHEM.
 
 The Smuchin of Shaatnez and Tzitzs puts the Mitzvah for me into the same category. HASHEM says "No Shaatnez" but at the same time HE says "make yoursef Tzitzis". It's not because Aseh Doche. It's because HASHEM said it. Other Mitzvos which are spread out in the Torah and one Aseh has nothing to do with the Lo Taashe (like Mezora and Hakofas Rosh, the two commandment come from two different angels, one could understand maybe the concept of Aseh Doche. But not by a Semuchin.
 
@@ -2406,8 +3392,23 @@ Yishai Rasowsky
 P.S. I invite you to refer to this link from the Kollel website with the passage of the Tosfos I mentioned: https://dafyomi.co.il/yevamos/tosfos/ye-ts-004.htm#:~:text=%D7%95%D7%90%D7%95%D7%9E%D7%A8%20%D7%A8%22%D7%99%20%D7%93%D7%9E%D7%90%D7%A9%D7%AA,Aseh%5D%20is%20Docheh.
 
 
+---
 
- that learns from rosho to nozir says, "I would have thought that a metzora nozir is not allowed to shave because of the posuk taar lo yaavor berosho, ko mashma lon rosho" 
+
+__________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi.co.il, http://www.dafyomi.co.il
+________________________________________________________________
+
+Yevamos 005: Why Not Quote the Asei by Nazir?
+
+Avrumi Hersh  asks:
+
+5a bottom
+The idoch tanna that learns from rosho to nozir says, "I would have thought that a metzora nozir is not allowed to shave because of the posuk taar lo yaavor berosho, ko mashma lon rosho" 
 
 But lefi the maskonas hagemoro, (that in this special case, we are even doche an asey) Then why doesn't the tanna say a much bigger chiddush, "I would have thought that a metzora nozir is not allowed to shave because of the posuk gadel perah ko mashma lon rosho (that I'm even doche an asey)??
 
@@ -2422,8 +3423,19 @@ Warm regards,
 Yishai
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Berachos 042: Rav Kahane
 
@@ -2454,7 +3466,18 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
+
+________________________________________________________________
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kidushin 080: Yichud
 
@@ -2504,7 +3527,18 @@ I hope this helps!
 Yishai Rasowsky
 
 
+---
 
+
+________________________________________________________________
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kidushin 080: Yichud
 
@@ -2549,8 +3583,19 @@ I hope this helps!
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 010: Rain and Dates
 
@@ -2592,8 +3637,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 010: Rain and Dates
 
@@ -2628,8 +3684,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 026: How can we forbid her to her husband?
 
@@ -2652,8 +3719,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 032: Why did R' Yochanan declare this particular Lav
 
@@ -2675,8 +3753,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 032: Why does the Mishnah discuss sisters
 
@@ -2707,8 +3796,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 033: The Chiyuv is to a separate person
 
@@ -2731,8 +3831,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 033: Shaliach
 
@@ -2759,8 +3870,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 041: How it Feels
 
@@ -2784,8 +3906,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 043: Why does Rashi say SHE is Mochel?
 
@@ -2806,8 +3939,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Basra 002: Hezek Re'iah
 
@@ -2834,8 +3978,19 @@ Sources:
 2. https://www.sefaria.org.il/Mishneh_Torah%2C_Neighbors.2.15?lang=bi&with=Commentary&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 017: Mussaf of Shabbat Rosh Chodesh/Yom Tov
 
@@ -2870,8 +4025,19 @@ Here is a link to wonderful article that I hope you would find insightful:
 https://www.yeshiva.co/midrash/21541
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 033: Muktzeh
 
@@ -2910,8 +4076,19 @@ Sources:
 5. https://www.sefaria.org.il/Beitzah.33a.2?lang=he&with=Rashba&lang2=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 035: Yom Tov Leniencies
 
@@ -2952,8 +4129,19 @@ Sources:
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 035: Yom Tov Leniencies
 
@@ -2981,8 +4169,19 @@ Sources:
 1. https://www.sefaria.org.il/Shabbat.117b.3?lang=he&with=Rashi&lang2=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 035: Kvius Se'udah
 
@@ -3010,8 +4209,19 @@ Sources:
 4. https://www.sefaria.org.il/Berakhot.49b.4?lang=bi&with=Tosafot&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Gitin 036: Shemitah Nowadays
 
@@ -3038,8 +4248,19 @@ Yishai Rasowsky
 1. https://www.sefaria.org.il/Arakhin.32b.16?lang=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 111: Mitzvah to Live in Israel?
 
@@ -3078,8 +4299,19 @@ Sources:
 10. https://www.sefaria.org.il/Hasagot_HaRamban_on_Sefer_HaMitzvot%2C_Positive_Commandments_Omitted_by_Rambam.4.1?lang=bi&with=all&lang2=en#:~:text=%D7%94%D7%99%D7%90%20%D7%9E%D7%A6%D7%95%D7%AA%20%D7%A2%D7%A9%D7%94%20%D7%9C%D7%93%D7%95%D7%A8%D7%95%D7%AA%20%D7%9E%D7%AA%D7%97%D7%99%D7%99%D7%91%20%D7%9B%D7%9C%20%D7%90%D7%97%D7%93%20%D7%9E%D7%9E%D7%A0%D7%95%20%D7%95%D7%90%D7%A4%D7%99%D7%9C%D7%95%20%D7%91%D7%96%D7%9E%D7%9F%20%D7%92%D7%9C%D7%95%D7%AA
 
 
+---
 
-_
+
+________________________________________________________________
+
+                 THE DAF YOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Pesachim 009: Tosfos DH Haynu Tesha Chanuyos
 
@@ -3114,8 +4346,19 @@ Sources:
 2. https://dafyomi.co.il/chulin/points/ch-ps-010.htm#:~:text=4)-,WE%20RELY%20ON%20CHAZAKAH,-(a)
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Rosh Hashanah 002: Sichon
 
@@ -3145,8 +4388,19 @@ Sources:
 1. https://hebrewbooks.org/pdfpager.aspx?req=53759&st=&pgnum=175
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Rosh Hashanah 008: Rabi Meir, Rabi Elazar, and Rabi Shimon - Times of Birth?
 
@@ -3168,8 +4422,19 @@ Sources:
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Rosh Hashanah 009: R' Yehuda on Shemitah
 
@@ -3201,8 +4466,19 @@ Sources:
 10. https://www.sefaria.org.il/Leviticus.25.3
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Rosh Hashanah 011: Mazalos
 
@@ -3238,8 +4514,19 @@ Sources:
 6. https://dafyomi.co.il/rhashanah/tosfos/rh-ts-009.htm#:~:text=%D7%AA%D7%99%D7%9E%D7%94%20%D7%9C%D7%A8%22%D7%AA%2C%20%D7%94%D7%90,to%20Rebbi%20Yishmael)%3F
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 028: leaving the sukkah because of the heat
 
@@ -3256,8 +4543,19 @@ The Kollel replies:
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 030: Taking off Sechach from a Sukah
 
@@ -3278,8 +4576,19 @@ Links:
 1. https://www.sefaria.org.il/Sukkah.30b.1?lang=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bereishis 03: The Trees in the Gan
 
@@ -3301,8 +4610,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bereishis 03: The Trees in the Gan
 
@@ -3328,8 +4648,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chulin 007: Gush Dan
 
@@ -3360,8 +4691,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chulin 007: Gush Dan
 
@@ -3384,8 +4726,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 GENERAL: Ketzos Hachoshen 28:1
 
@@ -3404,8 +4757,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 054: Why is there no problem of Chotei Niskar
 
@@ -3428,8 +4792,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 054: R' Yochanan
 
@@ -3451,8 +4826,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Tamid 032: Priest who offered Incense
 
@@ -3473,8 +4859,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 026: Two brothers married to two sisters
 
@@ -3497,7 +4894,19 @@ Yishai Rasowsky
 
 
 
+---
 
+
+_______________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Kama 087: Katanim and Bechirah.
 
@@ -3524,8 +4933,23 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
-emoro tries to prove shmuel (that you must do chalitza to the one wih the strongest zika) and make a teyuvta to reb yosef (who says that you should not spill mey boro.. I.e. you should not ruin the fresh yevomo from kehuna when you can ruin the spoiled yevomoh, who is already posul for kehuna)
+
+__________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi.co.il, http://www.dafyomi.co.il
+________________________________________________________________
+
+Yevamos 053: How is this a question on reb yosef
+
+Avrumi Hersh  asks:
+
+Daf 53a middle. 
+The gemoro tries to prove shmuel (that you must do chalitza to the one wih the strongest zika) and make a teyuvta to reb yosef (who says that you should not spill mey boro.. I.e. you should not ruin the fresh yevomo from kehuna when you can ruin the spoiled yevomoh, who is already posul for kehuna)
 How is this a teyuvta to reb yosef, maybe reb yosef only said this din when one of the yevomos was already a gerusha or a chalutza from a different marriage. Not when one of the 2 yevomos has a weaker zika, perhaps then he will be modeh to shmuel, and say that the chalitza pesulah consideration supercedes the yishpoch mey boro consideration?
 
 Avrumi Hersh, London england
@@ -3541,8 +4965,22 @@ Yishai Rasowsky
 
 
 
+---
 
-riod on the list
+
+__________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi.co.il, http://www.dafyomi.co.il
+________________________________________________________________
+
+Yevamos 080: status of a woman
+
+Allan katz  asks:
+
+Ailonit, Saris -  why is not having a period on the list
 
 Allan katz, ?????
 ---------------------------
@@ -3553,8 +4991,22 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-y a person be Mekadesh a Shomeres Yavam to prevent her from being taken against her will by the Yavam, if he may do her harm? And would such Kidushin prevent the Yavam from forcing the Yevamah to be his wife, altogether?
+
+______________________________________________________
+
+?               ?THE DAFYOMI DISCUSSION LIST
+
+?   ?brought to you by Kollel Iyun Hadaf of Yerushalayim
+?        ?daf@dafyomi.co.il?, ?http?://?www.dafyomi.co.il
+________________________________________________________________
+
+Yevamos 092: Mekadesh a Shomeres Yabam to Prevent Yibum
+
+Akiva Lane  ?asks?:?
+
+May a person be Mekadesh a Shomeres Yavam to prevent her from being taken against her will by the Yavam, if he may do her harm? And would such Kidushin prevent the Yavam from forcing the Yevamah to be his wife, altogether?
 
 Thank you,
 Akiva Lane
@@ -3570,8 +5022,19 @@ Warm regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Basra 002: Tosfos DH Lefichach
 
@@ -3598,8 +5061,19 @@ Sources:
 2. https://www.sefaria.org.il/Bava_Batra.2a.2?lang=he&with=Tosafot&lang2=he#:~:text=%D7%9E%D7%94%D7%95%20%D7%93%D7%AA%D7%99%D7%9E%D7%90%20%D7%9B%D7%99%D7%95%D7%9F%20%D7%93%D7%A9%D7%94%D7%95%20%D7%91%D7%A8%D7%A9%D7%95%D7%AA%D7%95%20%D7%94%D7%A8%D7%91%D7%94%20%D7%A0%D7%99%D7%94%D7%9E%D7%A0%D7%99%D7%94%20%D7%A9%D7%A2%D7%A9%D7%90%D7%95%D7%94%20%D7%9B%D7%95%D7%9C%D7%94%20%D7%9E%D7%99%D7%92%D7%95%20%D7%93%D7%90%D7%99%D7%91%D7%A2%D7%99%20%D7%90%D7%9E%D7%A8%20%D7%9E%D7%9E%D7%9A%20%D7%9C%D7%A7%D7%97%D7%AA%D7%99%D7%94%20%D7%95%D7%94%D7%99%D7%94%20%D7%A0%D7%90%D7%9E%D7%9F%20%D7%9E%D7%A9%D7%95%D7%9D%20%D7%93%D7%A9%D7%94%D7%95%20%D7%94%D7%A8%D7%91%D7%94
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Basra 002: Tosfos DH Lefichach
 
@@ -3630,6 +5104,19 @@ Sources:
 2. https://www.sefaria.org.il/Bava_Batra.2a.2?lang=he&with=Tosafot&lang2=he#:~:text=%D7%9E%D7%94%D7%95%20%D7%93%D7%AA%D7%99%D7%9E%D7%90%20%D7%9B%D7%99%D7%95%D7%9F%20%D7%93%D7%A9%D7%94%D7%95%20%D7%91%D7%A8%D7%A9%D7%95%D7%AA%D7%95%20%D7%94%D7%A8%D7%91%D7%94%20%D7%A0%D7%99%D7%94%D7%9E%D7%A0%D7%99%D7%94%20%D7%A9%D7%A2%D7%A9%D7%90%D7%95%D7%94%20%D7%9B%D7%95%D7%9C%D7%94%20%D7%9E%D7%99%D7%92%D7%95%20%D7%93%D7%90%D7%99%D7%91%D7%A2%D7%99%20%D7%90%D7%9E%D7%A8%20%D7%9E%D7%9E%D7%9A%20%D7%9C%D7%A7%D7%97%D7%AA%D7%99%D7%94%20%D7%95%D7%94%D7%99%D7%94%20%D7%A0%D7%90%D7%9E%D7%9F%20%D7%9E%D7%A9%D7%95%D7%9D%20%D7%93%D7%A9%D7%94%D7%95%20%D7%94%D7%A8%D7%91%D7%94
 
 
+---
+
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel Rabbi Mordecai Kornfeld
+                     daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bereishis 34: Where was Yaakov?
 
@@ -3652,8 +5139,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 GENERAL: Kishuf
 
@@ -3704,8 +5202,19 @@ IV. WITHIN THE NATURAL ORDER
  Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 GENERAL: Kishuf
 
@@ -3735,8 +5244,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 030: Taking off Sechach from a Sukah
 
@@ -3754,8 +5274,19 @@ Links:
 1. https://www.sefaria.org.il/Sukkah.30b.1?lang=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chagigah 010: Chagiga as a mountain hanging by a hair
 
@@ -3784,6 +5315,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
+
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel Rabbi Mordecai Kornfeld
+                     daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Devarim 03: Until this very day
 
@@ -3813,8 +5357,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Gitin 002: Gevulos of Eretz Yisrael
 
@@ -3838,8 +5393,19 @@ Sources:
 4. https://www.sefaria.org.il/Exodus.10.20?lang=bi&aliyot=0&p2=Rashi_on_Exodus.10.19.2&lang2=bi
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Gitin 036: Shemitah Nowadays
 
@@ -3863,8 +5429,19 @@ Yishai Rasowsky
 1. https://www.sefaria.org.il/Arakhin.32b.16?lang=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 111: Mitzvah to Live in Israel?
 
@@ -3906,8 +5483,19 @@ Sources:
 2. https://hebrewbooks.org/pdfpager.aspx?req=59509&st=&pgnum=253&hilite=
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 111: Mitzvah to Live in Israel?
 
@@ -3942,8 +5530,19 @@ Sources:
 10. https://www.sefaria.org.il/Hasagot_HaRamban_on_Sefer_HaMitzvot%2C_Positive_Commandments_Omitted_by_Rambam.4.1?lang=bi&with=all&lang2=en#:~:text=%D7%94%D7%99%D7%90%20%D7%9E%D7%A6%D7%95%D7%AA%20%D7%A2%D7%A9%D7%94%20%D7%9C%D7%93%D7%95%D7%A8%D7%95%D7%AA%20%D7%9E%D7%AA%D7%97%D7%99%D7%99%D7%91%20%D7%9B%D7%9C%20%D7%90%D7%97%D7%93%20%D7%9E%D7%9E%D7%A0%D7%95%20%D7%95%D7%90%D7%A4%D7%99%D7%9C%D7%95%20%D7%91%D7%96%D7%9E%D7%9F%20%D7%92%D7%9C%D7%95%D7%AA
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 111: Mitzvah to Live in Israel?
 
@@ -3985,8 +5584,19 @@ Sources:
 2. https://hebrewbooks.org/pdfpager.aspx?req=59509&st=&pgnum=253&hilite=
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Nedarim 018: Which is stronger, Shevuah or Neder?
 
@@ -4010,8 +5620,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-_
+
+________________________________________________________________
+
+                 THE DAF YOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Pesachim 009: Tosfos DH Haynu Tesha Chanuyos
 
@@ -4043,8 +5664,19 @@ Sources:
 2. https://dafyomi.co.il/chulin/points/ch-ps-010.htm#:~:text=4)-,WE%20RELY%20ON%20CHAZAKAH,-(a)
 
 
+---
 
-_
+
+________________________________________________________________
+
+                 THE DAF YOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Pesachim 009: Tosfos DH Haynu Tesha Chanuyos
 
@@ -4083,8 +5715,19 @@ Best wishes,
 Yishai
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Rosh Hashanah 023: Distance of Pumbedisa to the Border of Eretz Yisrael
 
@@ -4118,8 +5761,19 @@ Sources:
 3. https://www.sefaria.org.il/Mishnah_Rosh_Hashanah.2.4?lang=he&with=Mishnat%20Eretz%20Yisrael&lang2=he#:~:text=%D7%A1%D7%A4%D7%A7%20%D7%A8%D7%91%20%D7%90%D7%9D%20%D7%A0%D7%99%D7%AA%D7%9F%20%D7%9C%D7%A8%D7%90%D7%95%D7%AA%20%D7%9E%D7%94%D7%A8%D7%99%20%D7%A1%D7%95%D7%A8%D7%99%D7%94%20(%D7%99%D7%94%D7%99%D7%94%20%D7%9E%D7%A7%D7%95%D7%9E%D7%94%20%D7%A9%D7%9C%20%D7%91%D7%99%D7%AA%20%D7%91%D7%9C%D7%AA%D7%99%D7%9F%20%D7%90%D7%A9%D7%A8%20%D7%99%D7%94%D7%99%D7%94)%20%D7%90%D7%AA%20%D7%A4%D7%95%D7%9E%D7%91%D7%93%D7%99%D7%AA%D7%90
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Rosh Hashanah 023: Distance of Pumbedisa to the Border of Eretz Yisrael
 
@@ -4138,8 +5792,20 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-edrin 038: The Min
+
+___________________________________________________________
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Sanhedrin 038: The Min
 
 Norman Hewston   asks:
 
@@ -4171,8 +5837,19 @@ Yishai Rasowsky
 10. https://www.sefaria.org.il/Avodah_Zarah.26b.4?vhe=Wikisource_Talmud_Bavli&lang=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Shabbos 025: Number of Candles on Shabbos
 
@@ -4193,8 +5870,19 @@ Sources:
 1. https://hebrewbooks.org/pdfpager.aspx?req=41190&st=&pgnum=29
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Ta'anis 007: Beauty as a positive or negative?
 
@@ -4225,8 +5913,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Ta'anis 014: Tefilah
 
@@ -4259,8 +5958,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Basra 154: Beraisa Repeated
 
@@ -4281,8 +5991,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 021: Inviting Non-Jews for dinner on Shabbos and Yom Tov
 
@@ -4315,8 +6036,22 @@ Yishai Rasowsky
 *This is not a Psak Halachah*
 
 
+---
 
-uestion on yevamos.
+
+__________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi.co.il, http://www.dafyomi.co.il
+________________________________________________________________
+
+Yevamos 028: How is a Yibum sufficient to make aware of Ervah
+
+Avrumi Hersh  asks:
+
+General question on yevamos.
 Normal when a man Marries a woman, only the 2 of them are affected. He is ossur to her relatives and she is osur to his relatives (after divorce).
 But by yibum, one of the brothers does chalitza,  and all the other brothers become erva to the tzoros and none of them might ever know about this. You might have 2 brothers on opposite sides of the world, one does chalitza (which makes the others into an issur kores acc. To resh lokish on 10b, or an issur lav acc to reb yochonon) and the other brother, unwittingly, performs yibum on another wife.
 Why isn't the torah choshesh over here that 1 persons maaseh, makes the other people an erva without them ever knowing??
@@ -4340,8 +6075,23 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
-says that this mishna which holds of issur kolel, mosif, and bas achas. Has to be reb meir, (not the tanna kamma) cos the tanna kama only says issur mosif and issur kolel, not issur bas achas, but reb meir says you are chayav for hotzooh of shabbos as well, and shabbos comes bevas achas with yom kippur.
+
+__________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi.co.il, http://www.dafyomi.co.il
+________________________________________________________________
+
+Yevamos 034: Why Rebbi Meir only, not the Tana Kama
+
+Avrumi Hersh  asks:
+
+34a top
+The gemoro says that this mishna which holds of issur kolel, mosif, and bas achas. Has to be reb meir, (not the tanna kamma) cos the tanna kama only says issur mosif and issur kolel, not issur bas achas, but reb meir says you are chayav for hotzooh of shabbos as well, and shabbos comes bevas achas with yom kippur.
 
 But the gemoro already said in 33b at the top that if reb yosi holds that your chayav 2 for issur kolel, then obviously he holds 2 by issur bas achas.
 So why do we need reb meir? Why do we need a raye that we hold of issur bas achas? the tanna kama who hold of issur kolel, obviously hold of issur bas achas??
@@ -4360,8 +6110,19 @@ Links:
 1. https://www.sefaria.org.il/Yevamot.34a.1?ven=William_Davidson_Edition_-_English&vhe=William_Davidson_Edition_-_Vocalized_Aramaic&lang=he&p2=Ritva_on_Yevamot.34a.1&vhe2=Chidushei_HaRitva_Yevamot%3B_Lvov,_1861.&lang2=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Gitin 045: Rav Ilish Checking on the Daughters of Rav Nachman
 
@@ -4383,7 +6144,18 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
+
+________________________________________________________________
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kidushin 012: Kiddushin in the Shuk
 
@@ -4408,7 +6180,18 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
+
+________________________________________________________________
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kidushin 050: Giving a Get Willingly
 
@@ -4436,8 +6219,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Megilah 022: Rosh Chodesh Torah Reading
 
@@ -4458,8 +6252,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Megilah 031: Sequence of Amoraim
 
@@ -4479,8 +6284,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 007: Ro'im Es ha'Nega'im
 
@@ -4504,8 +6320,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 009: "Men of stature," who take leave of R' Shimon bar Yochai.
 
@@ -4540,8 +6367,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 009: "Men of stature," who take leave of R' Shimon bar Yochai.
 
@@ -4574,8 +6412,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 009: "Men of stature," who take leave of R' Shimon bar Yochai.
 
@@ -4594,8 +6443,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 014: Death Sentence on Moed
 
@@ -4623,8 +6483,19 @@ Yasher koach. I see you have ruled out option A based on the Yachin. I consulted
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Moed Katan 014: Death Sentence on Moed
 
@@ -4647,8 +6518,19 @@ Warmest regards,
 Yishai
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Ta'anis 023: Choni Ha'Ma'agal
 
@@ -4671,8 +6553,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Makos 006: Rav Zutra question on Rav Nachman
 
@@ -4690,7 +6583,20 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
+
+__________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi.co.il, http://www.dafyomi.co.il
+________________________________________________________________
+
+Yevamos 077: Rashi gives different reason to the question of the gemoro
+
+Avrumi Hersh  asks:
 
 77b
 Rashi 4th wide line.  Rashi says 'arayos yochichu' they are kosher to all Jews besides for krovim.  But the pircha that we are trying to be mochiach from mamzer, is, that mamzer is not rouy lekohol leolom.  I.e. the issur is forever, so the teretz from arayos should be: arayos is only ossur for 3 generations, (even for krovim).  ?
@@ -4705,8 +6611,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 079: Rabbi and the Nesinim
 
@@ -4727,8 +6644,19 @@ Best wishes,
 Yishai
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 079: Rabbi and the Nesinim
 
@@ -4754,8 +6682,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 079: Rabbi and the Nesinim
 
@@ -4779,8 +6718,23 @@ Best wishes,
 Yishai
 
 
+---
 
-tried to pasken like may hava ley lemeebad  rashi explains that he was mattir a woman who was muttar with edim to go back to her husband. But reb huna said that all the mishnayos says we don't pasken that way and the terutzim are dechukim.
+
+______________________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi.co.il, http://www.dafyomi.co.il
+________________________________________________________________
+
+Yevamos 091: Rav Papa is still right!!
+
+Avrumi Hersh  asks:
+
+91b bottom. 
+R popa tried to pasken like may hava ley lemeebad  rashi explains that he was mattir a woman who was muttar with edim to go back to her husband. But reb huna said that all the mishnayos says we don't pasken that way and the terutzim are dechukim.
 But the gemoro said on omud A, that rav paskens like reb shimon that its muttar, and the whole shakla vtarya is only if the chachomim agree to thus concept of may hava ley lemeebad, but the halocha is clear like reb shimon!?
 (This q is especially on rashi, who explains that reb popas psak was talking exactly about this kind of returning a woman who was mutar with edim)
 
@@ -4795,8 +6749,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 101: Why blame the poor son
 
@@ -4829,8 +6794,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 101: Why blame the poor son
 
@@ -4856,8 +6832,24 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-lso learning yevamos asked me this question.  Rav Yehuda amar Rav said that the Mishnah which discuses the age of chalitza for a minor girl and [basically] says her chalitza is meaningless is going like Rebbi Meir.  Rebbi is consistent with his Mishnah when he orders Avdan to check whether a girl is a gedola before doing chalitza.
+
+__________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi.co.il, http://www.dafyomi.co.il
+________________________________________________________________
+
+Yevamos 105: Rebbi
+
+Greg  asks:
+
+Thank you answering my previous questions.
+
+My friend who's also learning yevamos asked me this question.  Rav Yehuda amar Rav said that the Mishnah which discuses the age of chalitza for a minor girl and [basically] says her chalitza is meaningless is going like Rebbi Meir.  Rebbi is consistent with his Mishnah when he orders Avdan to check whether a girl is a gedola before doing chalitza.
 
 However, Rebbi changes his opinion after he hears from Rebbi Yishmael bi Rebbi Yosi that Rebbi Yosi holds that a girl can even be a ketana to do chalitza.
 
@@ -4884,8 +6876,20 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-__________________
+
+)?
+_________________________________________________________________
+
+?                 ?THE DAFYOMI DISCUSSION LIST
+
+?      ?brought to you by Kollel Iyun Hadaf of Yerushalayim
+?             ?Rosh Kollel?: ?Rabbi Mordecai Kornfeld
+?                      ?daf@dafyomi.co.il
+
+? [?REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL?]?
+________________________________________________________________
 
 Yoma 008: Nafka Leih mi-Metzach Mitzcho
 
@@ -4903,7 +6907,18 @@ Best wishes,
 Yishai
 
 
+---
 
+
+________________________________________________________________
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kidushin 080: Yichud
 
@@ -4945,8 +6960,19 @@ Best regards,
 Yishai
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      ask@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 005: Seems like a redundancy
 
@@ -4976,8 +7002,20 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-edrin 038: Matat
+
+___________________________________________________________
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Sanhedrin 038: Matat
 
 Davic1  asks:
 
@@ -5007,8 +7045,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 078: Safek Mamzer
 
@@ -5040,8 +7089,20 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
-__________________
+
+)?
+_________________________________________________________________
+
+?                 ?THE DAFYOMI DISCUSSION LIST
+
+?      ?brought to you by Kollel Iyun Hadaf of Yerushalayim
+?             ?Rosh Kollel?: ?Rabbi Mordecai Kornfeld
+?                      ?daf@dafyomi.co.il
+
+? [?REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL?]?
+________________________________________________________________
 
 Yevamos 102: Two pairs of Shoes
 
@@ -5076,8 +7137,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 121: So what? He survived
 
@@ -5099,8 +7171,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Berachos 037: Machlokes if Truknin is Chayav in Chalah
 
@@ -5118,6 +7201,19 @@ e) Only if baked as Matzah
 6. (c)
 
 
+---
+
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel Rabbi Mordecai Kornfeld
+                     daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bereishis 02: Torah to Mankind
 
@@ -5164,8 +7260,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 030: Taking off Sechach from a Sukah
 
@@ -5186,8 +7293,19 @@ Links:
 1. https://www.sefaria.org.il/Sukkah.30b.1?lang=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Gitin 036: Shemitah Nowadays
 
@@ -5226,7 +7344,19 @@ Sources:
 5. See Rabeinu Tam (Gitin 36 and Erchin 32)
 
 
+---
 
+
+_______________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Kama 046: Holchin Achar ha'Rov
 
@@ -5260,7 +7390,19 @@ Best wishes,
 Yishai
 
 
+---
 
+
+_______________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Kama 046: Holchin Achar ha'Rov
 
@@ -5288,7 +7430,18 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
+
+________________________________________________________________
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kidushin 069: Stealing is permitted??
 
@@ -5320,8 +7473,19 @@ Links:
 1. https://hebrewbooks.org/pdfpager.aspx?req=65164&st=&pgnum=193&hilite=
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 014: Addition to Mishnah
 
@@ -5341,8 +7505,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 GENERAL: Chazakah and learning 4 times to make a kinyan
 
@@ -5375,8 +7550,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Nedarim 018: Why is Rebbi Zeira Rejected?
 
@@ -5421,8 +7607,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Rosh Hashanah 003: Jewish Kings vs. Non-Jewish Kings
 
@@ -5461,8 +7658,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Shabbos 021: Galus Chashmonaim?
 
@@ -5483,8 +7691,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 GENERAL: The nature of a chakira
 
@@ -5520,8 +7739,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Ta'anis 013: Why is a special Avel allowed to wash the Entire week
 
@@ -5550,8 +7780,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Ta'anis 018: Why were both brothers killed
 
@@ -5580,8 +7821,19 @@ Links:
 2. https://www.sefaria.org.il/Rashi_on_Bava_Batra.10b.6.2?lang=bi&with=all&lang2=en#:~:text=%D7%95%D7%A2%D7%9E%D7%93%D7%95%20%D7%94%D7%90%D7%97%D7%99%27%20%D7%94%D7%9C%D7%9C%D7%95%20%D7%95%D7%90%D7%9E%D7%A8%D7%95%20%D7%9E%D7%94%20%D7%9C%D7%9B%D7%9D%20%D7%A2%D7%9C%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20%D7%90%D7%A0%D7%95%20%D7%94%D7%A8%D7%92%D7%A0%D7%95%D7%94
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Ta'anis 023: How does the Gemara know the story if it was kept secret
 
@@ -5605,8 +7857,19 @@ Links:
 1. https://hebrewbooks.org/pdfpager.aspx?req=7043&st=&pgnum=45&hilite=
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 GENERAL: No Teiku in Yerushalmi
 
@@ -5633,8 +7896,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 004: Ro'in
 
@@ -5666,8 +7940,19 @@ Sources:
 1. https://www.sefaria.org/Sukkah.4b.13?lang=he&with=Rashi&lang2=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 004: Ro'in
 
@@ -5699,8 +7984,19 @@ Sources:
 1. 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 006: Kovod ha'Meis
 
@@ -5736,8 +8032,19 @@ Sources:
 2. https://www.sefaria.org.il/Shulchan_Arukh%2C_Yoreh_De'ah.357.1?lang=bi&with=Commentary&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 006: Kovod ha'Meis
 
@@ -5787,8 +8094,19 @@ Sources:
 1. https://hebrewbooks.org/pdfpager.aspx?req=41324&st=&pgnum=41&hilite=
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 006: Kovod ha'Meis
 
@@ -5813,8 +8131,19 @@ Sources:
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 011: Gemara's Attitude to Beit Shamai
 
@@ -5872,8 +8201,19 @@ Sources:
 5. https://www.sefaria.org.il/Vayikra_Rabbah.13.3?vhe=Midrash_Rabbah_--_TE&lang=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 011: Gemara's Attitude to Beit Shamai
 
@@ -5898,8 +8238,19 @@ Sources:
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 011: Salting Meat For Cooking on Yom Tov
 
@@ -5936,8 +8287,19 @@ Sources:
 2. https://www.sefaria.org/Mishnah_Berurah.500.22?lang=bi&with=all&lang2=en#:~:text=%D7%95%D7%90%D7%A2%22%D7%A4%20%D7%A9%D7%94%D7%95%D7%90%20%D7%9E%D7%95%D7%A1%D7%99%D7%A3%20%D7%A7%D7%A6%D7%AA%20%D7%98%D7%A8%D7%97%D7%90%20%D7%A9%D7%94%D7%A8%D7%99%20%D7%A6%D7%A8%D7%99%D7%9A%20%D7%9C%D7%94%D7%A4%D7%9A%20%D7%9B%D7%9C%20%D7%97%D7%AA%D7%99%D7%9B%D7%94%20%D7%95%D7%97%D7%AA%D7%99%D7%9B%D7%94%20%D7%91%D7%A4%22%D7%A2%20%D7%9B%D7%93%D7%99%20%D7%9C%D7%9E%D7%95%D7%9C%D7%97%D7%9D%20%D7%91%D7%A6%D7%93%20%D7%94%D7%A9%D7%A0%D7%99%20%D7%9E%22%D7%9E%20%D7%9B%D7%99%D7%95%D7%9F%20%D7%93%D7%9E%D7%9F%20%D7%94%D7%AA%D7%95%D7%A8%D7%94%20%D7%90%D7%99%D7%9F%20%D7%A2%D7%99%D7%91%D7%95%D7%93%20%D7%91%D7%90%D7%95%D7%9B%D7%9C%D7%99%D7%9F%20%D7%9B%D7%9E%D7%95%20%D7%A9%D7%9B%D7%AA%D7%91%D7%A0%D7%95%20%D7%9C%D7%A2%D7%99%D7%9C%20%D7%91%D7%A1%D7%99%D7%9E%D7%9F%20%D7%A9%D7%9B%22%D7%90%20%D7%94%D7%A7%D7%99%D7%9C%D7%95%20%D7%97%D7%9B%D7%9E%D7%99%D7%9D%20%D7%9C%D7%9E%D7%9C%D7%95%D7%97%20%D7%91%D7%91%D7%AA%20%D7%90%D7%97%D7%AA%20%D7%90%D7%9D%20%D7%97%D7%95%D7%A9%D7%A9%20%D7%A9%D7%9E%D7%90%20%D7%99%D7%A1%D7%A8%D7%99%D7%97%20%D7%94%D7%91%D7%A9%D7%A8%3A
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 012: Beis Shamai in the English Charts
 
@@ -5970,8 +8332,19 @@ Yishai Rasowsky
 +----------------------------------+-------------+--------------+-------------+--------------+-------------+--------------+
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 012: Bringing Matanos to a Kohen
 
@@ -5999,8 +8372,19 @@ Sources:
 4. See Rambam Hilchos Shabbos 23:14
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 017: Shitas Rebbi - Dovor Hamuter Lo
 
@@ -6036,8 +8420,19 @@ Sources:
 1. https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.528.1?lang=bi&p2=Mishnah_Berurah.528.1&lang2=bi
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 017: Shitas Rebbi - Dovor Hamuter Lo
 
@@ -6087,8 +8482,19 @@ Sources:
 4. https://www.sefaria.org/Tosafot_on_Beitzah.12a.8.1?lang=he&with=all&lang2=he
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 017: Shitas Rebbi - Dovor Hamuter Lo
 
@@ -6107,8 +8513,19 @@ Best wishes for Chag Sameach!
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 017: Mussaf of Shabbat Rosh Chodesh/Yom Tov
 
@@ -6138,8 +8555,19 @@ Sources:
 4. https://www.sefaria.org.il/Berakhot.49a.8-9?vhe=William_Davidson_Edition_-_Vocalized_Aramaic&lang=he&with=Commentary&lang2=he#:~:text=%D7%90%D6%B5%D7%99%D7%AA%D6%B4%D7%99%D7%91%D6%B5%D7%99%D7%94%D6%BC%20%D7%9C%D6%B5%D7%95%D6%B4%D7%99%20%D7%9C%D6%B0%D7%A8%D6%B7%D7%91%D6%BC%D6%B4%D7%99%2C%20%D7%B4%D7%A2%D6%B7%D7%9C,%D7%93%D6%BC%D6%B0%D7%A7%D6%B7%D7%93%D6%BC%D6%B0%D7%A9%D7%81%D6%B4%D7%99%D7%A0%D6%B0%D7%94%D7%95%D6%BC%20%D7%9C%D6%B0%D7%A8%D6%B8%D7%90%D7%A9%D7%81%D6%B5%D7%99%20%D7%97%D6%B3%D7%93%D6%B8%D7%A9%D7%81%D6%B4%D7%99%D7%9D.
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 019: Bal Te'acher
 
@@ -6158,8 +8586,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 023: Putting light out on Yom Tov
 
@@ -6184,8 +8623,19 @@ Sources:
 3. https://www.sefaria.org/Beitzah.22a.8?lang=he&p2=Shita_Mekubetzet_on_Beitzah.22a.4&lang2=he#:~:text=%D7%9C%D7%9B%D7%91%D7%95%D7%AA%20%D7%95%D7%9C%D7%90%20%D7%A0%D7%98%D7%A8%D7%99%D7%97%D7%A0%D7%95-,%D7%9C%D7%A9%D7%9E%D7%A9%20%D7%9E%D7%98%D7%AA%D7%95%20%D7%91%D7%91%D7%99%D7%AA%20%D7%90%D7%97%D7%A8,-%D7%9C%D7%A4%D7%99%20%D7%A9%D7%90%D7%99%D7%9F%20%D7%9E%D7%93%D7%A7%D7%93%D7%A7%D7%99%D7%9F
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 023: Child Becoming Tamei
 
@@ -6208,8 +8658,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 032: Bavli Yichus
 
@@ -6242,8 +8703,19 @@ Sources:
 3. https://www.sefaria.org.il/Beitzah.32b.3?lang=bi&with=all&lang2=en
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Beitzah 032: Bavli Yichus
 
@@ -6266,8 +8738,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 GENERAL: Kittel
 
@@ -6285,8 +8768,20 @@ Gemar Chasimah Tovah!
 Yishai Rasowsky
 
 
+---
 
-__
+
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 026: Tefillin Covered by Sudar
 
@@ -6318,8 +8813,19 @@ Sources:
 1. https://www.sefaria.org.il/Tamid.27a.17?vhe=Wikisource_Talmud_Bavli&lang=he&with=Commentary%20of%20the%20Rosh&lang2=he
 
 
+---
 
-_
+
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sukah 027: Chiyuv to Eat on Chol Hamoed
 
@@ -6339,8 +8845,19 @@ Best wishes,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yevamos 070: Children/Servants who are Areylim - Eating Korbonos
 
@@ -6384,8 +8901,19 @@ Sources:
 5. https://www.sefaria.org.il/Mishneh_Torah%2C_Sacrificial_Procedure.10.9?lang=he&p2=Ma%27asai_LaMelekh_on_Mishneh_Torah%2C_Sacrificial_Procedure.10.9.1&lang2=he#:~:text=%D7%95%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%20%D7%A8%D7%99%D7%A9%20%D7%A4%D7%A8%D7%A7%20%D7%94%D7%A2%D7%A8%D7%9C%20%D7%A7%D7%93%D7%A9%D7%99%D7%9D%20%D7%9E%D7%94%D7%95%20%D7%A9%D7%99%D7%94%D7%90%20%D7%90%D7%A1%D7%95%D7%A8%D7%99%D7%9D%20%D7%91%D7%A2%D7%A8%D7%9C%20%D7%9C%D7%9C%D7%9E%D7%93%20%D7%9E%D7%A4%D7%A1%D7%97%20%D7%90%D7%99%20%D7%90%D7%AA%D7%94%20%D7%99%D7%9B%D7%95%D7%9C%20%D7%A9%D7%90%D7%99%D7%9F%20%D7%91%D7%95%20%D7%A9%D7%91%D7%99%D7%A8%D7%AA%20%D7%A2%D7%A6%D7%9D
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chulin 059: Kosher Foul
 
@@ -6412,8 +8940,20 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
-edrin 037: bi'Shvili Nivrah ha'Olam
+
+___________________________________________________________
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Sanhedrin 037: bi'Shvili Nivrah ha'Olam
 
 Yisrael Rutman  asks:
 
@@ -6436,8 +8976,24 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
- Eish b'Ru'ach Metzuyah that damaged a Nochri or the property of a Nochri.
+
+___________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi. co. il, http://www. dafyomi. co. il
+________________________________________________________________
+
+Bava Kama 037: Nezikin to property of Nochrim
+
+EZ Gross  asked: 
+
+Hi
+
+1. What's the Din of Eish b'Ru'ach Metzuyah that damaged a Nochri or the property of a Nochri.
 
 2.And is there a difference if the property of the Nochri was Tamun?
 
@@ -6463,8 +9019,24 @@ Yishai Rasowsky
 
 
 
+---
 
-en a Nochri and a Ger Toshav when it comes to Nezikin or death?
+
+___________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi. co. il, http://www. dafyomi. co. il
+________________________________________________________________
+
+Bava Kama 087: Nezikin to Nochrim
+
+EZ Gross  asked: 
+
+Hi
+
+5. Is there any difference between a Nochri and a Ger Toshav when it comes to Nezikin or death?
 including Tza'ar, Sheves, etc.?
 
 Thanks you so much for all your help
@@ -6488,8 +9060,24 @@ Moreover, the Torah (Bamidbar 35:15), the Mishnah and Gemara (Makos 8b), and the
 On the other side of the coin, the Minchas Chinuch (410:1 DH she'Nitzavu) cites a Machlokess reagrding whether there is a difference between an Akum and Ger Toshav when they are the victims of murder at the hands of a Jew who kills him b'Shogeg. Rambam (ibid. Halachah 3) writes that the Jew is *exiled* to the Ir Miklat if he kills a Ger Toshav b'Shogeg. The Rahamach agrees with the Rambam. The Ra'avad disagrees, as does the Kesef Mishnah who even maintains that the Girsa in the Rambam must be a mistake.
 
 
+---
 
-en a Nochri and a Ger Toshav when it comes to Nezikin or death?
+
+___________________________________________________
+
+               THE DAFYOMI DISCUSSION LIST
+
+   brought to you by Kollel Iyun Hadaf of Yerushalayim
+        daf@dafyomi. co. il, http://www. dafyomi. co. il
+________________________________________________________________
+
+Bava Kama 087: Nezikin to Nochrim
+
+EZ Gross  asked: 
+
+Hi
+
+5. Is there any difference between a Nochri and a Ger Toshav when it comes to Nezikin or death?
 including Tza'ar, Sheves, etc.?
 
 Thanks you so much for all your help
@@ -6504,8 +9092,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kerisus 000: Teshuvah for Chiyuv Kares
 
@@ -6529,8 +9128,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Kesuvos 107: Mezonos for a Woman Who Claims She is Divorced
 
@@ -6553,8 +9163,19 @@ Yishai Rasowsky
 1. This is a Mishnah in the beginning of the sixth Perek of Shevuos. It appears several places in Shas: Kesubos 108b; Bava Kama 35b; Bava Metzia 5a; Bava Metzia 100b; Shevuos 38b -- the location of the Mishnah; and Shevuos 40a.
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Nedarim 023: Vows vs. Contract, Teshuvah For Violating a Vow
 
@@ -6585,8 +9206,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Nedarim 023: Vows vs. Contract, Teshuvah For Violating a Vow
 
@@ -6611,8 +9243,12 @@ Yishai Rasowsky
 
 
 
+---
 
- and until today -- all point to one concept.  
+
+, 
+He is currently studying for Semicha in איסור והיתר. 
+Rabbi Cohn is also currently writing his first book titled "The Golden Calf Phenomenon" about making sense of multiple stories in The Torah and Nevi'im, showing how every instance of failure, -- starting from Adam HaRishon, to the עגל at הר סיני, Yeravam's עגלים,  David and Batsheva, The חורבן of ירושלים, Jesus, Shabbetai Zvi, and until today -- all point to one concept.  
 He is am also fascinated by the Gemara's interpretation of  תנ"ך, and how it compares with the Kabbalah's interpretation, namely, the Kabbalah of the Ramchal. 
 Rabbi Cohn also wrote an unpublished essay about Jewish astrology. 
 (Please include header and footer when redistributing this material.)
@@ -6648,8 +9284,21 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
-edarim 031: Nochrim garlic eaters?
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kol Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Nedarim 031: Nochrim garlic eaters?
 
 Avrumi Hersh  asks:
 
@@ -6673,8 +9322,21 @@ Yishai Rasowsky
 
 
 
+---
 
-edarim 039: Source for Bikur Cholim
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kol Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Nedarim 039: Source for Bikur Cholim
 
 Daniel Gray  asks:
 
@@ -6716,8 +9378,21 @@ Yishai Rasowsky
 
 
 
+---
 
-edarim 043: Lashon "Noder"
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kol Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Nedarim 043: Lashon "Noder"
 
 Menachem Weiman  asks:
 
@@ -6734,8 +9409,21 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
-edarim 043: Lashon "Noder"
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kol Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Nedarim 043: Lashon "Noder"
 
 Menachem Weiman  asks:
 
@@ -6757,8 +9445,19 @@ Yishai Rasowsky
 
 
 
+---
 
-_
+
+________________________________________________________________
+
+                 THE DAF YOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Pesachim 003: Killing an Arami
 
@@ -6786,8 +9485,19 @@ B) Some suggest that the gentile was guilty of "stealing" from the Jewish member
 C) As I alluded to in the previous message, not all Rishonim agree to the premise that a gentile himself is violating the law of "Toshav v'Sachir Lo Yochal Bo" when he eats from a Korban Pesach. According to some, it is only the Jew who is violating that Mitzvah. In that case it would be debatable whether the Jewish people could take the life of a gentile, in order to facilitate the Jews' observance of the this law. 
 
 
+---
 
-_
+
+________________________________________________________________
+
+                 THE DAF YOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Pesachim 003: Killing an Arami
 
@@ -6810,8 +9520,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 031: Avodas ha'Yom b'Vigdei Butz
 
@@ -6848,8 +9569,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Basra 31a: My fathers' or his fathers'?
 
@@ -6876,6 +9608,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
+
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel Rabbi Mordecai Kornfeld
+                     daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bereishis 001: Food Permitted to Adam Ha'Rishon
 
@@ -6912,6 +9657,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
+
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel Rabbi Mordecai Kornfeld
+                     daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bereishis 001: Food Permitted to Adam Ha'Rishon
 
@@ -6948,8 +9706,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Megilah 020: Different order between the Mishnah and Gemara
 
@@ -6976,8 +9745,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      ask@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Nazir 009: Beis shammai should make no distinction
 
@@ -7001,8 +9781,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Rosh Hashanah 011: Birth of Yitzchak
 
@@ -7021,8 +9812,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Sotah 010: Avshalom
 
@@ -7046,8 +9848,12 @@ Yishai Rasowsky
 
 
 
+---
 
-Chavrusa, R' Tzvi Lesman, pointed out that in Makos 24a Chazal recount how various leaders tried to "reduce" the vast number of specific Torah laws -- 613 -- down to a smaller number of simpler, more basic guidelines. For example, David reduced them down to 11, Yeshayau down to 6, Michah down to 3, etc. 
+
+ to deliver a Vaad. Therefore I assume that this reply was time sensitive. So I feel remiss for not writing to you sooner. I hope that your Vaad went well.
+Chazal seem to have been sensitive to the issue of failing to see the forest for the trees, and they express the danger of losing track of the bigger picture if one spends great effort focusing on the numerous finer details. 
+My Chavrusa, R' Tzvi Lesman, pointed out that in Makos 24a Chazal recount how various leaders tried to "reduce" the vast number of specific Torah laws -- 613 -- down to a smaller number of simpler, more basic guidelines. For example, David reduced them down to 11, Yeshayau down to 6, Michah down to 3, etc. 
 This could be understood as expressing the idea that it is easier for a person to manage a brief list of principles that are more general, i.e. the forest, rather than try to keep track of hundreds of applications, i.e. the trees. This may, however, not be the understanding of Rashi, since he explains (DH v'He'emidan) the reason why the number of laws was reduced: Because the previous generations were more righteous than the later generations, and if the latter individuals would try to keep all of the laws they would not succeed; therefore they were given a shorter list of guidelines so that their task should be more manageable. So, it might be argued that this concern is different than missing the forest for the trees; since the latter usually refers to the understanding a subject matter, rather than the performance of a great number of tasks.  
 Perhaps even more relevant, there are additional sources in Chazal which indicate that the act of study in particular should first be done with an emphasis on the broad overview, and only subsequently to focus on individual details. One is in Shabbos 63a, which says that a person should first learn a lot of material, and only subsequently think into it. Rashi (DH d'Ligmar Inish and DH v'Hadar Lisbar) explains this to mean that one should absorb the content from his teacher, even without understanding the rationale behind it, and only subsequently should he analyze the reasons behind the teaching. 
 Another statement of Chazal on this very subject is found in Avodah Zarah 19a. There Rava makes the point that a person should first learn the material and only later contemplate it. Rashi (DH Yilmad Adam and DH v'Achar Kach Yehgeh) explains this to mean that a student should first be fluent in the whole teaching, and only later start to make comparisions and raise challenges. 
@@ -7062,8 +9868,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Avodah Zarah 012: Origins of the New Testament
 
@@ -7092,6 +9909,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
+
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel Rabbi Mordecai Kornfeld
+                     daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bereishis 001: Food Permitted to Adam Ha'Rishon
 
@@ -7133,8 +9963,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Bava Metzia 038: Normal/Abnormal Decline
 
@@ -7160,8 +10001,21 @@ Yishai Rasowsky
 
 
 
+---
 
-edarim 064: Segulos vis a vis whom is Nechshav k'Mes
+
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kol Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Nedarim 064: Segulos vis a vis whom is Nechshav k'Mes
 
 H David Levine  asks:
 
@@ -7189,8 +10043,19 @@ Yishai Rasowsky
 
 
 
+---
 
-_
+
+________________________________________________________________
+
+                 THE DAF YOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Pesachim 117: Yetzias Mitzrayim in Kiddush
 
@@ -7212,8 +10077,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 036: The Zevach stands in the north side facing the west
 
@@ -7240,8 +10116,19 @@ I hope this helps!
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 036: The Zevach stands in the north side facing the west
 
@@ -7264,8 +10151,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 038: Ein Adam Noge'a b'Muchan l'Chavero
 
@@ -7286,8 +10184,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Yoma 038: Hu Yalitz
 
@@ -7309,8 +10218,19 @@ Yishai Rasowsky
 
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Chulin 059: Kosher Foul
 
@@ -7334,8 +10254,19 @@ Warmest regards,
 Yishai Rasowsky
 
 
+---
 
 
+________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
 
 Menachos 053: Curtains
 
@@ -7363,5 +10294,7 @@ Warmest regards,
 Yishai Rasowsky
 
 
+
+---
 
 
