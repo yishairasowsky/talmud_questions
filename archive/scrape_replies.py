@@ -1,3 +1,4 @@
+import markdown
 import os
 root = os.getcwd()
 root = os.path.join(root, 'replies')
@@ -41,12 +42,14 @@ for file in files:
             my_reply = text[reply_start:].lstrip()
             my_reply = my_reply.replace("\n", "\n\n")
             my_reply = my_reply.replace("\n\n", "\n")
-            reply = '\n\n---\n## ' + text[second_line:email_start - 1] + text[email_finish + 1:asker_finish + 1] + '\n\n\n```' + text[asker_finish:question_finish] + '```' + '\n\n\n\nThe Kollel replies:\n\n\n\n' + '```\n' + my_reply + '\n```\n\n\n\n\n\n'
+            reply = '\n\n---\n## ' + text[second_line:email_start - 1] + text[email_finish + 1:asker_finish + 1] + '\n\n\n\n\n```\n\n' + text[asker_finish:question_finish] + '\n\n```\n\n' + '\n\n\n\nThe Kollel replies:\n\n\n\n' + '\n\n```\n\n\n' + my_reply + '\n\n\n```\n\n\n\n\n\n\n\n'
             replies.append(reply)
     except Exception as e:
         print(e)
         continue            
     
-with open("sefer.md", "w") as f:
-    for reply in replies[:50]:
+with open("README.md", "w") as f:
+    for reply in replies[:]:
         f.write(reply)
+        # html_text = markdown.markdown(reply)
+        # f.write(html_text)
