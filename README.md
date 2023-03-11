@@ -1,4 +1,8 @@
-
+Selected queries and replies from 
+THE DAFYOMI DISCUSSION LIST
+brought to you by Kollel Iyun Hadaf of Yerushalayim
+Rosh Kollel: Rabbi Mordecai Kornfeld
+daf@dafyomi.co.il
 
 ---
 ## Beitzah 028: Ein Mashgichin v'Chaf Moznayim
@@ -11,11 +15,9 @@ Avraham Sacks asks:
 
 
 ```
-
 Why do the Chachamim use the loshon "Ein Mashgichin" as opposed to "can not use"
 
 Avraham Sacks, Ramat Beit Shemesh
-
 ```
 
 
@@ -55,11 +57,9 @@ Moshe Aziz asks:
 
 
 ```
-
 how is it possible to slaughter an animal without blood coming out?
 
 Moshe Aziz, United States
-
 ```
 
 
@@ -101,11 +101,9 @@ eli turkel asks:
 
 
 ```
-
 according to various explanations given would the halacha change given that in modern days the danger of a mother dying in childbirth is very small
 
 eli turkel, raanana israel
-
 ```
 
 
@@ -149,7 +147,6 @@ Meir Gerber asks:
 
 
 ```
-
 On 5b in the sugya of dam mifkad pakad.
 What exactly is the physical metzious as we understand it medically today.
 
@@ -165,7 +162,6 @@ How would this apply in the current scenario?
 Thank you.
 
 Meir Gerber, United States
-
 ```
 
 
@@ -208,7 +204,6 @@ Jasper Pirasteh asks:
 
 
 ```
-
 I'm wondering where to turn for sources on the two îäìëéí regarding what Kesuvim are -- i.e., the essential difference between the two parts of Nach?
 
 I recall seeing an Abravanel, among others, in Rav A. Lopiansky's Likut Yesodei Ha'Torah that Kesuvim are authored by Nevi'im but Ru'ach ha'Kodesh (i.e., awake), not Al Pi full Nevuah (i.e., entranced, as expicated according to the Rambam's elaboration in the 7th Chapter of Hilchos Yesodei Ha'torah.)j
@@ -218,7 +213,6 @@ The other Mehalech (R"nu Bachye, perhaps?) I recall seeing recounted somewhere '
 Might you help me lay forth the Masoretic sources for these two conceptions of Kesuvim among our Rishonim?
 
 Jasper Pirasteh, Passaic, NJ, USA
-
 ```
 
 
@@ -267,11 +261,9 @@ Paul Davidowitz asks:
 
 
 ```
-
 If a nazir drinks wine after being given an azhara, can he subsequently be matir his neder (by going to a chacham and expressing charata) -- and thus avoid punishment?
 
 Paul Davidowitz, Long Beach
-
 ```
 
 
@@ -317,7 +309,6 @@ Soheil Zaman asks:
 
 
 ```
-
 Rava says the neima achaltei (the fact the chulda could have eaten chametz) is not a taina because Ein safeik motsi midi vadai.
 
 But the chulda eating the chametz is a rov and we have a klal ein heilach achar rov.
@@ -329,7 +320,6 @@ By the fact the Gemara brings chaveir sh'meis means to me that chulda and chavei
 And we know a chulda is not a bar das and acts exclusvly through nature. So then why isn't neima achaltei a good taina?
 
 Soheil Zaman, United States
-
 ```
 
 
@@ -368,15 +358,13 @@ Aaron Shemtob asks:
 
 
 ```
-
 Shalom rabbi
 Hope all is well. The Gemarah says that a Shevuat Alah is where the Kohen says:
 Mashbiani Alayich she'Lo Nitmeis v'Im Nitmeis Yavo'u Bich
 
 My question is did the woman repeat the swear of the Kohen and say Ani Mashbiah etc. or did she just answer Amen to him? Because really åäùáéò is binyan Hifil which is causative meaning he caused her to swear implying that she actually uttered the swear. 
 Thank you, miss you
-Aaron 
-
+Aaron
 ```
 
 
@@ -418,11 +406,9 @@ Sholem asks:
 
 
 ```
-
 The Gemoroh takes for granted that the height of the Oroin was 9 tefochim.  Why does not ask from Yumoh (72b) where the Gemoroh understands that the Oroin was 10 and according to another opinion was 11?
 
-Sholem, UK  
-
+Sholem, UK
 ```
 
 
@@ -467,11 +453,9 @@ Yisroel asks:
 
 
 ```
-
 According to Rabbi Yehuda that the aron was only 8 1/2 tefachim tall, how do we understand the passuk of v'Dibarti Itcha me'Al ha'Kapores when me'Olam Lo Yardah Shechinah l'Matah? Even Rabbi Yehuda agrees that in order to be considered a separate domain it must be at least 10 tefachim?
 
-Yisroel, United States  
-
+Yisroel, United States
 ```
 
 
@@ -513,7 +497,6 @@ Moshe Reinitz asks:
 
 
 ```
-
 Sholom Aleichem:
 
 Daf Zayin Umud Aleph Mes' Sukah
@@ -528,8 +511,7 @@ But Rav Yehudah only says Tefach?
 
 Am I missing something over here?
 
-M U  Reinitz  
-
+M U  Reinitz
 ```
 
 
@@ -572,11 +554,9 @@ Daniel Gray asks:
 
 
 ```
-
 Mishum d'Kevi'i should be a disadvantage, not advantage in Hilchos Sukah assuming the opinion that Ara'i is a requirement and that meaning of Keva here (not regularly disassembled) is same definition as other sukkah areas such as 20 amos.
 
-Daniel Gray, Toronto Canada  
-
+Daniel Gray, Toronto Canada
 ```
 
 
@@ -596,7 +576,7 @@ I hope this helps!
 Best wishes,
 Yishai Rasowsky
 Sources:
-1. Chochmas Shlomo, Siman 14, Seif Katan 1. I don't have the sefer on hand now. 
+1. Chochmas Shlomo, Siman 14, Seif Katan 1. I don't have the sefer on hand now.
 ```
 
 
@@ -618,13 +598,11 @@ Sholem asks:
 
 
 ```
-
 Rashi seems to suggest that Sechach that is higher than 20 Amois is posul.
 
 In the sugya discussed earlier in the mesechtoh in relation to bittul, if earth was put on the floor of a sukkoh higher than 20 amois and the person was mevatel it, the sukkoh would be kosher.  Why was there no problem of 'taseh v'lo min ho'osui'?
 
-Sholem, UK  
-
+Sholem, UK
 ```
 
 
@@ -669,7 +647,6 @@ Emmanuel GARCIA asks:
 
 
 ```
-
 Hello
 
 I have a question regarding the tosfos on 14b Oumode Rabi Meir.
@@ -681,8 +658,7 @@ Tosfos summuraizes the cases of Neser/Pesel and says that :
 
 Thank you very much for your help ! 
 
-Emmanuel GARCIA, United States  
-
+Emmanuel GARCIA, United States
 ```
 
 
@@ -740,13 +716,11 @@ Sholem asks:
 
 
 ```
-
 The Gemoro suggests we are talking where the sechach kosher overlaps the sechach posul.
 
 Why is there no problem of ma'med bedovor haposul?
 
-Sholem, UK  
-
+Sholem, UK
 ```
 
 
@@ -801,13 +775,11 @@ Sholem asks:
 
 
 ```
-
 The Gemoro suggests we are talking where the sechach kosher overlaps the sechach posul.
 
 Why is there no problem of ma'med bedovor haposul?
 
-Sholem, UK  
-
+Sholem, UK
 ```
 
 
@@ -854,11 +826,9 @@ Daniel Gray asks:
 
 
 ```
-
 "Aval l'Inach Amora'ei d'Paslei Mishum Ohel" - Lashon Rabim refers to multiple other opinions on daf yud that invalidate bc of ohel, when in fact only one such opinion exists-Rav Huna, the other opinion dissenting with Shmuel disqualifies due to Makom Chashiv!?
 
-Daniel Gray, Toronto Canada  
-
+Daniel Gray, Toronto Canada
 ```
 
 
@@ -907,11 +877,9 @@ Daniel Gray asks:
 
 
 ```
-
 "Aval l'Inach Amora'ei d'Paslei Mishum Ohel" - Lashon Rabim refers to multiple other opinions on daf yud that invalidate bc of ohel, when in fact only one such opinion exists-Rav Huna, the other opinion dissenting with Shmuel disqualifies due to Makom Chashiv!?
 
-Daniel Gray, Toronto Canada  
-
+Daniel Gray, Toronto Canada
 ```
 
 
@@ -930,7 +898,6 @@ Great to hear from you. It really is a good question you are asking. At the mome
 I would love to find a better answer, but I this helps for now. 
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -952,15 +919,13 @@ Yisroel Dovid Berger  asks:
 
 
 ```
-
 Hi
 
 I know there's a discussion about whether the support of the schach can be a material that is mekabel tumah.
 
 At the end of 21b the gemara brings an opinion to say that a maamad which is mekabel tumah makes it pasul. My question is - we had earlier on 15b where Rava said 'he puts schach crosswise across the spits or lengthwise across the spits'. My question is twofold. 1. Why not mention there that it's a problem of maamad with something which is mekabel tumah? 2. The sevara over there of why Rava said it is good, is as Rashi says, because the schach which is kosher is mevatel the schach pasul. So why not here too, despite the fact that he was maamad with mekebal tumah, which Rashi says is only a problem of being as if he was using pasul schach, just say that the majority of the kosher schach is mevatel the pasul schach (the maamad)?
 
-Yisroel Dovid Berger , Lakewood NJ USA  
-
+Yisroel Dovid Berger , Lakewood NJ USA
 ```
 
 
@@ -1003,7 +968,6 @@ Shlomo Zalman Lerner asks:
 
 
 ```
-
 Please let me know whether the concept of lavud with respect to an ohel, applies to tumma.
 
 For example, let us say a czayis min hamace is under an ohel, or even succah and there is an open area in the roof, less than 3 tfachim right above the tumma, but the tumma itself is only 2 tefachim, and directly under the open area.
@@ -1011,8 +975,7 @@ For example, let us say a czayis min hamace is under an ohel, or even succah and
 Will the ohel spread that tumma? or will it miss and go up straight through the open space and the ohel not be tammeh?
 
 Thanks.
-Shlomo Zalman Lerner, UAtlanta, GA  United States  
-
+Shlomo Zalman Lerner, UAtlanta, GA  United States
 ```
 
 
@@ -1030,8 +993,6 @@ Shalom Shlomo Zalman,
 Great question. Lavud doesn't apply to Tumas Ohel. We find this in the Mishnah (Ohalos 10:1-2), the Gemara (Sukah 18a), and in the Rambam (Tumas Meis Chapter 16). So in your case the Ohel will not spread that Tumah; rather it will go up straight through the open space, and the Ohel will not be Tamei.
 Best wishes,
 Yishai
-
-
 ```
 
 
@@ -1053,14 +1014,12 @@ Tuvya Marcus asks:
 
 
 ```
-
 What is the nature of.the tirda?
 For example, if she will be his second wife - is it still a tirda?
 In other words - the mitzvah is for a bsula davka?
 And is so - what mitzvah is this exactly if the almanah doesn't pattur him
 
-Tuvya Marcus, Jerusalem Israel  
-
+Tuvya Marcus, Jerusalem Israel
 ```
 
 
@@ -1110,7 +1069,6 @@ Sources:
 10. https://www.sefaria.org.il/Moed_Katan.18b.10?lang=he&with=Rashi&lang2=he
 11. https://www.sefaria.org.il/Mishneh_Torah%2C_Marriage.1.2?lang=he&p2=Kessef_Mishneh_on_Mishneh_Torah%2C_Marriage.1.2.2&lang2=he
 12. https://www.sefaria.org.il/Rosh_on_Ketubot.1.12.1?lang=he&with=Korban%20Netanel&lang2=he#:~:text=%D7%95%D7%A0%22%D7%9C%20%D7%9B%D7%99%20%D7%91%D7%A8%D7%9B%D7%94%20%D7%96%D7%95%20%D7%90%D7%99%D7%A0%D7%94%20%D7%91%D7%A8%D7%9B%D7%94%20%D7%9C%D7%A2%D7%A9%D7%99%D7%99%D7%AA%20%D7%94%D7%9E%D7%A6%D7%95%D7%94%20%D7%9B%D7%99%20%D7%A4%D7%A8%D7%99%D7%94%20%D7%95%D7%A8%D7%91%D7%99%D7%94%20%D7%94%D7%99%D7%99%D7%A0%D7%95%20%D7%A7%D7%99%D7%95%D7%9D%20%D7%94%D7%9E%D7%A6%D7%95%D7%94%20%D7%95%D7%90%D7%9D%20%D7%9C%D7%A7%D7%97%20%D7%A4%D7%9C%D7%92%D7%A9%20%D7%95%D7%A7%D7%99%D7%99%D7%9D%20%D7%A4%D7%A8%D7%99%D7%94%20%D7%95%D7%A8%D7%91%D7%99%D7%94%20%D7%90%D7%99%D7%A0%D7%95%20%D7%9E%D7%97%D7%95%D7%99%D7%99%D7%91%20%D7%9C%D7%A7%D7%93%D7%A9%20%D7%90%D7%A9%D7%94%20%D7%95%D7%9B%D7%9F%20%D7%94%D7%A0%D7%95%D7%A9%D7%90%20%D7%96%D7%A7%D7%A0%D7%94%20%D7%90%D7%99%D7%99%D7%9C%D7%95%D7%A0%D7%99%D7%AA%20%D7%90%D7%95%20%D7%A2%D7%A7%D7%A8%D7%94%20%D7%95%D7%9B%D7%9F%20%D7%A1%D7%A8%D7%99%D7%A1%20%D7%97%D7%9E%D7%94%20%D7%A9%D7%A0%D7%A9%D7%90%20%D7%9E%D7%91%D7%A8%D7%9B%D7%99%D7%9F%20%D7%91%D7%A8%D7%9B%D7%AA%20%D7%97%D7%AA%D7%A0%D7%99%D7%9D%20%D7%95%D7%90%D7%99%D7%9F%20%D7%97%D7%99%D7%95%D7%91%20%D7%91%D7%9E%D7%A6%D7%95%D7%94%20%D7%96%D7%95%20%D7%A9%D7%90%D7%99%D7%9F%20%D7%91%D7%94%20%D7%A7%D7%99%D7%95%D7%9D%20%D7%9E%D7%A6%D7%95%D7%AA%20%D7%A4%D7%A8%D7%99%D7%94%20%D7%95%D7%A8%D7%91%D7%99%D7%94%20%D7%95%D7%94%D7%99%D7%9C%D7%9B%D7%9A%20%D7%9C%D7%90%20%D7%A0%D7%AA%D7%A7%D7%A0%D7%94%20%D7%91%D7%A8%D7%9B%D7%94%20%D7%91%D7%9E%D7%A6%D7%95%D7%94%20%D7%96%D7%95.
-
 ```
 
 
@@ -1132,11 +1090,9 @@ Daniel Gray asks:
 
 
 ```
-
 Why does Rashi deviate from Shmuel Brochos 23b in two ways: next to head vs under AND reason of angels needed at all?
 
-Daniel Gray, Toronto Canada  
-
+Daniel Gray, Toronto Canada
 ```
 
 
@@ -1181,11 +1137,9 @@ Menachem Weiman asks:
 
 
 ```
-
 The mishna says according to the chachamim "ain ledavar kitzv". Rashi goes further and says not only are no bread meals obligated, but if one wanted to fast he could. Rashi seems to contradict a Mechilta on Shmos 12:16 that darshans an obligation to honor the chol hamoed with clothes and food. Fasting would seem to violate this.
 
-Menachem Weiman, St. Louis, United States  
-
+Menachem Weiman, St. Louis, United States
 ```
 
 
@@ -1232,11 +1186,9 @@ Gershon Russell asks:
 
 
 ```
-
 Why does the Mishnah use the term "Mutar" to leave? Mutar always means one can either do it or not, but in the Mitzvah of Succah if one is Patur one is not supposed to go in; Nikra Chasid Shoteh or Hediyot. Shouldn't it have said "Resha'i"?
 
-Gershon Russell, Cleveland, USA  
-
+Gershon Russell, Cleveland, USA
 ```
 
 
@@ -1278,13 +1230,11 @@ M K asks:
 
 
 ```
-
 The gemara clearly says that wine fresh from the press - that is, grape juice - is permitted to drink even at the seuda hamafsekes on erev Tisha B'Av!
 Yet the custom today is to forbid grape juice, and some even forbid grape juice flavoring the entire 9 days.
 There is also a question if only pure grape juice, like the case in the gemara, is forbidden, or even if it is mixed with water or other juices, or from a concentrate.
 
 M K, Brooklyn, NY
-
 ```
 
 
@@ -1357,7 +1307,6 @@ Thank you for the response! Two follows one:
 
 1) this may be a klutz kashe but is there any possibility the “asar lanu et haarusot” part isn’t addressed to the groom but rather to the eidim or the rest of the guests? To make clear the bride is according to all opinions now forbidden to other men?
 2) how is the mesader kiddushin able to make the bracha at all on behalf of the groom? It’s not like a bracha on food where I can be yotzei you and we both eat….he actually specifically can’t marry the woman he’s making the bracha about? Parallel: if I take a neder not to eat an apple, and then you pick the apple up can I make the bracha for you even though it’s assur to me?
-
 ```
 
 
@@ -1410,7 +1359,6 @@ Joshua Danziger asks:
 
 
 ```
-
 >>Hello kollel! (Controversial topic alert, in case you don’t want to circulate to the whole mailing list)
 I'm learning through Yevamos and recently saw the sugyas dealing with when a pregnant woman can eat trumah, or stops eating (daf 68-70). This brings up a discussion of stages of embryo/fetus. The gemara says that a fetus less than 40 days is "maya bealma". I did a little digging and it seems potentially through the entire pregnancy, and especially earlier (Ie in the first 40 days) on there is significant support to be lenient re: terminating a pregancy (tosafos, the rosh, the ran, rashi). There are later authorities that have a range of views of course. Rav Chaim ozer says clearly there is no torah prohibition early on, but that may imply there is a rabbinic problem.
 A few questions and a I recognize this may be controversial or sensitive:
@@ -1419,7 +1367,6 @@ The second question is about the nature of shelichus, specifically for an aveira
 1) if the abortion is a prohibition deoraisa (does anyone hold this in the first 40 days?) and there is no shelichus for an aveira, is it the doctor, the woman, or the man who gets the aveira? Does it change if there’s payment or not?
 2) if it’s an issur derabbanan, does shelichus in fact occur Bc deoraisa it’s mutar and the woman and/or the man has hired the doctor? Can you wind up in a situation where the meshaleach gets an aveira derabbanan Bc shelichus deoraisa is effective or do we say “ain shaliach ledvar avaira” even for derabbanans?
 Thank you!<<
-
 ```
 
 
@@ -1504,7 +1451,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel! 
 
 The gemara on daf 69 talks about how once kiddushin is done, the woman is prohibited to all men de'oraita, and to her betrothed derabbanan. I think the rambam holds the same way, and i'd assume that's how we hold in the final din.
@@ -1513,7 +1459,6 @@ My question is why in the wording of the bracha at weddings do we say v'Tzivanu 
 
 Thank you!
 Josh
-
 ```
 
 
@@ -1564,7 +1509,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel! (Controversial topic alert, in case you don’t want to circulate to the whole mailing list)
 
 I'm learning through Yevamos and recently saw the sugyas dealing with when a pregnant woman can eat trumah, or stops eating (daf 68-70). This brings up a discussion of stages of embryo/fetus. The gemara says that a fetus less than 40 days is "maya bealma". I did a little digging and it seems potentially through the entire pregnancy, and especially earlier (Ie in the first 40 days) on there is significant support to be lenient re: terminating a pregancy (tosafos, the rosh, the ran, rashi). There are later authorities that have a range of views of course. Rav Chaim ozer says clearly there is no torah prohibition early on, but that may imply there is a rabbinic problem.
@@ -1577,7 +1521,6 @@ The second question is about the nature of shelichus, specifically for an aveira
 2) if it’s an issur derabbanan, does shelichus in fact occur Bc deoraisa it’s mutar and the woman and/or the man has hired the doctor? Can you wind up in a situation where the meshaleach gets an aveira derabbanan Bc shelichus deoraisa is effective or do we say “ain shaliach ledvar avaira” even for derabbanans?
 
 Thank you!
-
 ```
 
 
@@ -1639,7 +1582,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 I had a few questions on the sugyas of Arel mentioned in Yevamos. There is a machlokes Rashi and Rabbeinu Tam about whether someone who remains uncircumcised because his brothers died still has the shem of "arel". Rashi seems to say that since the reality is he still has a foreskin, he's an Arel. RT says that becase there's no more chiyuv to circumcise he's no longer in the category of "arel".
@@ -1653,7 +1595,6 @@ Here are the questions
 
 Thank you!
 Josh
-
 ```
 
 
@@ -1710,7 +1651,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 I had a few questions on the sugyas of Arel mentioned in Yevamos. There is a machlokes Rashi and Rabbeinu Tam about whether someone who remains uncircumcised because his brothers died still has the shem of "arel". Rashi seems to say that since the reality is he still has a foreskin, he's an Arel. RT says that becase there's no more chiyuv to circumcise he's no longer in the category of "arel".
@@ -1724,7 +1664,6 @@ Here are the questions
 
 Thank you!
 Josh
-
 ```
 
 
@@ -1752,7 +1691,6 @@ Sources:
 1. https://www.sefaria.org.il/Mishneh_Torah%2C_Kings_and_Wars.10.8?lang=bi&p2=Sanhedrin.59b.12&lang2=bi
 2. https://www.sefaria.org.il/Nedarim.31b.6?lang=bi&with=all&lang2=en
 3. https://www.sefaria.org.il/Mishneh_Torah%2C_Paschal_Offering.9.9?lang=bi&with=all&lang2=en#:~:text=%D7%95%D6%B0%D7%9B%D6%B5%D7%99%D7%A6%D6%B7%D7%93%20%D7%99%D6%B4%D7%94%D6%B0%D7%99%D6%B6%D7%94%20%D7%94%D6%B7%D7%91%D6%BC%D6%B5%D7%9F%20%D7%A8%D6%B8%D7%90%D7%95%D6%BC%D7%99%20%D7%9C%D6%B0%D7%9E%D6%B4%D7%99%D7%9C%D6%B8%D7%94%20%D7%90%D6%B7%D7%97%D6%B7%D7%A8%20%D7%A9%D7%81%D6%B0%D7%97%D6%B4%D7%99%D7%98%D6%B7%D7%AA%20%D7%94%D6%B7%D7%A4%D6%BC%D6%B6%D7%A1%D6%B7%D7%97%20%D7%95%D6%B0%D7%9C%D6%B9%D7%90%20%D7%99%D6%B4%D7%94%D6%B0%D7%99%D6%B6%D7%94%20%D7%A8%D6%B8%D7%90%D7%95%D6%BC%D7%99%20%D7%A7%D6%B9%D7%93%D6%B6%D7%9D%20%D7%A9%D7%81%D6%B0%D7%97%D6%B4%D7%99%D7%98%D6%B8%D7%94
-
 ```
 
 
@@ -1774,7 +1712,6 @@ Daniel Gray asks:
 
 
 ```
-
 >>Even according to the opinion that half shiur is permitted, that doesn’t make someone not want to refrain from eating it.
 Further, a pure Lo Shav mi'Da'ato willingly sins and cannot be offered Chatas. But, this person isn’t a willing sinner just because it retroactively turned out that this shiur is now forbidden!?
 
@@ -1826,7 +1763,6 @@ Tks, so you’re squeezing the entire  following excerpt into "Lo Shav mi'Yediaso"
 Look in the Mishneh l'Melech (2). The reason we cannot obligate this person to bring a Korban Chatas is because of reason #2. He is totally blameless, since he was acting in accordance with the Shi'urim which the Beis Din of his day had ruled.<<
 
 I’m not challenging who can and cannot be obligated in a chattas. I’m challenging what can or cannot (at a minimum satisfactory level) be construed into the words of our sugya.
-
 ```
 
 
@@ -1879,11 +1815,9 @@ Yisroel PACANOWSKI asks:
 
 
 ```
-
 R' Elozor says anyone who eats cheilev bizman hazeh should write down exactly how much cheilev he ate because once the Beis hamikdosh is rebuilt, the new Beis Din might pasken that the Shiur Kezayis is smaller than we currently hold and he will be chayav a chatos. This seems a very big chiddish!   1. @Meheiche teise that we should be worried about a new Bais Din coming up with a new shiur kezayis? If Beis Din paskens a certain shiur today, why should I think this may be wrong and a future Beis Din will have a different shiur?  2. If a future Beis Din finds a new shiur, will they be be able to override the shiur that has been defined by an earlier beis din?  3. Even if they have the power, will their psak be retroactive to be mechayev a maase done when the old psak was in force?  4. Doesn't this attitude of worrying a future beis din will find a new halocha cast aspersions on the current halocha chalila  and make the current halocha weaker in people's minds?
 
-Yisroel PACANOWSKI, Australia 
-
+Yisroel PACANOWSKI, Australia
 ```
 
 
@@ -1942,12 +1876,10 @@ Sender Klein asks:
 
 
 ```
-
 The Poskim learn from the sugya about Ikar Vidui that one must stand for Vidui (the Ran derives it and the Rosh seems to have that in the text of his Gemara).  This is difficult to understand based on Rashi on Daf 20 that Mishtachavim Revachim was on Yom Kippur in order that one not hear his friends Vidui.  So apparently Vidui was done on the ground.  Maybe there is a difference between the Vidui of tefilah and other Vidui, but I couldn't find any source suggesting such a distinction, and the Pri Megadim cited in the Mishnah Brurah doesn't sound that way, since he questions whether a person must repeat Vidui if he was sitting.  (Someone also pointed out to me that Vidui on a korban was done during smicha, which is done b'chol kocho, and also seems to go against this rule.)
 Thanks!
 
-Sender Klein, United States 
-
+Sender Klein, United States
 ```
 
 
@@ -2002,7 +1934,6 @@ A K asks:
 
 
 ```
-
 >>The mishna in evodah zara says not to rent to a goy because he brings in evodah zara
 1.  why is this just in eretz yisrael and not chutz laaretz?
 2. what would be the din by a arab who doesnt do avodah zara?  What about a goyish athiest?
@@ -2029,7 +1960,6 @@ A K asks:
 
 Thank you for your reply.  What do you think would be the din when someone is selling a non kumat kenisah apartment to a goy/oved avadah zara (lets say a apartment on the third floor and he has no gina).  He is not selling any actual land because its on the third floor and is only michuber likarkeh.  So maybe it will be dependent on the mecholokes Ran meire you mentioned.  
 Thanks for your help
-
 ```
 
 
@@ -2069,7 +1999,6 @@ A K asks:
 
 
 ```
-
 The mishna in evodah zara says not to rent to a goy because he brings in evodah zara
 1.  why is this just in eretz yisrael and not chutz laaretz?
 2. what would be the din by a arab who doesnt do avodah zara?  What about a goyish athiest?
@@ -2077,7 +2006,6 @@ The mishna in evodah zara says not to rent to a goy because he brings in evodah 
 4. Wht about a Christian nowadays?  Most chiristians today dont practice much dont have Jesus figurine idols in their houses?
 
 A K,
-
 ```
 
 
@@ -2108,7 +2036,6 @@ I would like to expand on what I wrote for #2. I indicated that some allow selli
 I hope this helps!
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -2130,7 +2057,6 @@ A K asks:
 
 
 ```
-
 >>The mishna in evodah zara says not to rent to a goy because he brings in evodah zara
 1.  why is this just in eretz yisrael and not chutz laaretz?
 2. what would be the din by a arab who doesnt do avodah zara?  What about a goyish athiest?
@@ -2163,8 +2089,7 @@ Thanks for your reply.  I found it very interesting.  However I think I did not 
 3. What about a yid who does avodah zara (rechmona letslan) (eg A Jewish budhist who lives in Israel)
 4. Wht about a Christian nowadays? Most christians today dont practice much and dont have figurine idols in their houses?
 
-But while we are on the topic of the issur of lo techonen I am not clear, its assur or muter to sell to a non oved avodeh zara goy?  The mekoros you brought were for the issur to give a gift and not for selling a beis? 
-
+But while we are on the topic of the issur of lo techonen I am not clear, its assur or muter to sell to a non oved avodeh zara goy?  The mekoros you brought were for the issur to give a gift and not for selling a beis?
 ```
 
 
@@ -2210,7 +2135,6 @@ A K asks:
 
 
 ```
-
 The mishna in evodah zara says not to rent to a goy because he brings in evodah zara
 1.  why is this just in eretz yisrael and not chutz laaretz?
 2. what would be the din by a arab who doesnt do avodah zara?  What about a goyish athiest?
@@ -2218,7 +2142,6 @@ The mishna in evodah zara says not to rent to a goy because he brings in evodah 
 4. Wht about a Christian nowadays?  Most chiristians today dont practice much dont have Jesus figurine idols in their houses?
 
 A K,
-
 ```
 
 
@@ -2263,11 +2186,9 @@ Yitzchak Meystelman  asks:
 
 
 ```
-
 Rav Yochanan rules that Bris mila was not enough to convert, ie also needed to tovel in the Mikva. However, in the story of Deena, the brothers told Shchem that they needed to do Bris mila only, they did not say that Mikvah was also needed.? Please reconcile this seeming contradiction. Thank tou
 
 Yitzchak Meystelman , Phoenix AZ
-
 ```
 
 
@@ -2311,11 +2232,9 @@ shmuel asks:
 
 
 ```
-
 where do we find last 3 brachos in the amida are praise of hashem? only 1 is (modim), the other 2 are requests?!
 
-shmuel, Valley Village 
-
+shmuel, Valley Village
 ```
 
 
@@ -2390,7 +2309,6 @@ Thanks for your reply. In a way the explanations of the commentaries seem to beg
 Wouldn't there be a clearer understanding if the verse had said èåèôåú òì øàùê? Just as we know that àåú refers to tefillin in a certain part of the arm with the word éã, we could likewise know that øàù refers to the center of the hairline?
 
 And why would the asmachta connect to a metaphorical understanding which refers to CONSTANTLY remembering when the tefillin are not worn CONSTANTLY? Especially when all the details of tefillin are anyway part of úåøä ìîùä îñéðé , and no further asmachtas exist about the structure of tefillin etc ??
-
 ```
 
 
@@ -2491,7 +2409,6 @@ David asks:
 
 Thank you. Regarding Point A, when it comes to the placement of the tefillin shel yad we have to rely on the oral law to know where to place it, whether on the upper arm, than hand, wrist or whatever. So even if the posul referred to the head, the oral could have equally told us where to place it on the hand, whether on the hairline, the forehead, top of the head, etc. In other words we could have had the oral to specify where both are to be place. Between the eyes could have been avoided!
 Regarding Point B, I am not sure I understand the explanation exactly. We could have known everything about tefillin from the oral law as Torah le Moshe MiSinai without any asmachtas, especially when the asmachta that relates to the literal concept of keeping the Torah in mind constantly does not work for tefillin, which are not worn constantly the way keeping the Torah in mind is supposed to be.
-
 ```
 
 
@@ -2530,7 +2447,6 @@ Davic1 asks:
 
 
 ```
-
 Greetings. All the psukim related to remembering the Torah that appear in the Torah and in Mishlei are metaphorical referring to keeping the Torah in oneï¿½s mind all the time ï¿½ yadecha, zichron, oys, etc. etc. It is only in one case where specifically oys and totafos refer to tefillin. But even if we say that there is both the metaphorical meaning (according to Rashbam) in addition to the asmachta for tefillin, we cannot say that the tefillin correspond to wearing them all the time the way a person is supposed to remember the Torah all the time. In fact the Torah itself nowhere states the duration of wearing them.
 
 Why do we need an asmachta in that posuk for tefillin when they are anyway halacha leMoshe miSinai in all their aspects, and given the fact that wearing them does not even correspond to the literal/metaphorical meaning of constantly keeping the Torah as a sign in ones actions and oneï¿½s thoughts?
@@ -2539,8 +2455,7 @@ In addition, ï¿½beyn eynechaï¿½ does not really exist, so what does this contrib
 It would make more sense to connect tefillin with the head as ï¿½totafos al roshechaï¿½ as an asmachta.
 
 Thanks,
-David Goldman 
-
+David Goldman
 ```
 
 
@@ -2590,7 +2505,6 @@ Paul Davidowitz asks:
 
 
 ```
-
 >>2a: https://dafyomi.co.il/nedarim/tosfos/nd-ts-017.htm
 Ran 17a: v'Lo li'Mnos Shtayim Gam Kein d'Lo Mishkachas Lah Mah she'Ein Kein b'Nezirus
 
@@ -2619,7 +2533,6 @@ Thanks. Your term "Neder/Shevu'ah" regarding Neder excludes Nezirus (even though
 
 Kol Tuv,
 -PD
-
 ```
 
 
@@ -2658,14 +2571,12 @@ Paul Davidowitz asks:
 
 
 ```
-
 2a: https://dafyomi.co.il/nedarim/tosfos/nd-ts-017.htm
 Ran 17a: v'Lo li'Mnos Shtayim Gam Kein d'Lo Mishkachas Lah Mah she'Ein Kein b'Nezirus
 
 Why is it that a shvua never entails multiple undertakings from multiple upfront pronouncements? After all, it can be time-bound just like nzeirus.
 
 Paul Davidowitz, United States
-
 ```
 
 
@@ -2713,7 +2624,6 @@ Soheil Zaman asks:
 
 
 ```
-
 At the end of the day, why do we even say "Ein safeik motsi midi vadai"? Is it a svara, Rabbanan, or doraisa?
 
 Second, lechora, the safeik we are dealing with is not simply a safeik hashakul - it's similar to a rov. So why can't rov win over a vadai? I didn't really think this is an important question, but it really changes our understanding of how we posken safeiks. At the end of the day, The Torah doesn't care that there one thing has a greater chance of being mutar and that's why we make it mutar. Poskening sfeikas in lumdus doesn't have anything to do with percentage. We do use percentage, but that's not the essentila factor.
@@ -2733,7 +2643,6 @@ So my quesion is two-fold (it might actually just be one question):
 2) What makes a sfeik sfeika a stronger safeik than 1 safeik if we don't care about the stats?
 
 Soheil Zaman, Israel
-
 ```
 
 
@@ -2786,7 +2695,6 @@ Soheil Zaman asks:
 
 
 ```
-
 >>The Mishna says: ha'Ochel Terumas Chametz b'Pesach b'Shogeg Meshalem Keren v'Chomesh, b'Meizid Patur mi'Tashlumin u'mi'Demei Eitzim
 
 Rashi explains the case that the truma is asur b'hana. yet notwithstanding, you are required to pay him back. I've asked many Talmidei Chachamim if you can steal someones' isur hana or not, is it asur or not, etc. But I never got a definitive answer. Isn't this Mishna saying by the fact that when you eat b'shogeg, that it is asur to steal it (as when you do b'shogeg you are required to pay back)?
@@ -2812,7 +2720,6 @@ Soheil Zaman asks:
 Thank you Rav Rasowsky!
 
 In terms of your answer that the Mishna might not be a precedent because we are dealing with truma . . . I hear the chiluk but why should it mechalek? Theft is theft. If it's asur to steal isur hana that is kadosh, I see no reason why it should be different if it's chol?
-
 ```
 
 
@@ -2852,13 +2759,11 @@ Soheil Zaman asks:
 
 
 ```
-
 The Mishna says: ha'Ochel Terumas Chametz b'Pesach b'Shogeg Meshalem Keren v'Chomesh, b'Meizid Patur mi'Tashlumin u'mi'Demei Eitzim
 
 Rashi explains the case that the truma is asur b'hana. yet notwithstanding, you are required to pay him back. I've asked many Talmidei Chachamim if you can steal someones' isur hana or not, is it asur or not, etc. But I never got a definitive answer. Isn't this Mishna saying by the fact that when you eat b'shogeg, that it is asur to steal it (as when you do b'shogeg you are required to pay back)?
 
 Soheil Zaman, United States
-
 ```
 
 
@@ -2904,7 +2809,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 On daf 88 we have the famous gemara that after each utterance at har sinai the Jewish people died and were revivied (and blown back 12 mil etc).
@@ -2919,7 +2823,6 @@ https://www.sefaria.org/Mekhilta_d'Rabbi_Yishmael.20.1?lang=bi
 
 Thank you!
 Josh
-
 ```
 
 
@@ -2983,8 +2886,7 @@ Yishai Rasowsky<<
 ---
 Menachem Weiman asks:
 
-Thanks. I was wondering if possibly Rashi held that the obligation to eat was only for the other chagim but since Sukkos has the drasha of "teishvu k'ain teduro" the idea of eating the way you want takes precedence. 
-
+Thanks. I was wondering if possibly Rashi held that the obligation to eat was only for the other chagim but since Sukkos has the drasha of "teishvu k'ain teduro" the idea of eating the way you want takes precedence.
 ```
 
 
@@ -3027,15 +2929,13 @@ Naftoli Willner asks:
 
 
 ```
-
 Tosfos DH Mishum d'Hava Leih Mitzvah ha'Ba'ah b'Averiah
 
 He says that we learn all Mitzvah ha'Ba'ah b'Averiah from Korbanos "d'Af Al Gav d'Kra Gabei Korban Kesiv, Hu ha'Din b'Chol Mitzvos d'Havei d'Oraisa"
 Question - how can we do this.  Don't we say that we can't generally generally do this?  The
 Gemarah often says "Chulin mi'Kodshim Lo Gamrinan"?
 
-Naftoli Willner, United States  
-
+Naftoli Willner, United States
 ```
 
 
@@ -3083,11 +2983,9 @@ Shlomo Zalman Lerner asks:
 
 
 ```
-
 Why is there no hava amina, or initial question, that the  eged should also include the esrog?
 
-Shlomo Zalman Lerner, Atlanta, USA  
-
+Shlomo Zalman Lerner, Atlanta, USA
 ```
 
 
@@ -3128,14 +3026,12 @@ Mark Gotesman asks:
 
 
 ```
-
 Hi,
 Learning through Sukkah 33 recently, I had the following question.
 
 On amud bet the gemara assumes that removing the berries from the hadas would be a psik reishah for mitaken maneh to make a cheftzah for the mizvah, and so has to conclude that the person removing the berries already has a hadas. But we know from Shabbos 133 that if it is a psik reishah dilo nichah leih it is muttar, and since mitzvot lav leihanot nitnu, can't we argue that making a kosher hadas is not nicha leih and so should be muttar?
 
-Mark Gotesman, NJ  
-
+Mark Gotesman, NJ
 ```
 
 
@@ -3194,7 +3090,6 @@ Tuvya Marcus asks:
 
 
 ```
-
 >>It strikes me as unusual this set of chachamim. R Yirmiya was younger than Rabi Yochanan and Chizkiya was R"Y rebbe.  It's common to see things that R"Y brings in Rashbi name - but I don't remember seeing R"Yirmiya bringing in his name and that Chizkiya  - would bring it... I guess that's why the Gemara brings 4 unconnected meimros together.
 I didn't see anyone comment on this.
 Any thoughts?
@@ -3213,7 +3108,6 @@ Best wishes,
 Yishai Rasowsky<<
 ---
 Thank you for your reply.  The first answer is not chronoloically possible, however.   The Mesitva must say that because we have many sayings of R' Yochanan b'shem Rashbi, but R Yochanan certainly was born after Rashbi was no longer, and R' Yirmiya who lived at the same time as R' Yochanan was definitely [much] younger than he.
-
 ```
 
 
@@ -3254,13 +3148,11 @@ Tuvya Marcus asks:
 
 
 ```
-
 It strikes me as unusual this set of chachamim. R Yirmiya was younger than Rabi Yochanan and Chizkiya was R"Y rebbe.  It's common to see things that R"Y brings in Rashbi name - but I don't remember seeing R"Yirmiya bringing in his name and that Chizkiya  - would bring it... I guess that's why the Gemara brings 4 unconnected meimros together.
 I didn't see anyone comment on this.
 Any thoughts?
 
-Tuvya Marcus, Jerusalem Israel  
-
+Tuvya Marcus, Jerusalem Israel
 ```
 
 
@@ -3305,15 +3197,13 @@ DANIEL GRAY asks:
 
 
 ```
-
 water wine swap on Sukkos is kosher bedieved
 Tosfos 47a explains the safalim were permanently attached and thus present all year.
 If outside of Sukkos, when there was only wine pouring, would it still be kosher bedieved if the wine was poured down the water safal? On Sukkos, this error is more excusable.
 
 Also how did the Rambam (äìëåú úîéãéï ôø÷ é äìëä æ) know åðñê ùðéäí îëìé àçã éöà as that doesn't seem apparent from our Mishnah that discusses only the error of swapping but not the more gross error of pouring both liquids down the same tube.
 
-DANIEL GRAY, Toronto Canada  
-
+DANIEL GRAY, Toronto Canada
 ```
 
 
@@ -3360,11 +3250,9 @@ Sholem asks:
 
 
 ```
-
 Why does our Gemoroh only discuss the playing of the Cholil, either 5 or 6 days and not the blowing of the Shoifor or Chatzoitzrois (Mishna 48a), unless there is no problem?
 
-Sholem, UK  
-
+Sholem, UK
 ```
 
 
@@ -3404,11 +3292,9 @@ Yitzchak Meystelman asks:
 
 
 ```
-
 On daf 7b-8a in Avoda zara there is a lenghthy discussion about what, if anything, can be inserted into the standard Shemone esrei. My understanding is that the overall backdrop is that we are not supposed to modify, add, or take away from the shemone esrei that the Anshe Kneses HaGadola instituted. On the other hand, in Taanis, I believe daf 15b, Mishna explains that instead of 18 blessings, people said 24 blessings: 18 from the standard prayer + 6 from Rosh Hashana (see Rashi). I have the following questions: (1) What does Rosh Hashana prayers have to do with the need for rain in Eretz Yisroel? (2) where exactly did they insert these addition 6 prayers in the order of Shemone Esrei? (3) What gave them the right to add into the standard prayer? i.e. why not just add these additional 6 in the end of the middle 12 (the bakashas section); (4) Why get the Shemoe Esrei involved at all in this newly formulated prayer of 24? why not just create a brand new prayer for the times of calamities, such as a drought; (5) Should we assume that the people who instituted this 24 prayer were in equal stature to the Anshei Kneses Hagadola, since they are effectively modifying the instituted prayer that consisted only of 18? Thank you very much This was a highly contentious debate (in a good way) in our shul this morning during the shiur, so would be very appreciated to get answers to the above questions. Thank you
 
 Yitzchak Meystelman, Phoenix, United States
-
 ```
 
 
@@ -3454,7 +3340,6 @@ Naftoli Willner asks:
 
 
 ```
-
 >>I submitted the following question a number of weeks ago.  Perhaps I missed the answer (I don't think so), or perhaps since it is not on the current area of the Daf Yomi it is not appropriate.  If that is the case, I appologize and let me know.
 
 I hope it is OK to ask a question on a non-daf yomi topic.
@@ -3486,7 +3371,6 @@ We see the same derasha in Pesachim (not dealing with that mishna) and it also l
 Thank you very much again.
 
 Naftoli
-
 ```
 
 
@@ -3534,7 +3418,6 @@ Naftoli Willner asks:
 
 
 ```
-
 I submitted the following question a number of weeks ago.  Perhaps I missed the answer (I don't think so), or perhaps since it is not on the current area of the Daf Yomi it is not appropriate.  If that is the case, I appologize and let me know.
 
 I hope it is OK to ask a question on a non-daf yomi topic.
@@ -3550,7 +3433,6 @@ Thank you very much in advance.
 Naftoli
 
 Naftoli Willner, United States
-
 ```
 
 
@@ -3592,13 +3474,11 @@ Joseph Kayeri asks:
 
 
 ```
-
 Hi
 
 How could the cohen gadol live the seven day period in lishkat parhedrin if we say here that it is forbidden to seat in azarah?
 
-Joseph Kayeri, Brasil 
-
+Joseph Kayeri, Brasil
 ```
 
 
@@ -3617,7 +3497,6 @@ Great to hear from you. As you wrote, the prohibition to sit applies only in the
 I hope this helps. May you continue to attain greatness in Torah learning and Yiras Shamayim!
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -3639,11 +3518,9 @@ Avraham Sacks asks:
 
 
 ```
-
 Is the owner of the bechor a Kohein?  If he is a Yisrael what loss is he concerned about since the bechor needs to go to a Kohein?
 
 Avraham Sacks, Ramat Beit Shemesh
-
 ```
 
 
@@ -3690,14 +3567,12 @@ Yerachmiel weiss asks:
 
 
 ```
-
 Shalom Aleichem!
 I wanted to know if a talis belonging to the tzibur doesn't need to be checked for being pasul, what is the reason for wearing the talis if not for the sake of a mitzvah. 
 in addition what do it mean when the passuk says in bamidbar 25:14 vsheim Ha ish Yisroel hamookeh Asher hooka es hamidyanis?
 
 kol tuv
 Yerachmiel weiss, Miami Beach
-
 ```
 
 
@@ -3753,11 +3628,9 @@ Paul Davidowitz asks:
 
 
 ```
-
 But why is it that according to Rav Huna with Ran, *simultaneous* zeros out the second shvua? Granted regarding second shvua, there is no punishment for grapes or figs due to chatzi-shiur (and no migo), but why is there not a chalos at least for grapes (meaning he shouldn't eat grapes, even though not punishable)? And if there is in fact a chalos, then the second shvua would then be adding something. (I guess I would answer that Rav Huna holds that chatzi-shiur also kills the chalos for some reason.)
 
 Paul Davidowitz, Long Beach
-
 ```
 
 
@@ -3783,7 +3656,6 @@ Here is a link to the wonderful resource where I found this discussion: https://
 
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -3805,11 +3677,9 @@ Paul Davidowitz asks:
 
 
 ```
-
 Also, why can't we use nafka-mina which the Ran brings for Raba and apply it R' Huna: If forgot about first shvua, and only was warned for second shvua, and the guy eats figs and grapes together -- doesn't the second shvua in this case matter?
 
 Paul Davidowitz, Long Beach
-
 ```
 
 
@@ -3829,7 +3699,6 @@ Rabbah holds that Shevu'ah #2 takes effect. That is why if he forgot about Shevu
 
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -3851,7 +3720,6 @@ Paul Davidowitz asks:
 
 
 ```
-
 https://www.sefaria.org/Nedarim.17b.2?lang=he&with=Ran&lang2=he
 
 åòãééï àéï ãòúé ðåçä áæä ãî''î ëé äéëé ãáùáåòä ùðéä àéðä çìä òì úàðéí îôðé ùëáø ðùáò òìéäí ëê ðæéøåú ùðéä àéðä çìä áòùøéí åúùòä éåí øàùåðéí îôðé ùëáø ðæø áäí ìôéëê àðé àåîø ãëé àîøéðï åçæø åàîø ùáåòä ùìà àåëì úàðéí åòðáéí äëé ÷àîø ùìà àåëì àåúí ëàçú
@@ -3867,7 +3735,6 @@ What do you think? I am not thrilled with the above.
 Also, do you know of a commentary dedicated to explaining the Ran? And what do you think of the Biurei HaRan in Oz VeHadar Mesivta edition of nedarim?
 
 Paul Davidowitz, Long Beach
-
 ```
 
 
@@ -3892,7 +3759,6 @@ Baruch Hashem, the Mesivta is a wonderful resource, and is the right place to he
 I hope this helps.
 Best wishes,
 -Y.R.
-
 ```
 
 
@@ -3914,11 +3780,9 @@ HG Schild asks:
 
 
 ```
-
 Rav ?elbo fell ill. There was no one who came to visit him. Rav Kahana said to the Sages: Didn’t the incident involving one of the students of Rabbi Akiva who became sick transpire in that manner? In that case, the Sages did not enter to visit him, and Rabbi Akiva entered to visit him and instructed his students to care for him
 
 Why no one? Artscroll said to see sefer SHALMI NEdarim i do not have.
-
 ```
 
 
@@ -4014,7 +3878,6 @@ Menachem K asks:
 
 
 ```
-
 Regarding the response about the size of the eggs, very recently they discovered a 1,000 year old egg in Israel, a 1,700 year old egg in England, and a basket of 2,500 year old eggs in China.
 From the pictures and rulers, they all look the same size, like a small or medium egg of today, about 6cm.
 I remember that in the introduction of a sefer from about 100 years ago, Rav Kook wrote that 8n Egypt they had found ancient eggs, which were the same size as the eggs in his time.
@@ -4024,7 +3887,6 @@ Some now claim that the Grouch Noeh was wrong because of coins that were discove
 There must also be some other explanation to answer the discrepancy found by the Tzlach and the Gra and the Chazon Ish and Rav Moshe, all of whom used the finger measuring method.
 
 Menachem K, Brooklyn, New York
-
 ```
 
 
@@ -4076,7 +3938,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel! 
 
 In the daf we see that if a yavamah, even if she is a bas kohen, awaiting yibbum from her kohen husbands brother, is not allowed to eat terumah, Bc she has a (rabbinic?) prohibition of forbidden biah which “blocks” her.
@@ -4085,7 +3946,6 @@ My question is, by whom and how is  the yevama supported while she’s awaiting th
 
 Thanks!
 Josh
-
 ```
 
 
@@ -4129,13 +3989,11 @@ Tuvya Marcus asks:
 
 
 ```
-
 Why Rashi?  Mashma from the Gemara l'Ikuva and Rashi says it's difficult that it's required but rather for a Mitzvah
 
 Tosefos talks about this too.but learns it is Me'akev?
 
-Tuvya Marcus, Jerusalem Israel 
-
+Tuvya Marcus, Jerusalem Israel
 ```
 
 
@@ -4175,7 +4033,6 @@ Sholem asks:
 
 
 ```
-
 >>He locks the door in front of it and it will die from starvation.  After which the Gemoroh concludes that since these animals could be used next year, there might be an error and if the Kohen was preoccupied, it could be offered as a Korbon during the year.
 
 Rather than putting this animal to death, would it not be more humane to make a permanent blemish on it so that the takoloh would not be allowed to arise.
@@ -4214,7 +4071,6 @@ Whilst I appreciate there is an underlying ‘issur’ of making a blemish on an ani
 
 
 Sholem, UK
-
 ```
 
 
@@ -4259,7 +4115,6 @@ Sholem asks:
 
 
 ```
-
 >>He locks the door in front of it and it will die from starvation.  After which the Gemoroh concludes that since these animals could be used next year, there might be an error and if the Kohen was preoccupied, it could be offered as a Korbon during the year.
 
 Rather than putting this animal to death, would it not be more humane to make a permanent blemish on it so that the takoloh would not be allowed to arise.
@@ -4311,7 +4166,6 @@ Sholem asks:
 Many thanks ….
 
 What about Points 3 and 4 ?
-
 ```
 
 
@@ -4357,7 +4211,6 @@ Sholem asks:
 
 
 ```
-
 >>He locks the door in front of it and it will die from starvation.  After which the Gemoroh concludes that since these animals could be used next year, there might be an error and if the Kohen was preoccupied, it could be offered as a Korbon during the year.
 
 Rather than putting this animal to death, would it not be more humane to make a permanent blemish on it so that the takoloh would not be allowed to arise.
@@ -4413,7 +4266,6 @@ What about Points 3 and 4 ?
 3. Wouldn’t the placing of this animal into the Kipah not render it a ‘treifo’.  Certainly, before it’s death it would become a ba’al mum and could perhaps at that stage be saved.
 
 4. On the basis of the preceding point, surely it would be no worse than a person making an ‘erech’ on a someone being taken out to be killed and therefore this vow has no monetary consequence.  If this reasoning is used here, then the animal too is worthless and shouldn’t be considered as being alive and could ‘even be redeemed’ immediately.
-
 ```
 
 
@@ -4466,15 +4318,13 @@ Sholem asks:
 
 
 ```
-
 He locks the door in front of it and it will die from starvation.  After which the Gemoroh concludes that since these animals could be used next year, there might be an error and if the Kohen was preoccupied, it could be offered as a Korbon during the year.
 
 Rather than putting this animal to death, would it not be more humane to make a permanent blemish on it so that the takoloh would not be allowed to arise.
 
 I know one could argue that since the animal potentially is a candidate for the next Yom Kippur, but as it would have this death sentence on it, this would never materialise.
 
-Sholem, UK 
-
+Sholem, UK
 ```
 
 
@@ -4502,7 +4352,6 @@ References:
 1. https://www.sefaria.org.il/Leviticus.22.21?lang=bi&with=all&lang2=en
 2. https://www.sefaria.org.il/Beitzah.27b.3?lang=bi&with=all&lang2=en
 3. https://www.sefaria.org.il/Mishneh_Torah%2C_Things_Forbidden_on_the_Altar.1.7?lang=bi&with=all&lang2=en
-
 ```
 
 
@@ -4524,11 +4373,9 @@ Sholem asks:
 
 
 ```
-
 Was there a double portion of Mon on Erev Yom Kippur
 
-Sholem, UK 
-
+Sholem, UK
 ```
 
 
@@ -4589,11 +4436,9 @@ Sholem asks:
 
 
 ```
-
 Was there a double portion of Mon on Erev Yom Kippur
 
-Sholem, UK 
-
+Sholem, UK
 ```
 
 
@@ -4642,11 +4487,9 @@ Tuvya Marcus asks:
 
 
 ```
-
 How as the Lashon Zehoris prepared?  Was there any special care taken around it - a particular dye or concern about Tum'ah?  Was it bought from Terumas ha'Lishkah or did it not matter?
 
-Tuvya Marcus, Jerusalem Israel 
-
+Tuvya Marcus, Jerusalem Israel
 ```
 
 
@@ -4702,11 +4545,9 @@ Sholom Twerski asks:
 
 
 ```
-
 All over we say that there are only 2 mitzvos asei that if you don't do them, one is Chayiv Kares- Korban Pesach and Bris Milah. Why isn't eating on Yom Kippur also because there's no lav not to eat but rather a bitul of the Mitzvas Asei of V'inisem?
 
-Sholom Twerski, Phoenix, AZ 
-
+Sholom Twerski, Phoenix, AZ
 ```
 
 
@@ -4757,11 +4598,9 @@ Sholom Twerski asks:
 
 
 ```
-
 All over we say that there are only 2 mitzvos asei that if you don't do them, one is Chayiv Kares- Korban Pesach and Bris Milah. Why isn't eating on Yom Kippur also because there's no lav not to eat but rather a bitul of the Mitzvas Asei of V'inisem?
 
-Sholom Twerski, Phoenix, AZ 
-
+Sholom Twerski, Phoenix, AZ
 ```
 
 
@@ -4803,12 +4642,10 @@ Daniel Gray asks:
 
 
 ```
-
 Even according to the opinion that half shiur is permitted, that doesn’t make someone not want to refrain from eating it.
 Further, a pure Lo Shav mi'Da'ato willingly sins and cannot be offered Chatas. But, this person isn’t a willing sinner just because it retroactively turned out that this shiur is now forbidden!?
 
-Daniel Gray, Toronto Canada 
-
+Daniel Gray, Toronto Canada
 ```
 
 
@@ -4877,11 +4714,9 @@ Daniel Gray asks:
 
 
 ```
-
 When pregnant woman wants pork why not feed her Mocha d'Shibuta (Chulin 109b)?
 
-Daniel Gray, Toronto Canada 
-
+Daniel Gray, Toronto Canada
 ```
 
 
@@ -4923,13 +4758,11 @@ R.A.A. asks:
 
 
 ```
-
 Good morning. I was wondering: In the way Rashi explains the preference/Machlokes of feeding the Mesukan either Tevvel or Terumah, i.e.: Terumah could be separated, and since at least MeDeOraysa one kernel is good enough for Terumah, why don't we for sure say to separate Terumah in a Pachos MeKeShiur amount; at most it is Osur MeDeOraysa, but not Onush Misa, as opposed to Tevvel!?
 Thank you, Kol Tuv,
 RAA
 
-R.A.A., NY, America 
-
+R.A.A., NY, America
 ```
 
 
@@ -4976,7 +4809,6 @@ Menachem Zaman asks:
 
 
 ```
-
 The Gemara points out a stira in the sugya of shchooni gavai and Nichsei d'Var Sisin in what Rava holds. The Gemara says there is no stira because Rava goes with whoever is muchzak at that point.
 
 So Rava is saying if it’s going to be chal a safeik or not, it depends. If the lokeach is in the karka, and now you want to be m’arer his chazakah/pasul his chazakah, to take away the karka, then you are not neeman. But if the mocher is in the karka, to be m’arer a chazakah, that Rava is mekabel the taina, and that’s nichsei bar sisin.
@@ -4984,7 +4816,6 @@ So Rava is saying if it’s going to be chal a safeik or not, it depends. If the l
 My question is why does the muchzakos help? If the mareh kama’s taina creates a safeik, so we say b’chezkas baileha omedes and the mareh kama gets it. And if the taina of the mareh kama doesn’t chal a safeik, so who cares whose tafis?? Let the lokeach get it. It seems like Rava is saying that the mareh kama’s taina is only chal a safeik when he is the muchzakos. And the question is, who cares that he is the muchzak?? Why does the muchzakos of the mareh kama create a neemanus ha’taina?
 
 Menachem Zaman, Los Angeles
-
 ```
 
 
@@ -5029,11 +4860,9 @@ HG Schild asks:
 
 
 ```
-
 I noticed the last mishna in Perek 8 is the same topic as beginning mishna in Perek 9.... so why did the perakim divide between them?
 
 hg
-
 ```
 
 
@@ -5077,12 +4906,10 @@ Dov Gelman asks:
 
 
 ```
-
 I remember hearing the Gra ask why the mishna said koreen instead of korei but I forgot the answer. Could you explain the question to me and remind me of the answer.
 Thanks
 
-Dov Gelman, Pittsburgh, US 
-
+Dov Gelman, Pittsburgh, US
 ```
 
 
@@ -5124,7 +4951,6 @@ Avrumi Hersh asks:
 
 
 ```
-
 Chagiga 3a top
 In the hava mina of the gemoro, we thought the posuk said lemaan yilmedu to exclude someone who cannot speak, (then the gemoro asks that there were 2 talmiey chachomim who could learn even though they could not speak...)
 
@@ -5133,7 +4959,6 @@ Why doesn't the gemoro ask on the spot, Why do i need lemaan yishmeu because lem
 Bishlomo in the teretz of the gemoro that the possuk is pronounced lemaan yelamedu, then i still need lemaan yishmeu otherwise I would have thought that lemaan yelamedu should be read: yilmedu, and i wouldn't be excluding a mute person. But in the hava mina that I can exclude a mute person from the posuk lemaan yilmedu as well then why do I need lemaan yishmeu, why can't I be memaet both a cheresh and ileym from lemaan yilmedu
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -5176,7 +5001,6 @@ R Karaguilla asks:
 
 
 ```
-
 Shalom u Bracha!!!!
 
 1) The Gmara says that we bring children to Hakhel to bring zechut to the father. Does that mean that for the child itself there is no purpose? Is it like bringing a bag of stones?
@@ -5185,7 +5009,6 @@ Shalom u Bracha!!!!
 
 ks for the att.
 Binyomin Karaguilla
-
 ```
 
 
@@ -5231,14 +5054,12 @@ R Karaguilla asks:
 
 
 ```
-
 Shalom u Bracha!!!!
 
 Comes out according to the Maase of Miriam, at the end of the daf, that a person could die before it was really decreed to him because of a "mistake" of the Malach?
 
 ks for the att.
 Binyomin Karaguilla
-
 ```
 
 
@@ -5281,14 +5102,12 @@ Max Beck asks:
 
 
 ```
-
 To whom it may concern,
 
 I am writing with regards to the machlokes between Hillel and Shammai considering whether the pre-Matan Torah korbanos were daily offerings or appearance offerings. Surely there is a deeper, more philosophical disagreement going on, as there normally is with these machlokes. Furthermore, it seems like the discussion is finished without a specific conclusion being reached. I am new to the daf, and to learning Gemara generally, and am wondering what I was missing in this conversation.
 
 Thank you very much. -Max
 Max Beck, Los Angeles, USA
-
 ```
 
 
@@ -5334,14 +5153,12 @@ Avrumi Hersh asks:
 
 
 ```
-
 6a middle.
 Rashi says that the gemoro is not asking a shaale about a koton chiger according to bes hillel, because bes hillel obviously don't obligate any koton in chinuch when they cant walk. The question is only according to bes shamai.
 
 But bes hillel only said that a koton who is too young to walk is not yet chayav in chinuch because of his age and stage. But bes hillel never said a blanket petur on chinuch of any child who can't walk for a different reason because he is lame now but he will get better before he grows up. It should be the same shaale according to bes hillel??!
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -5390,12 +5207,10 @@ Meir Glickman asks:
 
 
 ```
-
 First of all, I want to take the opportunity to thank you and the whole staff for this amazing site which I benefit from every single day. Even when I can't actually get to the daf, I look at the point-by-point so at least I can see what is going on and be a "spectator" if not actually doing the daf.
 My question relates to the end of today's daf: "One may not ask about what was before the world was created." I always had a problem with this. How can there be a question we cannot ask? Isn't asking questions the very basis of our knowledge? Furthermore this seems like a natural and reasonable question to ask, even our Torah knowledge does not provide an answer. Wouldn't it be better to say "the Torah does not answer this question" or "we just don't know" rather than "don't ask the question?" Especially when today there is a lot of scientific knowledge about the creation of the universe, none of which contradicts Torah, so silencing such questions is not only unnecessary but raises suspicion and doubt. Isn't it better to be honest and open and encourage people to seek out the truth?
 
 Meir Glickman, Beit Shemesh
-
 ```
 
 
@@ -5439,7 +5254,6 @@ Meir Glickman asks:
 
 
 ```
-
 >>First of all, I want to take the opportunity to thank you and the whole staff for this amazing site which I benefit from every single day. Even when I can't actually get to the daf, I look at the point-by-point so at least I can see what is going on and be a "spectator" if not actually doing the daf.
 My question relates to the end of today's daf: "One may not ask about what was before the world was created." I always had a problem with this. How can there be a question we cannot ask? Isn't asking questions the very basis of our knowledge? Furthermore this seems like a natural and reasonable question to ask, even our Torah knowledge does not provide an answer. Wouldn't it be better to say "the Torah does not answer this question" or "we just don't know" rather than "don't ask the question?" Especially when today there is a lot of scientific knowledge about the creation of the universe, none of which contradicts Torah, so silencing such questions is not only unnecessary but raises suspicion and doubt. Isn't it better to be honest and open and encourage people to seek out the truth?
 
@@ -5465,7 +5279,6 @@ Rav Yishai, I heard once that Rav Chaim Volozhiner asked the Gra what the Gra's 
 I don't have a source, but perhaps you've seen this before, and either way I wanted to share it.
 
 Thanks!
-
 ```
 
 
@@ -5506,12 +5319,10 @@ Avrohom Zachariash asks:
 
 
 ```
-
 My question is regarding all the Shiurei Daf Hayomi taking place this week.
 The Mishna says that Ma'aseh Breishis needs to be learned one-on-one. Then the Gemorah describes the æ' ø÷éòéí and other topics of îòùä áøàùéú - îòùä îøëáä. Seemingly the Shiurei Daf Hayomi should have to stop for these Blatt, that everyone should learn it on their own, as per the directive of the Mishna.
 
 Avrohom Zachariash, Brooklyn NY
-
 ```
 
 
@@ -5552,12 +5363,10 @@ Meir Glickman asks:
 
 
 ```
-
 First of all, I want to take the opportunity to thank you and the whole staff for this amazing site which I benefit from every single day. Even when I can't actually get to the daf, I look at the point-by-point so at least I can see what is going on and be a "spectator" if not actually doing the daf.
 My question relates to the end of today's daf: "One may not ask about what was before the world was created." I always had a problem with this. How can there be a question we cannot ask? Isn't asking questions the very basis of our knowledge? Furthermore this seems like a natural and reasonable question to ask, even our Torah knowledge does not provide an answer. Wouldn't it be better to say "the Torah does not answer this question" or "we just don't know" rather than "don't ask the question?" Especially when today there is a lot of scientific knowledge about the creation of the universe, none of which contradicts Torah, so silencing such questions is not only unnecessary but raises suspicion and doubt. Isn't it better to be honest and open and encourage people to seek out the truth?
 
 Meir Glickman, Beit Shemesh
-
 ```
 
 
@@ -5598,12 +5407,10 @@ Pesach Rogoway asks:
 
 
 ```
-
 1.Did you know that photos of the earth from outer space show a green line around the earth?!! My friend Kenny Koslowe told me and I found pictures.  If you're interested, please email me.
 2. Where did the tosefta get its info?
 
 Pesach Rogoway, Petach Tiva, Israel
-
 ```
 
 
@@ -5651,7 +5458,6 @@ Daniel Steinberg asks:
 
 
 ```
-
 According to the Bach’s understanding of the Rif, Rav Huna’s main point is that even though R’Yochanan just told us that when you say “Hareini” it’s like Shelem and you get the Keifel, don’t think it is exactly like Shelem. Because by cases of Shelem, the Baal’s acceptance of the payment is an inherent Mechila on the Shvua She Aino B’rshuso, whereas by cases of “Hareini” it’s not. 
 
 Acc to the Rosh’s understanding of the Rif, Rav Huna’s main point is that even though R’Yochanan just told us that when you say “Hareini” it’s like Shelem and you get the Keifel, don’t think it is exactly like Shelem. Because by cases of Shelem, the Baal is willing to give the Keifel even before the Shvua She Aino B’rshuso, whereas by cases of “Hareini”, he is not. When you say “Hareini’ you must swear Aino B’Rshuso before the Baal is willing to be Makneh you the Keifel.
@@ -5663,7 +5469,6 @@ Since the Rosh understands the Rif to be holding that even when a Shomer pays he
 This is not necessarily the case according to the Bach’s understanding of the Rif. Since there is a already an inherent Chiluk between saying Hareini and paying, i.e. when you pay you don’t have to swear anymore, it could be that when you say Hareini, the Baal would be willing to Makneh you the Keifel - even before you swear Aino B’RShuso - no different than he is willing to be Makneh the Keifel when you pay, like in the Rosh’s understanding of the Rif. B'chavod.
 
 Daniel Steinberg, Columbus
-
 ```
 
 
@@ -5702,7 +5507,6 @@ H David Levine asks:
 
 
 ```
-
 >>What reason is there for the two scholars to have changed their style of blessing, between the visits of bar Yochai's first and second sons?
 
 H David Levine, Roanoke, VA  USA<<
@@ -5748,7 +5552,6 @@ Yishai Rasowsky<<
 H David Levine  asks:
 
 Put another way, because I feel the remorse for suspecting the travelling scholars of anything but the most excellent conduct, . . . what is offered in the halacha concerning blessing someone cryptically, in a way that has pitfalls to understanding?  Didn't Hillel mean just that, by, "something impossible to hear, that is eventually heard?"
-
 ```
 
 
@@ -5792,11 +5595,9 @@ H. David Levine asks:
 
 
 ```
-
 How is it depended upon one's father, as in Kiddushin 29a, and the beis din, in a father's absence, to provide a wife for his son, unless these verses are misconstrued?
 
 H. David Levine, Roanoke, VA; USA
-
 ```
 
 
@@ -5842,7 +5643,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel! I am learning Chagiga and the maggid shiur discussed aninus briefly, which brought me to some questions.
 
 In general, is onein just patur from mitzvahs or actually prohibited to do an aseh?
@@ -5856,7 +5656,6 @@ What does he do in the midst of an ongoing mitzvah like sefira haomer? Or if he 
 Lots of questions I know, but thank you!
 
 Josh
-
 ```
 
 
@@ -5913,7 +5712,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel! I am learning Chagiga and the maggid shiur discussed aninus briefly, which brought me to some questions.
 
 In general, is onein just patur from mitzvahs or actually prohibited to do an aseh?
@@ -5927,7 +5725,6 @@ What does he do in the midst of an ongoing mitzvah like sefira haomer? Or if he 
 Lots of questions I know, but thank you!
 
 Josh
-
 ```
 
 
@@ -5973,11 +5770,9 @@ Tuvya Marcus  asks:
 
 
 ```
-
 What's the difference between "Limdo Torah" and "Limdo Chochmah"?
 
 Tuvya Marcus , Jerusalem  Israel
-
 ```
 
 
@@ -6019,11 +5814,9 @@ H David Levine asks:
 
 
 ```
-
 I don't know how to abide with the sentiments that Huna expresses.  Could there be an explanation?  Rav Yehuda in the name of Rav sounds like a different matter altogether.   "Whomever is in difficulty over mourning more than seeming," sounds as though another hesped is already being undergone, somewhere else or in another chavrusa, as the Talmud describes in the previous few lines, in the visit of Rav Hamnuna. 
 
 H David Levine, Roanoke, VA  USA
-
 ```
 
 
@@ -6064,11 +5857,9 @@ Tzvi B asks:
 
 
 ```
-
 What reward do goyim get in olam haba and how does it differ from ours?
 
 Tzvi B, United Kingdom
-
 ```
 
 
@@ -6117,7 +5908,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel! A few questions on the current mishna yomis . Apologies if these are basic:
 
 1) the last mishnayot of peah discuss if a wealthy person can take the matanos. If a person has 200 zuz in an inaccessible place is that considered wealthy? Or does he need to be able to access it?
@@ -6130,7 +5920,6 @@ It seems like the main thing is the separating but since kohanim can’t eat tevel
 Thanks and good shabbos!
 
 Josh
-
 ```
 
 
@@ -6187,11 +5976,9 @@ Yosef Zargari asks:
 
 
 ```
-
 Rashi writes (top of 30b) that the reason david hamelech would learn on shabbos is so that the angel of death should not kill him, like the gemara says is sotah (21a). I do not understand why Rashi would give such a source (which does not say death straight out) when he has a very clear, and seemingly better source (which says death straight out) in Maseches Makos 10a!
 
 Yosef Zargari, Los Angeles California
-
 ```
 
 
@@ -6236,12 +6023,10 @@ Avraham Sacks asks:
 
 
 ```
-
 What would be gained by buying the ketores with last year’s shekalim? – wouldn’t it have the same kedushah that it started out with – the kedushah of the previous year’s terumas halishkah?
 Thank you for your help
 
 Avraham Sacks, Ramat Beit Shemesh
-
 ```
 
 
@@ -6284,7 +6069,6 @@ Avraham Sacks asks:
 
 
 ```
-
 >>The Gemarra is asking that since the Lechem Hapanim stayed hot anyhow the entire week by miracle we do not need to be concerned about putting them on a silver table which will heat them up.  The Gemarra answers that we do not rely on a miracle.
 
 I do not understand the initial problem with the silver table - how is possible that the silver table could increase the heat of the Lechem Hapanim to create a problem if the Lechem Hapanim were already piping hot?
@@ -6303,7 +6087,6 @@ Avraham Sacks asks:
 
 Thank you very much for your help and time
 I thought the Mishnah wrote that this table was on inside of the Ulam before the entrance into the Heichal?
-
 ```
 
 
@@ -6358,13 +6141,11 @@ Avraham Sacks asks:
 
 
 ```
-
 The Gemarra is asking that since the Lechem Hapanim stayed hot anyhow the entire week by miracle we do not need to be concerned about putting them on a silver table which will heat them up.  The Gemarra answers that we do not rely on a miracle.
 
 I do not understand the initial problem with the silver table - how is possible that the silver table could increase the heat of the Lechem Hapanim to create a problem if the Lechem Hapanim were already piping hot?
 
 Avraham Sacks, Ramat Beit Shemesh
-
 ```
 
 
@@ -6405,11 +6186,9 @@ Tzvi B asks:
 
 
 ```
-
 Where does it say that a mechalel shabbos goes to the seventh level of gehinom forever?
 
 Tzvi B, Manchester
-
 ```
 
 
@@ -6452,7 +6231,6 @@ Davic1 asks:
 
 
 ```
-
 Greetings. I have a great deal of trouble understanding the apologetical writings justifying the study of the Zohar by the Gaon of Vilna and its interpretations in the writings by R. Chaim Vital attributing them to the Arizal for a very simple reason.
 
 Whatever the merits of portions or all of the Zohar, the fact is that it only appeared many hundreds of years after the closing of the Talmud and was found in the possession of a single individual, whatever its origins, who was R. Moshe de Leon. Therefore logically it cannot be said that the Zohar itself can be considered as important as the Talmud Yerushalmi or Bavli, or the midrashim that we know originated from the time of Chazal, and which had no reference at all in the Talmuds or Mishnah. Furthermore, all the claims made about Rashbi in the Zohar itself are absent from the Talmuds, and nothing quoted in his name to any extent in the Zohar are found in the Talmuds.
@@ -6461,7 +6239,6 @@ In a way it is not all that unlike the issue of the Megillas Taanis, which altho
 
 Kind regards,
 David Goldman
-
 ```
 
 
@@ -6511,11 +6288,9 @@ Naftoli Willner asks:
 
 
 ```
-
 The Gemara says Arba'ah Nichnesu la'Pardes.  Did they go together?  If not (and they went at separate times) how were they permitted to go and put themselves into a possible situation of Sakanah?  They would have seen (at least the third one) that there was no guarantee to come out unharmed since it was only Rabbi Akiva that came out that way.
 
 Naftoli Willner, Baltimore, United States
-
 ```
 
 
@@ -6563,7 +6338,6 @@ H David Levine asks:
 
 
 ```
-
 >>How is it not known, "behind the, 'pargud,'" that kol shelo leshma, bo leshma?
 
 H David Levine, Roanoke, VA  USA<<
@@ -6586,7 +6360,6 @@ Yishai<<
 H David Levine asks:
 
 I wasn't understanding behind the, "pargud," to mean bas kol.  Bas kol is prophetic, but what if pargud is just sicha b'alma?
-
 ```
 
 
@@ -6625,11 +6398,9 @@ H David Levine asks:
 
 
 ```
-
 How is it not known, "behind the, 'pargud,'" that kol shelo leshma, bo leshma?
 
 H David Levine, Roanoke, VA  USA
-
 ```
 
 
@@ -6677,15 +6448,13 @@ davic1 asks:
 
 
 ```
-
 Greetings, again. I am looking at chapter 30:25. Can we say that the people who were coming at the time of King Chizkiyahu who Metzudas David says were converts (and had not yet deteriorated) from the Land were the earliest Kusim, since it is possible that they had arrived from Habor perhaps 10 years earlier, assuming it took a few years for them to arrive?
 
 In 35:18 I don’t understand Rashi’s statement that the time of the Judges was from the time of Shlomo, since that time was not identified any longer as the time of the judges. The other commentators (on Sefaria) also don’t address this. Why should it be said that the Jews did not perform the Pesach with such purity even in the time of David and Shlomo?
 
 With regard to the Ten Tribes, it seems we have enough sources to explain that all the tribes had enough members assimilated with Yehuda and Binyamin to assume that from the time of Bayis Sheni until today we have been composed of all the tribes. Sources tell us that members of the 10 tribes moved into Yehuda/Shimon/Binyamin throughout the king period, plus were brought back by Yirmiyahu, plus returned with the Olei Bavel, plus some were still living in the Land all along.
 
-David Goldman 
-
+David Goldman
 ```
 
 
@@ -6727,13 +6496,11 @@ Daniel Gray asks:
 
 
 ```
-
 Greetings. I was wondering why Tosafos does not address the issue of the location of “Yam Suf” in Sefer Melachim 28 which says it is near Eloth. If Tosafos is the only source suggesting that the Yam Suf close to Goshen in the North, how does he explain its use referring to a body of water near Eilat etc., meaning at the Gulf of Aqaba? In addition, isn’t it possible to determine the location of the Yam based on the time it took to get there from Goshen or to the subsequent stops? And since Yam Suf is mentioned elsewhere in the Torah that seem to place it nearer to Sinai, isn’t it possible that Tosafos is incorrect? And why wouldn’t Tosafos have addressed all the references?
 
 Thanks,
 
 David Goldman
-
 ```
 
 
@@ -6778,11 +6545,9 @@ Tzvi B asks:
 
 
 ```
-
 Where is it brought down that the pain of gehinom is shame/embarrassment?
 
 Tzvi B, Manchester
-
 ```
 
 
@@ -6801,7 +6566,6 @@ One good place to look is Daniel 12:2, and Chazal which cite it in Sanhedrin 92 
 I hope this helps!
 Warm regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -6823,7 +6587,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel,
 
 I’ve been learning mishna kilayim, and had a question.
@@ -6834,7 +6597,6 @@ I realize this maybe more from the side of nistar but I’m curious about the “hal
 Side of the understanding. Thank you!
 
 Josh
-
 ```
 
 
@@ -6877,7 +6639,6 @@ Joshua Danziger asks:
 
 
 ```
-
 >>Hello kollel! I am learning Chagiga and the maggid shiur discussed aninus briefly, which brought me to some questions.
 
 In general, is onein just patur from mitzvahs or actually prohibited to do an aseh?
@@ -6914,7 +6675,6 @@ Joshua Danziger asks:
 Rav yishai, I saw a possible svara from the rambam. In hilchot parah adumah 4:14 the rambam says a kohen who slaughters while an onein is acceptable. This would seem to me that according to the rambam an onein may be patur but he’s not prohibited from doing mitzvot.
 
 Shabbat Shalom
-
 ```
 
 
@@ -6958,13 +6718,11 @@ Avrumi Hersh asks:
 
 
 ```
-
 Daf 28
 Why is it a gnay  to say that miriam died with a neshika from hashem?
 I understand something like tumas merkav is a gnay cos we don't want to mention pissuk raglayim by an isha, but what is wrong with a neshika Al pi hashem?!
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -7021,13 +6779,11 @@ Avrumi Hersh asks:
 
 
 ```
-
 Daf 28
 Why is it a gnay  to say that miriam died with a neshika from hashem?
 I understand something like tumas merkav is a gnay cos we don't want to mention pissuk raglayim by an isha, but what is wrong with a neshika Al pi hashem?!
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -7077,7 +6833,6 @@ Paul Davidowitz asks:
 
 
 ```
-
 >>Ran 2.d.1
 
 https://dafyomi.co.il/nedarim/tosfos/nd-ts-022.htm#:~:text=(d),seems%20to%20me.
@@ -7099,7 +6854,6 @@ This clearly means l'chatchila.
 
 - Happy Purim!
 (Note: I am currently not under the influence of alcohol.)
-
 ```
 
 
@@ -7138,7 +6892,6 @@ Paul Davidowitz asks:
 
 
 ```
-
 Ran 2.d.1
 
 https://dafyomi.co.il/nedarim/tosfos/nd-ts-022.htm#:~:text=(d),seems%20to%20me.
@@ -7146,7 +6899,6 @@ https://dafyomi.co.il/nedarim/tosfos/nd-ts-022.htm#:~:text=(d),seems%20to%20me.
 How does this understanding accord with all the mishnas that (seem to) say that l'chatchilah yes absolve?!  There (apparently) are no other opinions on the matter besides Beis Hillel and Beis Shammai.
 
 Paul Davidowitz, Long Beach, NY, USA
-
 ```
 
 
@@ -7185,7 +6937,6 @@ Joshua Danziger asks:
 
 
 ```
-
 >>Hello kollel! A few questions on the current mishna yomis . Apologies if these are basic:
 
 1) the last mishnayot of peah discuss if a wealthy person can take the matanos. If a person has 200 zuz in an inaccessible place is that considered wealthy? Or does he need to be able to access it?
@@ -7231,7 +6982,6 @@ Rav Yishai, may I ask some possibly more basic questions?
 2) if the maaser is a requirement, how can we rely on the fact that rov amei haaretz in fact take maaser? Isn’t it safek de oraysa lechumra, meaning demai would have to be tithed out of doubt not just bc of rabbinic enactment? Or is the leniency specifically bc it’s being sold so it’s not “the produce of your crops”.
 Said differently on #2, without the decree of demai would people be relying that rov amei tithed or that the rules are different for a sale of produce vs your own growth?
 3) in general I am trying to understand the difference between bittul berov of vadai terumah in a mixture vs the idea that we can really ignore it based on a simple majority of amei haaretz. I may not be expressing this clearly, but how come there’s no concept like 1 in 60 or 1 in 200 for a scenario like this (or similarly if there’s x number or treif butchers vs x+1 of kosher and you find a piece of meat in the vicinity).
-
 ```
 
 
@@ -7275,11 +7025,9 @@ Avraham Sacks asks:
 
 
 ```
-
 Why was R' Yehudah not concerned with chataos whose owners have not certainly died?
 
 Avraham Sacks, Ramat Beit Shemesh
-
 ```
 
 
@@ -7320,7 +7068,6 @@ Avraham Sacks asks:
 
 
 ```
-
 >>If a non Jew did not send nesachim why did the Beis Din institute that the tzibur should pay for it?
 Thank you very much for your help
 
@@ -7339,7 +7086,6 @@ Avraham Sacks asks:
 
 Thank you
 I wanted to know why the Beis Din instituted to supply the non Jew's nesachim - if he did not supply it then don't offer it.  Seemingly before the Beis Din instituted this they did not supply his nesachim - so why did they feel compelled to supply his nesachim from the funds for the Jewish tzibur?
-
 ```
 
 
@@ -7384,7 +7130,6 @@ Avraham Sacks asks:
 
 
 ```
-
 >>If someone found the kofitz on the thirteenth why could he use it immediately – perhaps the original owner had not yet toiveled it – perhaps he was planning to toivel it late on the 13th just before Shabbos
 
 Avraham Sacks, Ramat Beit Shemesh<<
@@ -7401,7 +7146,6 @@ Avraham Sacks asks:
 Thank you for your help.
 you wrote: "unless the 14th is Shabbos in which case if found on the 14th the Kofitz can be assumed to have been Toveled"
 the Mishnah writes that he many shect with it immediately - if the 14th is Shabbos and he found it on Shabbos is it permitted to shect with it immediately on Shabbos?
-
 ```
 
 
@@ -7444,11 +7188,9 @@ Avraham Sacks asks:
 
 
 ```
-
 If someone found the kofitz on the thirteenth why could he use it immediately – perhaps the original owner had not yet toiveled it – perhaps he was planning to toivel it late on the 13th just before Shabbos
 
 Avraham Sacks, Ramat Beit Shemesh
-
 ```
 
 
@@ -7488,11 +7230,9 @@ jacques sueke asks:
 
 
 ```
-
 why wont the gemara consider the question of muktzer when shabbat is on the first day of sukot?why isnt there the risk of carrying the lulav out of home when shabbat is on the first day on sukkot. if there is no risk of carrying the lulav out of home on the 1st day of sukkot so why in our days it is forbidden to shake the lulav even when  shabbat is on the first day of sukkot     
 
 jacques sueke, jerusalem israel
-
 ```
 
 
@@ -7535,7 +7275,6 @@ S Feldinger asks:
 
 
 ```
-
 Hello
 
 I struggle to understand the concept. I will explain. The Koban Mussaf on Shabbos doesn't need the explanation of Aseh Doche in order to give us a understanding why it was OK to bring it. The same HASHEM that doesn't want you to do any of the 39 Melachos, commanded to yes bring the Korban Mussaf. It's not because Aseh Doche. It's done because this is the Tzivui of HASHEM.
@@ -7543,7 +7282,6 @@ I struggle to understand the concept. I will explain. The Koban Mussaf on Shabbo
 The Smuchin of Shaatnez and Tzitzs puts the Mitzvah for me into the same category. HASHEM says "No Shaatnez" but at the same time HE says "make yoursef Tzitzis". It's not because Aseh Doche. It's because HASHEM said it. Other Mitzvos which are spread out in the Torah and one Aseh has nothing to do with the Lo Taashe (like Mezora and Hakofas Rosh, the two commandment come from two different angels, one could understand maybe the concept of Aseh Doche. But not by a Semuchin.
 
 Shloime Feldinger
-
 ```
 
 
@@ -7585,14 +7323,12 @@ Avrumi Hersh asks:
 
 
 ```
-
 5a bottom
 The idoch tanna that learns from rosho to nozir says, "I would have thought that a metzora nozir is not allowed to shave because of the posuk taar lo yaavor berosho, ko mashma lon rosho" 
 
 But lefi the maskonas hagemoro, (that in this special case, we are even doche an asey) Then why doesn't the tanna say a much bigger chiddush, "I would have thought that a metzora nozir is not allowed to shave because of the posuk gadel perah ko mashma lon rosho (that I'm even doche an asey)??
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -7633,7 +7369,6 @@ Naftoli Willner asks:
 
 
 ```
-
 The Gemarah goes back and forth on sources for Aseh Docheh Lo Sa'aseh - and sometimes citing sources where the other is true and why we don't learn from those sources.
 
 I am wondering why the Gemara (and the meforshim that I saw) seem to be silent and not to bring from the Gemarah in æáçéí öæ that says àéï Aseh Docheh Lo Sa'aseh ùáî÷ãù which seems to be a rule that the Gemara learns out from the fact that one in prohibited from eating the marrow from the bones of the Korbon Pesach - and other areas where one is not permitted to eat the meat of Korbonos.  Why is it not asked that we should learn from here that Aseh is not Docheh Lo Sa'aseh.  I couldn't find anyplace that this question is raised.
@@ -7641,7 +7376,6 @@ I am wondering why the Gemara (and the meforshim that I saw) seem to be silent a
 Thank you so much for providing a forum for questions such as these.
 
 Naftoli Willner, Baltimore, United States
-
 ```
 
 
@@ -7682,7 +7416,6 @@ Juno asks:
 
 
 ```
-
 Dear Rabbi Kornfeld,
 
 On Daf 16b, there’s a description of Amon and Moav attacking a sefer Torah. A little bit further, there is a halacha that a non-Jew who gives kiddushin that chosheshin likedushov that he might be from Aseres hashevatim.
@@ -7690,7 +7423,6 @@ On Daf 16b, there’s a description of Amon and Moav attacking a sefer Torah. A li
 Why don’t we say, “ba sancheriv ubilbel es ha’umos”?
 
 Thank you.
-
 ```
 
 
@@ -7731,15 +7463,13 @@ Samuel Kosofsky asks:
 
 
 ```
-
 Rebbe,
 
 How many Rav Kahane's were there in the gemara? The usual Rav Kahane is a talmid of Rav. He wouldn't be talking to Rav Ashi about remembered testimony or prompted memory. Rav Ashi was sof horaa a much later generation?
 
 Kol tuv,
 
-Shmuel Kosofsky 
-
+Shmuel Kosofsky
 ```
 
 
@@ -7787,7 +7517,6 @@ Ari asks:
 
 
 ```
-
 >>According to Rebbi Yehuda (who we dont pasken like) that the eastern boder of Eretz Yisrael just keeps going further west, will crete and cyprus be considered part of retz Yisrael?
 Also how far west would it go according to Rebbi Yehuda?  Would a theoretically hold that southern flodida or even  parts of central/ southern america are part of Eretz Yisrael?
 Thanks for spending time to answer my questions
@@ -7814,7 +7543,6 @@ Link: https://dafyomi.co.il/gitin/backgrnd/gi-in-008.htm<<
 A K asks:
 
 Thank you for your reply.  According to Rebbi Yehuda, would the northern coast of Africa that is parallel to Nachal Al Arish be considered Eretz Yisrael (if so parts of Egypt and Libya would be Eretz Yisrael)., or only the islands in te mediterranean sea?
-
 ```
 
 
@@ -7854,7 +7582,6 @@ Davic1 asks:
 
 
 ```
-
 Greetings again! 
 
 I was very curious why it is that the mishnah in Kiddushin 80 about yichud does not even mention WHO or WHEN the takkana was established even according to R. Shimon, and that it was a comment of R. Yochanan/R. Yishmael that shed light on that based on a posuk (which itself is a bit hard to understand). If there was a scriptural basis for the takkana, why wasn't it mentioned in the mishnah, and indeed, WHY would we care about a scriptural source at all whenever a takkana is issued by the Sanhedrin, what difference does it make whether or not there was a scriptural basis??!
@@ -7869,7 +7596,6 @@ I am not sure I understand really why there would be need for a prohibition of y
 
 Thanks,
 David Goldman
-
 ```
 
 
@@ -7929,7 +7655,6 @@ Davic1 asks:
 
 
 ```
-
 >>Greetings again! 
 
 I was very curious why it is that the mishnah in Kiddushin 80 about yichud does not even mention WHO or WHEN the takkana was established even according to R. Shimon, and that it was a comment of R. Yochanan/R. Yishmael that shed light on that based on a posuk (which itself is a bit hard to understand). If there was a scriptural basis for the takkana, why wasn't it mentioned in the mishnah, and indeed, WHY would we care about a scriptural source at all whenever a takkana is issued by the Sanhedrin, what difference does it make whether or not there was a scriptural basis??!
@@ -7984,8 +7709,7 @@ But beyond that, nowadays women are no longer in a subordinate role, and are aut
 
 Furthermore, how does the issue of chezkas kashrus of a person or EVEN social practices in society fit into the picture? The essential view in these matters is basically that even an ordinary kosher Jew or moral person has a chazaka of being a potential sex maniac at the drop of a hat. This doesn't fit well with the concept of chezkas kashrus.
 
-2) Finally, one would want to address the issue of doing sins in isolation. If one is afraid of two people doing a sexual prohibition behind locked doors, then why should it stop there?! If a person is in a place where he could smoke on shabbos and no one sees him, or is confronted with traif meat without anyone around, why shouldn't Chazal have established fences for those situations as well?! It is much more likely that a person would do an aveyra when alone than when he is with a woman. And surely regardless of the door being locked the second person could have a change of heart, and scream, alert or later accuse the other person (such as for attempted rape or seduction, which does happen often in society). 
-
+2) Finally, one would want to address the issue of doing sins in isolation. If one is afraid of two people doing a sexual prohibition behind locked doors, then why should it stop there?! If a person is in a place where he could smoke on shabbos and no one sees him, or is confronted with traif meat without anyone around, why shouldn't Chazal have established fences for those situations as well?! It is much more likely that a person would do an aveyra when alone than when he is with a woman. And surely regardless of the door being locked the second person could have a change of heart, and scream, alert or later accuse the other person (such as for attempted rape or seduction, which does happen often in society).
 ```
 
 
@@ -8041,7 +7765,6 @@ Rabbi Wagner asks:
 
 
 ```
-
 B"H
 
 Shalom,
@@ -8051,7 +7774,6 @@ I know this is a hard question, but do you have an idea why suddenly the gemara 
 I mean on a deeper level. I understand that they started with Rav chana from Bagdath on the name almana and then carriedmon with additinal sayings by him, but why exactly those????
 
 Rabbi Wagner, krefeld, Germany
-
 ```
 
 
@@ -8108,7 +7830,6 @@ Rabbi Wagner asks:
 
 
 ```
-
 B"H
 
 Shalom,
@@ -8118,7 +7839,6 @@ I know this is a hard question, but do you have an idea why suddenly the gemara 
 I mean on a deeper level. I understand that they started with Rav chana from Bagdath on the name almana and then carriedmon with additinal sayings by him, but why exactly those????
 
 Rabbi Wagner, krefeld, Germany
-
 ```
 
 
@@ -8168,7 +7888,6 @@ Avrumi Hersh asks:
 
 
 ```
-
 26b mishna
 
 Tosafos learns that Al yedey momon is ossur to husband because she will do znus with her captors berotzon, because she wants to save her life and she knows her life is in danger.
@@ -8177,7 +7896,6 @@ So how does he explain the gemoro that says: in a place of goyishe government, t
 Why should she be ossue to her husband? I understand that where the goyim are in charge then they can be mafkir her for znus (so she would be ossur for kehuna at least) but they still won't kill her because they won't make any money, even by a goyish government, so acc to tosafos, why would she do znus berotzon to save her life, her life is definitely not in danger?!
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -8217,14 +7935,12 @@ Avrumi Hersh asks:
 
 
 ```
-
 Daf 32b bottom line
 The gemoro says that reb yochonon disagrees with ulla, who says that tashlumin comes b4 malkos, because, the you are mebatel the lav of ervas achoscho.
 
 Why didn't the gemoro say, you are mevatel every lav which has with it tashlumin.  There are probably dozens more examples of a lav which has no validity for malkos, at least in this h"a of the gemoro?
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -8264,7 +7980,6 @@ Avrumi Hersh asks:
 
 
 ```
-
 32a
 The gemoro says that Acc to ulla, this braisa in makkos that says that with a sister you get malkus, applies only when there's no money to pay, e.g. a shoteh who has no boshes or pegam. In that case you get malkus for sister cos there's no momon.
 
@@ -8275,8 +7990,6 @@ I find it very hard to believe that this is not called chovel, even if there is 
 
 
 Avrumi Hersh, London england
-
-
 ```
 
 
@@ -8298,7 +8011,6 @@ Rashi and Tosfos there (Makos 13a) explain the reason the Tana chose to discuss 
 I hope this helps!
 Warm regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -8320,13 +8032,11 @@ Avrumi Hersh asks:
 
 
 ```
-
 33a bottom
 The gemoro tries to prove from oson, that chovel pays momon not malkus.  Since we see you have hasrooh, and the lady did not die, so there is no chiyuv misah only a chiyuv of malkus of chovel and still the torah says "pay for the vlodos" so obviously momon comes first.   
 But here you pay momon to the father of the fetus, and you are chayav malkus for the woman who you hit.  That's 2 sperate people, so who says you don't get both.  (Only reb ashi, on the top line of 31a said that 2 different people is still pottur for kom ley bideraboh, and that's by misah and momon who says it's the same by malkus and momon?)
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -8368,13 +8078,11 @@ Tuvya Marcus  asks:
 
 
 ```
-
 The gemara bottom of 33b:
 
 Is the point that the shaliach (who apparently was just given the animal to shecht and sell without knowledge of its being a shor haniskal etc) was not chayav anything so his doing  the Shechitah u'Mechirah does produce a Chalos.  which then goes back to the Shole'ach and adds on the Tashlumim which he'd otherwise be Patur due to Kam Leih b'Rabah Mineih.
 
 Tuvya Marcus , Jerusalem Israel
-
 ```
 
 
@@ -8420,11 +8128,9 @@ Dr. Moshe Kaplan asks:
 
 
 ```
-
 The Amoraim discuss what the pain of raping feels like. How did they know - did they ask women about it?
 
 Dr. Moshe Kaplan, Jerusalem, Israel
-
 ```
 
 
@@ -8469,13 +8175,11 @@ Avrumi Hersh asks:
 
 
 ```
-
 43b rashi 1st middle line
 
 Rashi says that acc to reb ami, she, (the kallah) is Mochel on the shibud from the 1st zman of the kesubah.    Rash iexplains we are going in shitas reb yehuda, so what right does she have to be mochel anything, surely its her fathers right to he mochel, not hers?
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -8515,7 +8219,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 The gemara discusses a woman selling her ketuba to her husband, and deals with ramifications for kesubos banin dichrin etc
@@ -8524,7 +8227,6 @@ Here’s the question. I thought that if the wife loses or misplaces the kesuba sh
 
 Thanks!
 Josh
-
 ```
 
 
@@ -8569,7 +8271,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 In the daily mishna , maasrot 3:10 it discusses various cases where we go by the branch or the trunk for different purposes. The rav says that for purposes of arei miklat “if the trunk is outside and the branches inside the branches do not save bc the trunk doesn’t save and the rule is the trunk follows the branches for stringency.”
@@ -8580,7 +8281,6 @@ It seems like they are in conflict, or the scenario is reversed? What is the hal
 
 Thank you.
 Josh
-
 ```
 
 
@@ -8625,14 +8325,12 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 In the mishna maasros 2:4 we have a redundant statement where “the sages permit except for a basket of figs. A basket of figs from which one has separated terumah, rabbi shimon matirs, the sages assur.” But the last part is obvious so why is it repeated? Maybe to keep the flow for memorization purposes?
 
 Thank you.
 Josh
-
 ```
 
 
@@ -8677,7 +8375,6 @@ A K asks:
 
 
 ```
-
 The mishna in evodah zara says not to rent to a goy because he brings in evodah zara
 1.  why is this just in eretz yisrael and not chutz laaretz?
 2. what would be the din by a arab who doesnt do avodah zara?  What about a goyish athiest?
@@ -8685,7 +8382,6 @@ The mishna in evodah zara says not to rent to a goy because he brings in evodah 
 4. Wht about a Christian nowadays?  Most chiristians today dont practice much dont have Jesus figurine idols in their houses?
 
 A K,
-
 ```
 
 
@@ -8759,7 +8455,6 @@ Menachem Zaman asks:
 
 
 ```
-
 The Gemara on 2b says:
 
 "V'Aima Mechitzah Plugta k'd'Kesiv va'Tehi etc. v'Keivan d'Ratzu Bonin Es ha'Kosel b'Al Korcho, Alma Hezek Re'iah Shemeih Hezek."
@@ -8767,7 +8462,6 @@ The Gemara on 2b says:
 If mechitza means pelugta, which would oblige each party to build a wall lest there be Hezek Re'iah, but then why is a wall required? Let me simply put up a thick sheet or whatever else to prevent Hezek Re'iah? If a wall is dafka required, does that mean Hezek Re'iah is lav dafka referring to visual tresspassing but can also be referring to trespassing by eavesdropping on your neighbor's conversations? If Hezek Re'iah would include auditory trespassing (i.e. eavesdropping),then we can understand why a wall is required instead of a flimsy divide such as a sheet.
 
 Menachem Zaman, United States
-
 ```
 
 
@@ -8812,13 +8506,11 @@ Simon Levy asks:
 
 
 ```
-
 A question which has troubled me for a number of years - why do we not use a Shabbat Mussaf model with Yom Tov additions when it's Shabbat Rosh Chodesh/Chol Hamoed? Why do we insist on using a totally different layout from the usual Shabbat tefilla for this specific tefilla?
 
 In addition, what's the rationale for following Rebbi when it comes to this? The first Beraisa on the DAF refers to Yom Tov which falls on a Shabbat - why do we then follow him when it comes to Shabbat Rosh Chodesh/Chol Hamoed - it's a separate Beraisa and the gemara doesn't mention Rebbi at all...
 
 Simon Levy, Modiin
-
 ```
 
 
@@ -8873,7 +8565,6 @@ Sender Klein asks:
 
 
 ```
-
 I am trying to clarify the machlokes amongst R' Shimon, R' Yehuda and R' Nechemia.  First I thought that R' Shimon holds once something has a use, it's not muktzeh, whereas R' Yehuda splits things into categories based on who uses them - things meant for people are not allowed to be used for animals (33a the case before the mishna, where we would assume a goose is meant for human consumption and thus may not be fed to a cat), and the reverse (the first mishna in the perek, where the pile of straw stored up for animal feed may not be used for burning).  R' Nechemia further requires that each thing be used for its main use only, as in the case of the knife for cutting a rope on 32a.
 Then I came across the statement that wood is only for burning on 33a, and R' Shimon permits it for other purposes.  The basic reading of Rashi seems to me to put  this statement within R' Yehuda's view, but I don't see how this fits with what I wrote above.  Can you give me an idea of who says this statement and why, or help me understand where R' Nechemia and R' Yehuda argue?
 Thanks!
@@ -8884,7 +8575,6 @@ Best,
 -Sender
 
 Sender Klein, United States
-
 ```
 
 
@@ -8938,7 +8628,6 @@ Moshe Rubin asks:
 
 
 ```
-
 The mishna of meshilin seems to speak to certain leniencies by yom tov including engaging in tircha that would otherwise be assur drabonon where there is hefsed mamon.
 
 Other than ochel nefesh, the issurim of shabbos generally are the same by yom tov.
@@ -8946,7 +8635,6 @@ Other than ochel nefesh, the issurim of shabbos generally are the same by yom to
 Why (and what is the source for) general leniencies by yom tov for other reasons?
 
 Moshe Rubin, Brooklyn, ny
-
 ```
 
 
@@ -8971,7 +8659,6 @@ Yishai Rasowsky
 Sources:
 1. https://www.sefaria.org.il/Beitzah.37a.10?lang=he&with=Rashi&lang2=he
 2. https://www.sefaria.org.il/Beitzah.37a.15?lang=he&with=all&lang2=he
-
 ```
 
 
@@ -8993,7 +8680,6 @@ Moshe Rubin asks:
 
 
 ```
-
 The mishna of meshilin seems to speak to certain leniencies by yom tov including engaging in tircha that would otherwise be assur drabonon where there is hefsed mamon.
 
 Other than ochel nefesh, the issurim of shabbos generally are the same by yom tov.
@@ -9001,7 +8687,6 @@ Other than ochel nefesh, the issurim of shabbos generally are the same by yom to
 Why (and what is the source for) general leniencies by yom tov for other reasons?
 
 Moshe Rubin, Brooklyn, ny
-
 ```
 
 
@@ -9047,11 +8732,9 @@ Moshe Rubin asks:
 
 
 ```
-
 If shabbos is kovea for hilchos maaser With this extend to all areas of eating on Shabbos search that one could not eat any food even arai out of a sukkah?
 
 Moshe Rubin, Brooklyn,ny
-
 ```
 
 
@@ -9101,12 +8784,10 @@ kerfish asks:
 
 
 ```
-
 Is shmita nowadays deraisa or derabon and why?  I have heard different reasons its derabon (you need bias kulchem and all Jews have to be in Israel, you need the shevatim to be sitting in their respective teriories, we have no urim veturim) but dont know which ones are true and not true.
 Thanksfor ll your help    
 
 kerfish,
-
 ```
 
 
@@ -9154,11 +8835,9 @@ A K asks:
 
 
 ```
-
 I know there i the well kown teshuva of Rav Moshe Feintein who says to live in Eretz Yiroel is only a kiyum mitvah and not a chiyuv.  Are there any achronim/poskim/other seforim that argue on Rav Moshe and say that living in Irael is a obligation like wearing tefillin?
 
 A K, Jerusalem
-
 ```
 
 
@@ -9219,7 +8898,6 @@ Menachem Zaman asks:
 
 
 ```
-
 I sent a question a couple months ago regarding Tosfos's use of chazakah. Tosfos disputes Rashi's explanation of the din is the chiyuv to search for Chametz. He says because:
 
 v'Od Kasheh d'Gabei Teshah Chanuyos Leika Chezkas Heter Aval Hachah Ukma a'Chezkas Baduk d'Ha b'Baduk Mairi d'I Lav Hachi Peshita d'Ba'i Bedikah
@@ -9231,7 +8909,6 @@ My question that I sent a couple months ago has much more details but basically 
 This Tosfos has confused me on what a chazakah is for a couple months and there is no way on earth I can ever figure this out - I've been trying for months now! If someone can please please help me I would appreciate it.
 
 Menachem Zaman, Israel
-
 ```
 
 
@@ -9280,7 +8957,6 @@ Moshe Reinitz asks:
 
 
 ```
-
 The Gemara goes to length to show that the battle after AharonHaKohen's petira was really Sichon.
 
 It's again the Pashtus of Chumas to say that Melech Arad was Sichon, because it clearly mentions Sichon in Parshas Chukas, and the battle that was in Yohatz. "Achrei Hakoso es Sichon" was not fulfilled until then. So even if you say Melech Arad was Sichon, the pashtus of pesukim says it was later in Yohatz when they fought Sichon, which was before the last "Stansia" in the Midbar. And Aharon was niftar earlier on Hor HaHor.  
@@ -9288,7 +8964,6 @@ It's again the Pashtus of Chumas to say that Melech Arad was Sichon, because it 
 So isn't the pashtus of pesukim agree that Aharon was first and later Sichon, Is it necessary to darshan the posuk in a way that is against the Pashtus?
 
 Moshe Usher Reinitz
-
 ```
 
 
@@ -9336,11 +9011,9 @@ Tuvya Marcus asks:
 
 
 ```
-
 Sorry for a silly question but are the tanaim arguing about the metzius?  either they mostly give birth in Av or Elul. Afeilasa and Chorpiasa always refers to "outlier" cases not the norm.
 
 Tuvya Marcus, Jerusalem Israel
-
 ```
 
 
@@ -9362,7 +9035,6 @@ May you continue to attain greatness in Torah learning and Yiras Shamayim!
 Best wishes,
 Yishai Rasowsky
 Sources:
-
 ```
 
 
@@ -9384,11 +9056,9 @@ H David Levine asks:
 
 
 ```
-
 Shalom aleichem.  Is there no verse to contradict that R' Yehuda's stance that the shmita year counts as both the 50th and 1st of the following cycle is likewise applicable to the Sabbath: that the seventh day of creation is intended to count as the first of the new week?
 
 H David Levine, Roanoke, VA  USA
-
 ```
 
 
@@ -9442,7 +9112,6 @@ Sender Klein asks:
 
 
 ```
-
 1)  Earlier the Gemara discussed whether a day in a year is like a year, or a month in a year is like a year.  Based on that the Gemara set up the rules of Tosefes Kedusha for shvi'is.  Why do these things connect?  Maybe Tosefes Shvi'is is just a little bit of time and need not be considered like a year.
 
 2) Why doesn't the Gemara try to extend Tosefes to Shvi'is according to the one who learns from Yom Kippur - why do we try to extend it to Shabbos and Yom Tov and stop there, when the whole purpose of the Sugya was to teach tosefes shvi'is.
@@ -9450,7 +9119,6 @@ Sender Klein asks:
 Thanks a lot!
 
 Sender Klein, United States
-
 ```
 
 
@@ -9504,14 +9172,12 @@ Yishai Rasowsky asks:
 
 
 ```
-
 I understand from the Rema [1] that it is wrong for a person to remain in the Sukkah when it is raining. He may as well go into his comfortable house! But what about other environmental disturbances? For example, mosquitoes, or gusty wind, or intense heat. If a person is willing to tough it out and eat/sleep in the Sukkah despite these climactic challenges, is he doing something meritorious, or is he just a Hedyot? I am specifically wondering about the last example of heat. Maybe it is better just to go inside and eat/sleep in the air conditioned house. Is there an objective way to gauge the level of this discomfort? It seems like each person might have their own personal barometer of what suffering they are able to withstand.
 Thank you for any insight!
 Chag Sameach!
 1. https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.639.7?lang=bi&with=Mishnah%20Berurah&lang2=en
 
 Yishai Rasowsky, Beitar Illit
-
 ```
 
 
@@ -9547,11 +9213,9 @@ Yisrael Rutman asks:
 
 
 ```
-
 Why is there no similar expression of Divine rejection in conjunction with other mitzvos? On the contrary, we are expected to fulfill the mitzvos even under duress. If it rains at other times of year, we do not say that Hashem does not want our tefillos in the shul we have to walk to in the rain. Except for cases of onsin, such as serious illness or other incapacity, we say l’fum tzara agra, according to the hardship is the reward. We don’t seek out obstacles in performing mitzvos, but when they come our way, we try to overcome them. Why not say that Hashem is offering more reward for waiting for the rain to stop so that we can return to the Sukkah?
 
 Yisrael Rutman, Pardes Hanah, Israel
-
 ```
 
 
@@ -9623,13 +9287,11 @@ Sender Klein asks:
 
 
 ```
-
 Question from the case of Sukka on 30b - we have a concern with taking from the schach of a sukka (not on Sukkos) because of Stirah as Rashi explains on the mishna.
 
 Why don't we say that adding to or removing from an ohel arai is mutar, such as adding to a roof once there is one tefach?  Or is this a permanent sukka?
 
 Sender Klein, United States
-
 ```
 
 
@@ -9695,7 +9357,6 @@ This suggests that once they are from the Eitz Hadaas, death was inevitable.
 
 Plus it seems that they would die by not eating from either tree, and therefore dust to dust does not refer to the effect of eating the eitz hadaas, but to their initial created status.
 Finally, I am intrigued by the possibility that the first creation was of many animals and creatures INCLUDING humans, but the creation of Adam was a Different Creation.
-
 ```
 
 
@@ -9717,7 +9378,6 @@ Great to hear from you.
 Kesivah v'Chasimah Tovah!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -9739,14 +9399,12 @@ Davic1 asked:
 
 
 ```
-
 Greetings. I find the explanations related to eating of the trees to be confusing. If eating from the Etz Hadaas would bring about death and "from dust to dust" then that means before eating that fruit Adam and Chava would live eternally. If so, how is that different than eating from the Etz Hachaim, which would ALSO mean never dying?!
 
 If I understand correctly, does it mean that BEFORE eating from the Etz Hadaas they still would die unless they ate from the Etz Hachaim, but AFTER eating from the Etz Hadaas they could never escape death even if they ate from the Etz Hachaim? But then what is the meaning of from dust to dust if that would happen EVEN if they had never eaten from EITHER tree?
 
 Many thanks, 
 David Goldman
-
 ```
 
 
@@ -9768,8 +9426,6 @@ Great to hear from you. This is an excellent and very interesting question. I am
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
-
 ```
 
 
@@ -9791,12 +9447,10 @@ ari asks:
 
 
 ```
-
 Shevet Dan was yoresh the coast of Eretz Yisrael and was never kovesh it (shoftim 1:34).  Does that mean that the mircaz of the country (Tel Aviv, bnei brak petch tikva Ranana etc) for sure not olei Bavel (because olei bavel were makdesh less land then olei mitzraim) and only at most olei Mitzraim?  I saw once that its a machlokes if the parts of eretz yisroel that were not conquered by olei mitraim are considered bi-geder the kedusha of olei mitraim (since li-maseh they are part of the gevulas of parshas masei) or chutz laaretz (ince they were never conquered).  If so the geder of the cities in the mircaz should be tolei on that machlokes.
 Thanks for all your help. Looking forward the hear what you have to say.
 
 ari,
-
 ```
 
 
@@ -9848,12 +9502,10 @@ ari asks:
 
 
 ```
-
 Shevet Dan was yoresh the coast of Eretz Yisrael and was never kovesh it (shoftim 1:34).  Does that mean that the mircaz of the country (Tel Aviv, bnei brak petch tikva Ranana etc) for sure not olei Bavel (because olei bavel were makdesh less land then olei mitzraim) and only at most olei Mitzraim?  I saw once that its a machlokes if the parts of eretz yisroel that were not conquered by olei mitraim are considered bi-geder the kedusha of olei mitraim (since li-maseh they are part of the gevulas of parshas masei) or chutz laaretz (ince they were never conquered).  If so the geder of the cities in the mircaz should be tolei on that machlokes.
 Thanks for all your help. Looking forward the hear what you have to say.
 
 ari,
-
 ```
 
 
@@ -9875,7 +9527,6 @@ Great to hear from you. It is a very fascinating point you are raising! Granted,
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -9897,7 +9548,6 @@ Davic1 asks:
 
 
 ```
-
 >>1. Hello again. Isn't it unusual that Hashem sought to punish Moav and Ammon for not providing the Israelites with food? After all, there were many millions of people coming into Canaan. How could these nations ever possibly be expected to provide so much food and water for so many millions of people?
 
 2. Second, why should Hashem instruct the Israelites not to fight Moav and Ammon because he gave them their land as an inheritance? After all, they were idolaters, so why should they deserve such an inheritance?! Plus, they must have conquered the land to acquire it exactly as Og and Sihon did.
@@ -9936,7 +9586,6 @@ Where does the Targum in Rus explain that the famine was throughout the whole co
 
 Thanks,
 DG
-
 ```
 
 
@@ -9959,7 +9608,6 @@ Great to hear from you!
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -9981,7 +9629,6 @@ Davic1 asks:
 
 
 ```
-
 >>1. Hello again. Isn't it unusual that Hashem sought to punish Moav and Ammon for not providing the Israelites with food? After all, there were many millions of people coming into Canaan. How could these nations ever possibly be expected to provide so much food and water for so many millions of people?
 
 2. Second, why should Hashem instruct the Israelites not to fight Moav and Ammon because he gave them their land as an inheritance? After all, they were idolaters, so why should they deserve such an inheritance?! Plus, they must have conquered the land to acquire it exactly as Og and Sihon did.
@@ -10040,7 +9687,6 @@ David asks:
 
 Where did the giants come from? Who was the giant wife of Og after the Flood and the population of the Anakim if they were also descendants of Seth?
 How geographically did Eretz Yisrael look as Eretz Zvi, and when was it? What implications did it have for the events in Tanach?
-
 ```
 
 
@@ -10085,7 +9731,6 @@ Ari asks:
 
 
 ```
-
 1. Hello again. Isn't it unusual that Hashem sought to punish Moav and Ammon for not providing the Israelites with food? After all, there were many millions of people coming into Canaan. How could these nations ever possibly be expected to provide so much food and water for so many millions of people?
 
 2. Second, why should Hashem instruct the Israelites not to fight Moav and Ammon because he gave them their land as an inheritance? After all, they were idolaters, so why should they deserve such an inheritance?! Plus, they must have conquered the land to acquire it exactly as Og and Sihon did.
@@ -10095,8 +9740,7 @@ Ari asks:
 4. And is it truly the case that in the entirety of Eretz Yisrael at the time of Elimelech and Naomi there wasn't a single other area in all of the country they could have traveled to, and they had to cross over davka into the kingdom of Moav  (right across the river from the tribe of Reuven? If the drought was only in Yehuda, why didn't they go to a northern tribe instead?!
 
 Thanks,
-David Goldman 
-
+David Goldman
 ```
 
 
@@ -10146,11 +9790,9 @@ Tzvi B asks:
 
 
 ```
-
 What does zayin-hei-zayin stand for?
 
 Tzvi B, UK
-
 ```
 
 
@@ -10169,7 +9811,6 @@ Great to hear from you. It stands for Zman ha'Zeh.
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -10191,13 +9832,11 @@ Avrumi Hersh asks:
 
 
 ```
-
 54a just before the wide lines.
 If we say that an anusa doesn't get tnay kesubah, isn't that a problem of chotey niskar?
 (At least acc to abaye who says chotey niskar is a problem even if she is getting the knas payment)
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -10218,7 +9857,6 @@ But the greater consideration seems to be that this cancellation of the Tenaei K
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -10240,11 +9878,9 @@ Daniel Gray asks:
 
 
 ```
-
 Why on 54b is R' Yochanan not concerned aa he was on 52b with Asinu Atzmeinu k'Orchei ha'Dayanim?
 
 Daniel Gray, Toronto Canada
-
 ```
 
 
@@ -10266,7 +9902,6 @@ Great to hear from you. Excellent question! The commentaries have a number of ap
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -10288,7 +9923,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel, I was learning kesubos 63 and had a few questions
 
 1) the gemara says Ben azai was r akiva son in law. But wasn’t Ben azai famously not married?
@@ -10297,7 +9931,6 @@ Hello kollel, I was learning kesubos 63 and had a few questions
 
 Thank you!
 Josh
-
 ```
 
 
@@ -10342,7 +9975,6 @@ S <asks:
 
 
 ```
-
 The Gemoroh discusses reasons as to why a person who gives his wife a divorce may not remarry her.  Takonas Chazal state that if he would be able to reverse the 'get' the second marraige would be null and void and the children (from this second marraige) illegitimate (which they wanted to prevent).
 
 What would be achieved?  We know that there is a concept where a woman remarried without scrutinising the witness and making thorough checks on the circumstances surrounding her first husband's purported demise, that she would be 'teizess mezu umizu' - she would have to be divorced from both men.
@@ -10352,7 +9984,6 @@ Why does this concept not apply in our scenario and the possibility would not ex
 If you want to suggest that the 'get' was immediate, and without any delay (thereby negating the marrying another husband), surely that would be a typical 'bo bayom' that would constitute a 'beyom heshomah' and the (first) husband could be 'mefir' the vow?
 
 S, UK
-
 ```
 
 
@@ -10379,7 +10010,6 @@ This is true whether or not she decided to marry a second husband in the meantim
 You asked "Why does this concept not apply in our scenario and the possibility would not exist to create a 'yechzoir'?" I am afraid I am not sure what is bothering you. If there is some point that is difficult or inconsistent, please I will be happy if you let me know.
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -10401,14 +10031,12 @@ Davic1 asks:
 
 
 ```
-
 Greetings. It just occurred to me that I don’t understand why the sounds of the shofar should be compared specifically to sounds of wailing and groaning. This would contradict the very spirit of Rosh Hashanah as a YOMTOV in which sadness is prohibited. Indeed, the teachings from the braises in Rosh Hashanah as related to “Yom Hadin” and other features of the liturgy also contradict or at least create an ambivalence for a day that is specified as a YOMTOV in the Torah.
 
 In any event, why couldn’t the sounds be compared preferably to sounds of alert, notification, reporting, etc. instead of anything alluding to sadness??!!
 
 Thanks,
 David Goldman
-
 ```
 
 
@@ -10431,7 +10059,6 @@ It is also interesting and relevant to note a statement of the Rosh, whose messa
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -10453,11 +10080,9 @@ David West asks:
 
 
 ```
-
 Did the priest who offered incense bless the people who were praying at the time of the offering?  What was the blessing? References ?
 
 David West, Fort Worth, TX USA
-
 ```
 
 
@@ -10500,14 +10125,12 @@ HG Schild asks:
 
 
 ```
-
 If 4 brothers where two are married to two sisters and the two brothers diie
 I follow zikah etc that the remaining two cannot marry the two widow sisters...
 BUT WHAT IF BOTH SISTERS HAVE CHILDREN from the dead brothers
 Can the two brothers left marry each to a sister?
 
 Chaim
-
 ```
 
 
@@ -10527,7 +10150,6 @@ Forgive me for pointing out what you might already know, but discussions of Yibu
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -10549,13 +10171,11 @@ Steven asks:
 
 
 ```
-
 Can a safek mamzer marry a safek Kohen?
 
 If a safek mamzer is investigated and there’s no available proof to either condemn or vindicate, is the safek mamzer still a safek mamzer?
 0546700511
 Steven, Boston, USA
-
 ```
 
 
@@ -10597,7 +10217,6 @@ davic1 asks:
 
 
 ```
-
 >>Greetings, again. I am looking at chapter 30:25. Can we say that the people who were coming at the time of King Chizkiyahu who Metzudas David says were converts (and had not yet deteriorated) from the Land were the earliest Kusim, since it is possible that they had arrived from Habor perhaps 10 years earlier, assuming it took a few years for them to arrive?
 
 In 35:18 I don’t understand Rashi’s statement that the time of the Judges was from the time of Shlomo, since that time was not identified any longer as the time of the judges. The other commentators (on Sefaria) also don’t address this. Why should it be said that the Jews did not perform the Pesach with such purity even in the time of David and Shlomo?
@@ -10650,7 +10269,6 @@ Yishai Rasowsky<<
 David Goldman asks:
 
 So does this then mean that idea of the Pesach of Yoshayahu being greater since the time of the Judges indicates by definition that the pesach under a king of Beis David and the Temple in one sense is greater than anything else comparable since Shilo/Givon/Nov but on the other hand is EQUIVALENT to the those times of Judges (skipping over all the other kings who were sons of kings), suggesting yeridas hadoros, since one would otherwise assume that a Pesach under a king of Beis Dovid and the Temple would be GREATER than anything else ever since the Mishkan of Moshe Rabbenu?!
-
 ```
 
 
@@ -10688,7 +10306,6 @@ davic1 asks:
 
 
 ```
-
 >>Greetings. I was wondering why Tosafos does not address the issue of the location of “Yam Suf” in Sefer Melachim 28 which says it is near Eloth. If Tosafos is the only source suggesting that the Yam Suf close to Goshen in the North, how does he explain its use referring to a body of water near Eilat etc., meaning at the Gulf of Aqaba? In addition, isn’t it possible to determine the location of the Yam based on the time it took to get there from Goshen or to the subsequent stops? And since Yam Suf is mentioned elsewhere in the Torah that seem to place it nearer to Sinai, isn’t it possible that Tosafos is incorrect? And why wouldn’t Tosafos have addressed all the references?
 
 Thanks,
@@ -10750,7 +10367,6 @@ And what about the case of Shlomo at Eilat? Why would that be called Yam Suf if 
 And Moshe Rabbenu was in the basket in the SUF of the Nile. The Nile is fresh water.
 
 The traveling to the Sea after leaving Egypt is the first activity they took. So how could it have involved a location hundreds of miles away?
-
 ```
 
 
@@ -10793,11 +10409,9 @@ Tzvi B asks:
 
 
 ```
-
 If a child destroys something he is not chayav to pay for it because he is not considered a ben daas.Does this mean that a child (even if minutes away from becoming a gadol) has no bechirah? Are they responsible for any of their actions? Is their level of neshama any different to a gadol's and lastly: whats the Torah view on children that murder (this being a huge moral dillema for the non-jewish world in recent times)?
 
 Tzvi B, England
-
 ```
 
 
@@ -10846,13 +10460,11 @@ Avrumi Hersh asks:
 
 
 ```
-
 Daf 53a middle. 
 The gemoro tries to prove shmuel (that you must do chalitza to the one wih the strongest zika) and make a teyuvta to reb yosef (who says that you should not spill mey boro.. I.e. you should not ruin the fresh yevomo from kehuna when you can ruin the spoiled yevomoh, who is already posul for kehuna)
 How is this a teyuvta to reb yosef, maybe reb yosef only said this din when one of the yevomos was already a gerusha or a chalutza from a different marriage. Not when one of the 2 yevomos has a weaker zika, perhaps then he will be modeh to shmuel, and say that the chalitza pesulah consideration supercedes the yishpoch mey boro consideration?
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -10873,7 +10485,6 @@ Second is Rabeinu Meir, which can be found in the Tosfos Rabeinu Peretz (and rep
 I hope this helps!
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -10895,11 +10506,9 @@ Allan katz asks:
 
 
 ```
-
 Ailonit, Saris -  why is not having a period on the list
 
 Allan katz, ?????
-
 ```
 
 
@@ -10937,8 +10546,6 @@ Akiva Lane ?asks?:?
 
 
 ```
-
-
 May a person be Mekadesh a Shomeres Yavam to prevent her from being taken against her will by the Yavam, if he may do her harm? And would such Kidushin prevent the Yavam from forcing the Yevamah to be his wife, altogether?
 
 Thank you,
@@ -10988,7 +10595,6 @@ Menachem Zaman asks:
 
 
 ```
-
 >>Tosfos says that if the kosel fell in one person's reshus, he has a migu to be believed to say I built it because he can taina I bought it.
 
 And why is he believd to say he bought it? Because he has a raya of shah harbeh.
@@ -11019,7 +10625,6 @@ Rav I'm not seeing how you answered the question.
 If you agree the psak of yachlokoo is m'toras safeik, so m'din each person is a weak tafis, even if the walls are found to be in one person's reshus. 
 
 I am basically asking why does Tosfos use a migu to enable the person to taina I bought it. The migu is because you would have believed me that I bought it (because of shah harbeh), believe me that I built. I am asking why doesn't Tosfos drop the migu and just use the shah harbeh to shlug up the psak yachlokoo that was m'toras safeik?
-
 ```
 
 
@@ -11070,7 +10675,6 @@ Menachem Zaman asks:
 
 
 ```
-
 Tosfos says that if the kosel fell in one person's reshus, he has a migu to be believed to say I built it because he can taina I bought it.
 
 And why is he believd to say he bought it? Because he has a raya of shah harbeh.
@@ -11078,7 +10682,6 @@ And why is he believd to say he bought it? Because he has a raya of shah harbeh.
 My question is like this. Tosfos says when the wall is standing (before it fell in one person's reshus), it's a case of drara d'mamona and there is a psak yachlokoo. I am assuming that psak yachlokoo is m'toras safeik, not m'toras vadai. So then why can't shah harbeh change the psak of yachlokoo? Meaning why does he need a migu bichlal to be believed to say that he built it? Let him use shah harbeh to taina I built it? And the raya of shah harbeh is strong enough to go against the psak yachlokoo as the psak was m'toras safeik, not m'toras vadai.
 
 Menachem Zaman, United States
-
 ```
 
 
@@ -11127,11 +10730,9 @@ Michael Cohen asks:
 
 
 ```
-
 How could Yaakov's sons have completely taken over the negotiations with Chamor & Shechem. Where was Yaakov throughout the discussion? What did he think of their plan - it doesn't seem he was very happy about it in the aftermath.
 
 Thanks! Michael
-
 ```
 
 
@@ -11154,7 +10755,6 @@ Sources:
 [1] https://www.sefaria.org.il/Or_HaChaim_on_Genesis.34.30.1?lang=he&with=Genesis&lang2=he
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -11176,11 +10776,9 @@ Tzvi B asks:
 
 
 ```
-
 I learnt recently that the Shevatim were able to create different kind of beings through kabbalah. Can you explain the difference between this kind of kabbalah and magic (kishuf)?
 
 Tzvi B, England
-
 ```
 
 
@@ -11253,11 +10851,9 @@ Tzvi B asks:
 
 
 ```
-
 I learnt recently that the Shevatim were able to create different kind of beings through kabbalah. Can you explain the difference between this kind of kabbalah and magic (kishuf)?
 
 Tzvi B, England
-
 ```
 
 
@@ -11309,13 +10905,11 @@ Sender Klein asks:
 
 
 ```
-
 >>Question from the case of Sukka on 30b - we have a concern with taking from the schach of a sukka (not on Sukkos) because of Stirah as Rashi explains on the mishna.
 
 Why don't we say that adding to or removing from an ohel arai is mutar, such as adding to a roof once there is one tefach?  Or is this a permanent sukka?
 
 Sender Klein, United States<<
-
 ```
 
 
@@ -11377,7 +10971,6 @@ Daniel Kagan asks:
 
 
 ```
-
 I have several difficulties understanding the Gemara's explanation of the Mishna that the Chagiga is like a mountain hanging by a hair:
 
 1. Why do we need a pasuk to explain the pshat of a word? I thought it was obvious that Chagigah meant sacrifice. If we question the pshat of every word, I would think that every Mitzvah in the Torah would need the Oral Tradition and all of them would be 'hanging by a hair'.
@@ -11385,7 +10978,6 @@ I have several difficulties understanding the Gemara's explanation of the Mishna
 2. Furthermore, there are many pesukim brought, all of which seem to indicate that Chagiga means sacrifice. The Gemara suggests that these extra verses merely imply additional prohibitions on leaving over a sacrifice until dawn, but that seems very strained (does this kind of added prohibition occur elsewhere?).
 
 Daniel Kagan, Haifa, Israel, UK
-
 ```
 
 
@@ -11432,7 +11024,6 @@ Michael Cohen asked:
 
 
 ```
-
 Mattos 32:41 Yair conquers and names villages in his name.
 Devarim3:14 tells us that those towns were named "Havvoth-Yair until this day"
 
@@ -11440,7 +11031,6 @@ When is "until this day"? Moshe is speaking shortly after Yair's victory!
 
 Thanks!
 Michael
-
 ```
 
 
@@ -11488,11 +11078,9 @@ A K asks:
 
 
 ```
-
 I heard there is a Rashbam that says that Maaleh Akravim is the yom suf where the sea spit (making Eilat part of Eretz Yisrael).  Is this true?  Is there such a Rashbam and if so where is it?(I would like to look it up)  Also how can this be?  The torah says that the dead sea is the south west border but according to this the yam suf would be the south west border.
 
 A K, Eretz Yisrael
-
 ```
 
 
@@ -11538,7 +11126,6 @@ kerfish asks:
 
 
 ```
-
 >>Is shmita nowadays deraisa or derabon and why?  I have heard different reasons its derabon (you need bias kulchem and all Jews have to be in Israel, you need the shevatim to be sitting in their respective teriories, we have no urim veturim) but dont know which ones are true and not true.
 Thanksfor ll your help    
 
@@ -11562,7 +11149,6 @@ Yishai Rasowsky
 A Kirsch asks:
 
 Thank you for your reply.  According to the second opinion you cited (the rov rishonim, Ritva Rashba and Ran) If we would theoretically in our days have most Jews living in Eretz Yisrael (something which is probably eventually going to happen) would shemitah then become deorisa?  Also why is there no Shemitah today according to the Baal Hamoar (opinion 3)?
-
 ```
 
 
@@ -11613,14 +11199,12 @@ Joshua Danziger asks:
 
 
 ```
-
 I have a general question about the concept of besulah and the appropriate kesuba amounts. Much of the discussion focuses on whether the besulim are intact are not, gedola katana, mukatz etz etc.
 
 My question is, is the husband mostly interested in whether his wife has been with another man in which case the besulim are just being used as evidence, or is the assumption he actually wants to break the besulim himself (and thus there’s inherent and not just evidentiary value of the besulim)? The first makes sense to me and the latter seems a bit strange but seems like the crux of the mukatz etz discussion.
 
 Thanks!
 Josh
-
 ```
 
 
@@ -11670,7 +11254,6 @@ A K asks:
 
 
 ```
-
 >>I know there i the well kown teshuva of Rav Moshe Feintein who says to live in Eretz Yiroel is only a kiyum mitvah and not a chiyuv.  Are there any achronim/poskim/other seforim that argue on Rav Moshe and say that living in Irael is a obligation like wearing tefillin?
 A K, Jerusalem<<
 
@@ -11719,8 +11302,7 @@ Sources:
 A K asks:
 
 Thanks for your reply.  The reason I asked for achronim is because I am not fully convinced the loshon of the Ramban is a rayah he holds its a chiyuv.  I know he uses the loshon of chiyuv but Rav Moshe brings a good rayah that it never says in the gemara it's a chiyuv.  Also the gemara also only says its asur to leave and not that a person is chayiv to move to Israel.  [I think it also sounds like form the gemara in gitin (I think its gitin76b) that says the talmidim from eretz yisrael were milaveh the bnei bavel when they lft eretz yisrael until Acco, and from there we learn the issur to leave Eretz Yisrael.  It sounds from that gemara that there is no chiyuv to live in Israel because the Bne Bavel did leave Eretz Yisrael which was muter for them.  And its not mashmah from the gemara there that the Bnei Bavel left only when they had a heter to leave Israel (like shiduchm or parnasah) and Bnei Bavel can leave stam (and I will add they certainly did not leave al manas lihacher to Eretz Yisrael) .]  In any case my point is it sounds from the gemaras that there is no chiyuv and you have to say either that when the gemara says its asur to leave Eretz Yisrael its lav davka and it really means your chayiv to live in Eretz Yisrael (and the bnei bavel in gitin left when they had a heter), or the Ramban is lav davka and he means a mitzvah kiyumis.  Either way it's shvare and you're either being lv davka the gemara or the Ramban and I don't see why it's easier to lav davkah the gemara over the Ramban (or vice versa).  That's why I was wondering if any achronim say befaarish that the Ramban is not lav davka.  We have Rav Moshe (as well as other achronim, I think it's a avne nezer if I remember correctly) who says the Ramban is lav davka but I dont know of any achronim who argue on Rav Moshe and say the Ramban is davka.  If you know of any/have any other comments to make I would be happy to hear.  
-Kol tuv  
-
+Kol tuv
 ```
 
 
@@ -11776,7 +11358,6 @@ A K asks:
 
 
 ```
-
 >>I know there i the well kown teshuva of Rav Moshe Feintein who says to live in Eretz Yiroel is only a kiyum mitvah and not a chiyuv.  Are there any achronim/poskim/other seforim that argue on Rav Moshe and say that living in Irael is a obligation like wearing tefillin?
 A K, Jerusalem<<
 
@@ -11811,7 +11392,6 @@ Sources:
 A K asks:
 
 Thank you for your reply.  When these opinions say it's a mitzvah (like the pas hashulchan) are they saying it's mamesh a chiyav like tefillin or just a keyim mitzvah?  Are there any achronim who say be-farish it is a obligation that a person has to do or do they use the ambiguous loshon of mitzvah (which would leave room to say they agree with Rav Moshe and hold its "only" a kiyum mitzvah and not a obligation)?
-
 ```
 
 
@@ -11854,7 +11434,6 @@ A K asks:
 
 
 ```
-
 >>I know there i the well kown teshuva of Rav Moshe Feintein who says to live in Eretz Yiroel is only a kiyum mitvah and not a chiyuv.  Are there any achronim/poskim/other seforim that argue on Rav Moshe and say that living in Irael is a obligation like wearing tefillin?
 A K, Jerusalem<<
 
@@ -11903,8 +11482,7 @@ Sources:
 A K asks:
 
 Thanks for your reply.  The reason I asked for achronim is because I am not fully convinced the loshon of the Ramban is a rayah he holds its a chiyuv.  I know he uses the loshon of chiyuv but Rav Moshe brings a good rayah that it never says in the gemara it's a chiyuv.  Also the gemara also only says its asur to leave and not that a person is chayiv to move to Israel.  [I think it also sounds like form the gemara in gitin (I think its gitin76b) that says the talmidim from eretz yisrael were milaveh the bnei bavel when they lft eretz yisrael until Acco, and from there we learn the issur to leave Eretz Yisrael.  It sounds from that gemara that there is no chiyuv to live in Israel because the Bne Bavel did leave Eretz Yisrael which was muter for them.  And its not mashmah from the gemara there that the Bnei Bavel left only when they had a heter to leave Israel (like shiduchm or parnasah) and Bnei Bavel can leave stam (and I will add they certainly did not leave al manas lihacher to Eretz Yisrael) .]  In any case my point is it sounds from the gemaras that there is no chiyuv and you have to say either that when the gemara says its asur to leave Eretz Yisrael its lav davka and it really means your chayiv to live in Eretz Yisrael (and the bnei bavel in gitin left when they had a heter), or the Ramban is lav davka and he means a mitzvah kiyumis.  Either way it's shvare and you're either being lv davka the gemara or the Ramban and I don't see why it's easier to lav davkah the gemara over the Ramban (or vice versa).  That's why I was wondering if any achronim say befaarish that the Ramban is not lav davka.  We have Rav Moshe (as well as other achronim, I think it's a avne nezer if I remember correctly) who says the Ramban is lav davka but I dont know of any achronim who argue on Rav Moshe and say the Ramban is davka.  If you know of any/have any other comments to make I would be happy to hear.  
-Kol tuv  
-
+Kol tuv
 ```
 
 
@@ -11948,11 +11526,9 @@ Yaakov David Titan asks:
 
 
 ```
-
 In the Shema the tzitizis are spelled with Tzadi yud tzadi Tuf which is 590 why do they add a yud and say it’s 600 with 5 knots and 8 strings to be 613?  Thank you
 
-Yaakov David Titan, New York USA 
-
+Yaakov David Titan, New York USA
 ```
 
 
@@ -12006,7 +11582,6 @@ Paul Davidowitz asks:
 
 
 ```
-
 Ran:
 https://dafyomi.co.il/nedarim/tosfos/nd-ts-018.htm
 
@@ -12014,7 +11589,6 @@ Ran proves that Neder trumps Shvua, but how can he (seemingly) ignore the gemara
 
 
 Paul Davidowitz, Long Beach
-
 ```
 
 
@@ -12056,7 +11630,6 @@ Menachem Zaman asks:
 
 
 ```
-
 >>I sent a question a couple months ago regarding Tosfos's use of chazakah. Tosfos disputes Rashi's explanation of the din is the chiyuv to search for Chametz. He says because:
 
 v'Od Kasheh d'Gabei Teshah Chanuyos Leika Chezkas Heter Aval Hachah Ukma a'Chezkas Baduk d'Ha b'Baduk Mairi d'I Lav Hachi Peshita d'Ba'i Bedikah
@@ -12094,7 +11667,6 @@ My only question is your comment:
 "Accordingly, our case appears clearly to be the first type, since the question involves whether Chametz was brought into the house."
 
 It seems to me that the chazakah is of the second type because just because food comes into your house, nothing changes regarding the house itself. It's not an intrinsic change to the house. So the chazakah is chezkas hadin. What do you think?
-
 ```
 
 
@@ -12134,7 +11706,6 @@ Menachem Zaman asks:
 
 
 ```
-
 >>I sent a question a couple months ago regarding Tosfos's use of chazakah. Tosfos disputes Rashi's explanation of the din is the chiyuv to search for Chametz. He says because:
 
 v'Od Kasheh d'Gabei Teshah Chanuyos Leika Chezkas Heter Aval Hachah Ukma a'Chezkas Baduk d'Ha b'Baduk Mairi d'I Lav Hachi Peshita d'Ba'i Bedikah
@@ -12196,7 +11767,6 @@ I think it's a mephuresha Gemara where as long as you don't find the chametz, yo
 What Im trying to say is that the chiyuv bedika does not depend on the physical metizus of if there is chametz or not. Th chiyuv bedika is the bedika itself. When the Torah says to do a bedika, it wasn't just eitza you should do bedika or else you would be over. It's tell us as an end of itself you have to do bedika to not be over. 
 
 What are your thoughts Rav?
-
 ```
 
 
@@ -12259,7 +11829,6 @@ B Elkouby <bzelkouby@gmail.com> asks:
 Thank you
 But then it is unclear why Gemoro chose to explain kol hagola to mean pumbedisa and not literally the whole of Bovel. See Ya'avetz.
 thank you
-
 ```
 
 
@@ -12308,11 +11877,9 @@ binyomin zev asks:
 
 
 ```
-
 Thank you for this service. from the gemoro it sounds that from the last fire in Eretz Yisroel, Pumbedisa got to know that they had been mekadesh the chodesh on the 30th day. But Pumbedisa is Fallujah of today & that is at least 600miles from the border of EY (even if we are including Ever Hayarden like the Tosfos Rosh). How could they see it from so far? Thank you
 
 binyomin zev, Manchester-United Kingdom
-
 ```
 
 
@@ -12353,12 +11920,10 @@ Norman Hewston  asks:
 
 
 ```
-
 Hello there, can you please tell me when this was written? I am looking into the min spoken of towards the end, but they appear to worship one god. Does this refer to trinitarian Christians? First century Christians did not believe in the trinity.
 Many thanks
 
 Norman Hewston , England UK
-
 ```
 
 
@@ -12413,10 +11978,8 @@ doniel w asks:
 
 
 ```
-
 Lichvod Harav,
 In the sefer kovetz halachos shabbas chelek 1, the rav brings from rav shmuel that a divorcee should continue the number of candles she was lighting for the number of children she has. I was not clear ,for example in the case of where she had 3 children so she was lighting 5 candles does she continue lighting 5 or can she light 4 candles because she no longer has her husband. Meaning is the first 2 candles shamor vezachor and the rest are for the children or the first two are husband and wife and now the woman would light only 4. If it is like the second way would she need to do haters nedarim to light 4 now?
-
 ```
 
 
@@ -12460,7 +12023,6 @@ Mark Gotesman asks:
 
 
 ```
-
 On Ta'anit Daf 7 we have the story of R' Yehoshua Ben Chanaya which concludes that physical beauty is detrimental to total success in Torah:
 I Havo Seno - Tfei Havei Gemiri
 
@@ -12470,8 +12032,7 @@ Ki Salkan Benos Yisrael v'Asyan mi'Tevilah Mistaklin Bi v'Nehevei L'Hu Zara d'Sh
 
 Why would R' Yochanan desire that the children be beautiful if that is a hindrance to success in Torah?
 	
-Mark Gotesman, BERGENFIELD, US 
-
+Mark Gotesman, BERGENFIELD, US
 ```
 
 
@@ -12517,15 +12078,13 @@ Sholem asks:
 
 
 ```
-
 An 'Odom Choshuv' should not bow down in public unless he is sure that he will be answered.
 
 We all know that everyone's Tefilois are never rejected.  Although he might be answered (immediately), these Tefilois are 'put away' for another occasion.
 
 We see this with Avrohom Ovienu when he devalued for Sedom. Also the Tefilois that our 'Noshim Tzidkoniois' say when lighting candles (on Friday for Shabbos) too have a powerful effect that might not necessarily be seen immediately ...
 
-Sholem, UK 
-
+Sholem, UK
 ```
 
 
@@ -12554,7 +12113,6 @@ Sources:
 [3] https://www.sefaria.org.il/Berakhot.8a.1?lang=bi&with=all&lang2=en
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -12576,14 +12134,12 @@ HG Schild asks:
 
 
 ```
-
 Why is the Bnei Berak Baraisa repeated?
 
 Reasons given? Common?
 
 chaim
 hg
-
 ```
 
 
@@ -12623,11 +12179,9 @@ mark may asks:
 
 
 ```
-
 What is the Halacha re inviting goyim for dinner on Yom Tov, Shabbat, Pesach
 
 mark may, Raanana IL
-
 ```
 
 
@@ -12682,7 +12236,6 @@ davic1 asks:
 
 
 ```
-
 >>Greetings, again. I am looking at chapter 30:25. Can we say that the people who were coming at the time of King Chizkiyahu who Metzudas David says were converts (and had not yet deteriorated) from the Land were the earliest Kusim, since it is possible that they had arrived from Habor perhaps 10 years earlier, assuming it took a few years for them to arrive?
 
 In 35:18 I don’t understand Rashi’s statement that the time of the Judges was from the time of Shlomo, since that time was not identified any longer as the time of the judges. The other commentators (on Sefaria) also don’t address this. Why should it be said that the Jews did not perform the Pesach with such purity even in the time of David and Shlomo?
@@ -12703,7 +12256,6 @@ Yishai Rasowsky<<
 David Goldman asks:
 
 Thanks for this reply. Regarding your point #2, if there was no unity like this since the time of the judges, and we assume that means Shmuel who was the last judge, why does the Malbim refer to Shlomo, who was AFTER the time of the shoftim, and all the tribes came to Yerushalayim during his reign??
-
 ```
 
 
@@ -12749,7 +12301,6 @@ davic1 asks:
 
 
 ```
-
 >>Greetings, again. I am looking at chapter 30:25. Can we say that the people who were coming at the time of King Chizkiyahu who Metzudas David says were converts (and had not yet deteriorated) from the Land were the earliest Kusim, since it is possible that they had arrived from Habor perhaps 10 years earlier, assuming it took a few years for them to arrive?
 
 In 35:18 I don’t understand Rashi’s statement that the time of the Judges was from the time of Shlomo, since that time was not identified any longer as the time of the judges. The other commentators (on Sefaria) also don’t address this. Why should it be said that the Jews did not perform the Pesach with such purity even in the time of David and Shlomo?
@@ -12791,7 +12342,6 @@ Thank you. Regarding your point #4, the explanation of the Radak doesn't tell us
 In other words the Pesach was greater because in all the period of the kings with the Temple in Yerushalayim there was never a king who was greater than Yoshayahu, including Chizkiyahu AND Shlomo himself. Could that greatness mean that Shlomo was born in the time of Shmuel who was a Judge, and therefore his kingship on Pesach was not as "complete" or as great as Yoshayahu because Yoshayahu was born under the kingships PLUS the Temple? When Shlomo was born there was no Temple. But there was when Yoshayahu was born, AND HIS FATHER WAS A RASHA. Therefore a king born with the Temple who did not follow in the evil ways of his father was GREATER than Shlomo, and both Amon and Yoshayahu were born with the Temple in existence. 
 
 So why was this equivalent to the time of the judges? Perhaps only because Yoshayahu was equivalent to David Hamelech in certain respects who was in the time of the Judges, not to mention Shaul or before that the judges at Shiloh. But we could ask why a Pesach in Shiloh or Nov or Givon would have been equivalent to a Pesach under Yoshayahu if the world with the Temple was like the Mishkan in those other places with only judges and no kings? Perhaps it is a certain criticism of the generation of Yoshayahu in a respect the generation of the tribes together with judges in Shiloh, Nov or Givon was their equivalent EVEN THOUGH THEY DID NOT HAVE THE KINGSHIP OF BEIS DOVID. Sort of like a "yeridas hadoros."
-
 ```
 
 
@@ -12831,7 +12381,6 @@ davic1 asks:
 
 
 ```
-
 >>Greetings. I was wondering why Tosafos does not address the issue of the location of “Yam Suf” in Sefer Melachim 28 which says it is near Eloth. If Tosafos is the only source suggesting that the Yam Suf close to Goshen in the North, how does he explain its use referring to a body of water near Eilat etc., meaning at the Gulf of Aqaba? In addition, isn’t it possible to determine the location of the Yam based on the time it took to get there from Goshen or to the subsequent stops? And since Yam Suf is mentioned elsewhere in the Torah that seem to place it nearer to Sinai, isn’t it possible that Tosafos is incorrect? And why wouldn’t Tosafos have addressed all the references?
 
 Thanks,
@@ -12871,7 +12420,6 @@ David Goldman asks:
 
 So then there is some lack of clarity, because for those describing the Sea as the lakes area how do they explain that there is a Yam Suf in Melachim as well? Your suggestion in #3 is interesting, but might be somewhat of a stretch even for considering the Gulf of Aqaba and the Red Sea and Gulf of Suez as one body of Yam Suf. But for those who refer to the lakes, the reference in Melachim needs an explanation.
 If I understand correctly the body of water containing reeds (suf) would be the lake area, where the Bnai Yisroel circled back in 12 lines, and this is only the view of Tosafos, who explains it because of the words used in the pasuk ("mi yaminam usmalam") etc. I suppose Rashi in Shmos holds that way too. But they would need some kind of explanation for Sefer Melachim. I looked through the selections in Sefaria for that posuk in Shmos and no one addresses that issue.
-
 ```
 
 
@@ -12920,7 +12468,6 @@ davic1 asks:
 
 
 ```
-
 >>Greetings. I was wondering why Tosafos does not address the issue of the location of “Yam Suf” in Sefer Melachim 28 which says it is near Eloth. If Tosafos is the only source suggesting that the Yam Suf close to Goshen in the North, how does he explain its use referring to a body of water near Eilat etc., meaning at the Gulf of Aqaba? In addition, isn’t it possible to determine the location of the Yam based on the time it took to get there from Goshen or to the subsequent stops? And since Yam Suf is mentioned elsewhere in the Torah that seem to place it nearer to Sinai, isn’t it possible that Tosafos is incorrect? And why wouldn’t Tosafos have addressed all the references?
 
 Thanks,
@@ -12944,7 +12491,6 @@ David Goldman asks:
 Thanks for your reply. In the first instance, the commonly held view in our sources is that the “sea” was the lake located at the far north of Egypt, not the Reed Sea. About Tosafos, why wouldn’t he address the meaning of Yam Suf in 1 Melachim 9:26 since that “Yam Suf” is near Eilot/Eilat, not Egypt. So there is some confusion. Plus we know that trip across was in a semi-circle, and bederech hateva the Egyptians could have easily caught up to the Bnai Yisroel, and the water was not that deep. That would be a lot different from the Reed Sea.
 
 DG
-
 ```
 
 
@@ -12988,7 +12534,6 @@ davic1 asks:
 
 
 ```
-
 >>Greetings. I was wondering why Tosafos does not address the issue of the location of “Yam Suf” in Sefer Melachim 28 which says it is near Eloth. If Tosafos is the only source suggesting that the Yam Suf close to Goshen in the North, how does he explain its use referring to a body of water near Eilat etc., meaning at the Gulf of Aqaba? In addition, isn’t it possible to determine the location of the Yam based on the time it took to get there from Goshen or to the subsequent stops? And since Yam Suf is mentioned elsewhere in the Torah that seem to place it nearer to Sinai, isn’t it possible that Tosafos is incorrect? And why wouldn’t Tosafos have addressed all the references?
 
 Thanks,
@@ -13028,7 +12573,6 @@ David Goldman asks:
 
 So then there is some lack of clarity, because for those describing the Sea as the lakes area how do they explain that there is a Yam Suf in Melachim as well? Your suggestion in #3 is interesting, but might be somewhat of a stretch even for considering the Gulf of Aqaba and the Red Sea and Gulf of Suez as one body of Yam Suf. But for those who refer to the lakes, the reference in Melachim needs an explanation.
 If I understand correctly the body of water containing reeds (suf) would be the lake area, where the Bnai Yisroel circled back in 12 lines, and this is only the view of Tosafos, who explains it because of the words used in the pasuk ("mi yaminam usmalam") etc. I suppose Rashi in Shmos holds that way too. But they would need some kind of explanation for Sefer Melachim. I looked through the selections in Sefaria for that posuk in Shmos and no one addresses that issue.
-
 ```
 
 
@@ -13070,7 +12614,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 A general few question in kilayim.
@@ -13084,7 +12627,6 @@ A general few question in kilayim.
 Thank you!
 
 Josh
-
 ```
 
 
@@ -13126,7 +12668,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 I’ve seen in a few haggadahs an explanation of the answer to the wise son that “we don’t eat after the afikoman”, that the laws of the afikoman are the last of the laws of pesach. Ie we should teach him everything up to and including the final law about the afikoman. This answer is ascribed to the Rashbash, and I may even have seen it in the name of the Gaon.
@@ -13135,7 +12676,6 @@ My question is, the law of not eating after the afikoman is not actually the fin
 
 Thank you. Chag kasher vesameach!
 Josh
-
 ```
 
 
@@ -13182,7 +12722,6 @@ Avrumi Hersh asks:
 
 
 ```
-
 General question on yevamos.
 Normal when a man Marries a woman, only the 2 of them are affected. He is ossur to her relatives and she is osur to his relatives (after divorce).
 But by yibum, one of the brothers does chalitza,  and all the other brothers become erva to the tzoros and none of them might ever know about this. You might have 2 brothers on opposite sides of the world, one does chalitza (which makes the others into an issur kores acc. To resh lokish on 10b, or an issur lav acc to reb yochonon) and the other brother, unwittingly, performs yibum on another wife.
@@ -13191,7 +12730,6 @@ Why isn't the torah choshesh over here that 1 persons maaseh, makes the other pe
 (Maybe you could say, that's why the torah makes such a matzav with chalitza, that it should be so public, but what about yibum.)
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -13238,7 +12776,6 @@ Avrumi Hersh asks:
 
 
 ```
-
 34a top
 The gemoro says that this mishna which holds of issur kolel, mosif, and bas achas. Has to be reb meir, (not the tanna kamma) cos the tanna kama only says issur mosif and issur kolel, not issur bas achas, but reb meir says you are chayav for hotzooh of shabbos as well, and shabbos comes bevas achas with yom kippur.
 
@@ -13246,7 +12783,6 @@ But the gemoro already said in 33b at the top that if reb yosi holds that your c
 So why do we need reb meir? Why do we need a raye that we hold of issur bas achas? the tanna kama who hold of issur kolel, obviously hold of issur bas achas??
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -13308,7 +12844,6 @@ Yishai Rasowsky<<
 Menachem Zaman asks:
 
 Thank you Rav. But something seems off to me. If there is no mah li l'shaker, why should there be a koach ha'taina? That makes the concept of migu a concept that is rooted in a strong svara and makes it like a chok that is impregnable to analysis. But who ever says such a thing about migu??!!
-
 ```
 
 
@@ -13352,11 +12887,9 @@ Menachem Zaman asks:
 
 
 ```
-
 A lot of Rishonim hold migu d’ha’aza lo amrinan. And I don't understand why. There is a mimanafshach over here. If people are brazen enough where they can tell a lie, so let us believe them with a migu d’ha’aza. And if they are not brazen enough to lie, let us believe them with their original taina.
 
 Menachem Zaman, Sherman Oaks
-
 ```
 
 
@@ -13381,7 +12914,6 @@ I hope this helps!
 May you continue to attain greatness in Torah learning and Yiras Shamayim!
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -13403,7 +12935,6 @@ Davic1 asks:
 
 
 ```
-
 >>Greetings. I have been looking for the precise understanding to explain where souls go upon death, i.e. to “heaven” or to “gehennom.” However I cannot seem to find the exact references from the Torah, Tanach or Chazal. Although we always refer to people being in “gan eden” after they die (until the techiyas hameysim) I need to understand exactly what the sources are for the place of repose of rewarded neshamas and the place of punishment of evil neshamas. It seems we do not have an explicit source for these concepts that we talk about all the time.
 Thanks,
 David Goldman<<
@@ -13427,7 +12958,6 @@ Joshua Danziger <jrdanziger@gmail.com> asks:
 Can I ask a follow on, Rav Yishai? Can you explain the difference between Gan Eden and Olam Haba? In common language people seem to use the two interchangeably, but in more precise usage, sometimes they truly do seem to be similar, but other times Gan Eden seems to be the location of souls before moshiach, and Olam Haba is specifically the time afterwards. is that right? Is there a way to be medayek in the language of "kol yisrael yesh lahem chelek le'olam haba" as referring to the time after moshiach but not necessarily to what happens to the soul in the interim of after death but before moshiach?
 
 thanks!
-
 ```
 
 
@@ -13472,7 +13002,6 @@ Davic1 asks:
 
 
 ```
-
 >>Greetings. I have been looking for the precise understanding to explain where souls go upon death, i.e. to “heaven” or to “gehennom.” However I cannot seem to find the exact references from the Torah, Tanach or Chazal. Although we always refer to people being in “gan eden” after they die (until the techiyas hameysim) I need to understand exactly what the sources are for the place of repose of rewarded neshamas and the place of punishment of evil neshamas. It seems we do not have an explicit source for these concepts that we talk about all the time.
 Thanks,
 David Goldman<<
@@ -13521,7 +13050,6 @@ Where did the opponents of Moses go when the ground swallowed them up in the des
 Or when biblical figures are said to be "gathered to his people"?
 Or when Elijah and Elisha resurrected children, where did they come from?
 Or the biblical concept of being "cut off" from the people for committing certain sins?
-
 ```
 
 
@@ -13571,7 +13099,6 @@ Davic1 asks:
 
 
 ```
-
 >>Greetings. I have been looking for the precise understanding to explain where souls go upon death, i.e. to “heaven” or to “gehennom.” However I cannot seem to find the exact references from the Torah, Tanach or Chazal. Although we always refer to people being in “gan eden” after they die (until the techiyas hameysim) I need to understand exactly what the sources are for the place of repose of rewarded neshamas and the place of punishment of evil neshamas. It seems we do not have an explicit source for these concepts that we talk about all the time.
 Thanks,
 David Goldman<<
@@ -13655,7 +13182,6 @@ Regarding Daniel 12:2 this seems to describe what happens after the resurrection
 Finally, how can any individual Jew know what awaits him unless we get some idea of different “levels” or locations in either temporary Gehenna or Gan Eden, do we sit and wait in a single place, or in different locations, so to speak, until the resurrection with Mashiach?
 
 Finally, I suppose the Catholic religion adopted the notion of Purgatory from our sources in the Talmud, and essentially all the other afterlife concepts they have…..
-
 ```
 
 
@@ -13704,13 +13230,11 @@ Davic1 asks:
 
 
 ```
-
 Greetings. I have been looking for the precise understanding to explain where souls go upon death, i.e. to “heaven” or to “gehennom.” However I cannot seem to find the exact references from the Torah, Tanach or Chazal. Although we always refer to people being in “gan eden” after they die (until the techiyas hameysim) I need to understand exactly what the sources are for the place of repose of rewarded neshamas and the place of punishment of evil neshamas. It seems we do not have an explicit source for these concepts that we talk about all the time.
 
 Thanks,
 
 David Goldman
-
 ```
 
 
@@ -13757,11 +13281,9 @@ Mordechai Abisror asks:
 
 
 ```
-
 how did r' ilish want to help the daughters escape if the mishna says ein mavrichin es hashvuyin?
 
 Mordechai Abisror, Long branch New Jersey
-
 ```
 
 
@@ -13805,7 +13327,6 @@ Menachem Zaman asks:
 
 
 ```
-
 There is a Gemara in Kiddushin 12b where Rav says:
 d'Rav Mangid Al d'Mekadesh b'Shuka
 
@@ -13814,7 +13335,6 @@ Rashi comments: Mishum Peritzusa
 Rav would flog anyone who does kiddushin in the shuk because lfi Rash it's pritzus. So then why nowadays do kiddushin under the chuppa in front of everybody? Also, why is chuppa/nisuin l'chatchila done in public? How is it different than kiddushin?
 
 Menachem Zaman, Sherman Oaks
-
 ```
 
 
@@ -13856,7 +13376,6 @@ Michoel Yehoshua asks:
 
 
 ```
-
 The Gemara explains that a person must bring a korban willingly but can also be coerced, based on the fact that the pesukim both say "lirtzono" and "yakriv oto" - he must bring it. 2 questions on this:
 
 1) Is this specifically speaking about a korban chatat? How do we know?
@@ -13865,7 +13384,6 @@ The Gemara explains that a person must bring a korban willingly but can also be 
 
 Thank you!
 Michoel Yehoshua, New Jersey, US
-
 ```
 
 
@@ -13910,7 +13428,6 @@ Daniel Steinberg asks:
 
 
 ```
-
 The Ritva (quoted in the Shita, 34b - d.h. “V’Zeh Loshon HaRitva”...”V’Ikah D’Kasha Lei”) says that even though we already know from 6a that a Shomer who claims Geneiva takes a Shvua She Aino B’rshuso, without Rav Huna, we might have thought - that is only when the Shomer is swearing to get off the hook and not paying. But in a case like our Mishnah in HaMafkid, where the Shomer is paying instead of swearing, we would not suspect him of wanting to keep the Pikadon for himself. If he indeed were trying to keep it for himself, we would expect him to deny or swear to get off the hook, not pay!. Therefore, the Ritva says, Rav Huna is Michadesh that even in such a case, the Shomer is still suspect and must take the Shvua She Aino B’Rshuso.
 
 A few questions on this Ritva:
@@ -13924,7 +13441,6 @@ Consequently, the Gemara’s answer of “Chayshinan Shema Einav Nasan Bah” seems re
 B'chavod.
 
 Daniel Steinberg, Columbus
-
 ```
 
 
@@ -13966,11 +13482,9 @@ yoel labell asks:
 
 
 ```
-
 why didn't the gemara suggest to just read the psukim of the rosh chodesh korban itself for each of the four olim just like on chol hamoed that we reread the korban for that day four times?!
 
 yoel labell, jerusalem israel
-
 ```
 
 
@@ -14013,11 +13527,9 @@ zecharia dorshav asks:
 
 
 ```
-
 Why is Harav Papa's proposed readings on Pesach placed before those of Abbaye? Harav Papa followed Harav Abaye as head of the yeshiva.
 
 zecharia dorshav, Israel
-
 ```
 
 
@@ -14059,14 +13571,12 @@ Tuvya Marcus  asks:
 
 
 ```
-
 In the Background to this page, I understood that a Musgar is always for 2 weeks - but he needs a Re'iyas Kohen at the end of the first week to determine if he extends his Segirah or of he becomes Muchlat.
 But he certainly has 2 weeks of Musgar.
 
 Is that the correct understanding?
 
 Tuvya Marcus , Jerusalem  Israel
-
 ```
 
 
@@ -14109,11 +13619,9 @@ H David Levine asks:
 
 
 ```
-
 What reason is there for the two scholars to have changed their style of blessing, between the visits of bar Yochai's first and second sons?
 
 H David Levine, Roanoke, VA  USA
-
 ```
 
 
@@ -14170,7 +13678,6 @@ H David Levine asks:
 
 
 ```
-
 >>What reason is there for the two scholars to have changed their style of blessing, between the visits of bar Yochai's first and second sons?
 
 H David Levine, Roanoke, VA  USA<<
@@ -14205,7 +13712,6 @@ H David Levine  adds:
 It seems it was my mistake.  I thought bar Yochai had sent one son, then another, to the same pair, Rabbis Yonason and Yehuda.  
  
 It changes the question, a bit, but I wonder still whether the intentions of Rebbi Yonasan ben Asmai and Rebbi Yehudah were represented in bar Yochai's explanation.  May I ask, had the story been such: that the scholars were abusive, and the Rav, in the end, had spared his son from mishap by their word?
-
 ```
 
 
@@ -14245,11 +13751,9 @@ H David Levine asks:
 
 
 ```
-
 What reason is there for the two scholars to have changed their style of blessing, between the visits of bar Yochai's first and second sons?
 
 H David Levine, Roanoke, VA  USA
-
 ```
 
 
@@ -14290,11 +13794,9 @@ DANIEL GRAY asks:
 
 
 ```
-
 14b why is Abaye so shocked that Death sentence cannot be carried out on moed? Mishnah (10:4) at Sanhedrin 89a describes doing just that and even purposely waiting until the moed for: ben sorer, navi sheker, aid zomem and zaken mamreh.
 
 DANIEL GRAY, Toronto, Canada
-
 ```
 
 
@@ -14322,7 +13824,6 @@ Yishai
 ADDITION:
 Dear R' Gray,
 Yasher koach. I see you have ruled out option A based on the Yachin. I consulted with my Rebbe, Rav Yitzchak Breitowitz, who suggested another possibility: The prohibition for the judges to eat applies Davka to the day they sentence a person to death, not the day they kill him. Normally ,that would indeed be the day they execute him  but since inui hadin is permitted in these cases ,by the time the execution date arrives on Chol Hamoed ,the Sanhedrin will be allowed to eat .The sevara is once there is gmar din ,the person is already d3eemed a gavra ketila .   kol tuv ,yb
-
 ```
 
 
@@ -14344,11 +13845,9 @@ DANIEL GRAY asks:
 
 
 ```
-
 14b why is Abaye so shocked that Death sentence cannot be carried out on moed? Mishnah (10:4) at Sanhedrin 89a describes doing just that and even purposely waiting until the moed for: ben sorer, navi sheker, aid zomem and zaken mamreh.
 
 DANIEL GRAY, Toronto, Canada
-
 ```
 
 
@@ -14393,13 +13892,11 @@ R Karaguilla asks:
 
 
 ```
-
 Good morning
 
 The story with choni hameaguel that was not recognized and asked for rachamim to die.
 The guemara says that they did not give him the proper kavod then he requested to die.
 Doesn't that goes against the principle of not depending on the kavod others give you?
-
 ```
 
 
@@ -14442,11 +13939,9 @@ Yomtov  asks:
 
 
 ```
-
 Hi.  How do we understand Rav Yehuda in masechet yevamot daf 9b.  I saw on your site the following…… 7. In the case of the Ervah of a daughter, this scenario is possible only if the daughter was born out of wedlock. If she was born from a legitimate relationship, it would be impossible that she would have a sister who was fathered legitimately by the second brother. The reason is that once one brother marries a woman, that woman is forbidden to the brother even after she is divorced.    My question is that our Mishnah is definitely dealing with a rape case by “his daughter” case.  So how can Rashi say Rav Yehuda holds it’s not a rape case?   Thank you
 
 Yomtov , Lakewood. United States
-
 ```
 
 
@@ -14494,11 +13989,9 @@ Avraham Rapoport asks:
 
 
 ```
-
 Rav Zutra asks if isolated witnesses combine in monetary cases we should combine them in capital cases to save the defendant from death since we try to be lenient in capital cases. But wouldnt this also bring to a stringency when you have 2 isolated single witnesses that currently cant combine and now would be able? Also, cant Rav Nachman answer that this is exactly why you have the pasuk telling you that isolated witnesses cant combine even though you might think that they should?
 
 Avraham Rapoport, Israel
-
 ```
 
 
@@ -14538,13 +14031,11 @@ Aharon Grenadir asks:
 
 
 ```
-
 On Yevamos 70b, Rabbi Yossi bar Chanina brings the pasuk  (Vayikra 22:10): “No foreigner (zar) may eat of the holy thing” (meaning teruma). He makes the following diuk: a disqualification stemming from foreignness I told you prevents one from eating teruma, but not a disqualification based on acute mourning.
 
 Is the limud from the yitur of the pasuk, so he is free to claim that the pasuk comes just to teach the diuk?  But Sefer HaChinuch explains Mitzvah 280, that no zar should eat teruma, has its source from that pasuk in Parshas Emor, so the pasuk is needed l'gufa.
 
 Aharon Grenadir, Brooklyn, NY, USA
-
 ```
 
 
@@ -14584,12 +14075,10 @@ Avrumi Hersh asks:
 
 
 ```
-
 77b
 Rashi 4th wide line.  Rashi says 'arayos yochichu' they are kosher to all Jews besides for krovim.  But the pircha that we are trying to be mochiach from mamzer, is, that mamzer is not rouy lekohol leolom.  I.e. the issur is forever, so the teretz from arayos should be: arayos is only ossur for 3 generations, (even for krovim).  ?
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -14629,7 +14118,6 @@ Tuvya Marcus  asks:
 
 
 ```
-
 >>Rabbi wanted to matir the Givonim.
 If Senchariv came and moved the 10 shevatim - why are the givonim still the same people?
 
@@ -14652,7 +14140,6 @@ Tuvya Marcus asks:
 Thank you - great answer.
 
 What you said "On the other hand, if a person's family lineage is known already, then his geographical location typically does not entail either a problem or a solution." - also could apply to Minyamin the Ger Mitzri (in the Tosefos you cited).
-
 ```
 
 
@@ -14691,7 +14178,6 @@ Tuvya Marcus  asks:
 
 
 ```
-
 >>Rabbi wanted to matir the Givonim.
 If Senchariv came and moved the 10 shevatim - why are the givonim still the same people?
 
@@ -14724,7 +14210,6 @@ Yishai Rasowsky<<
 Tuvya Marcus asks:
 
 OK, but from the various Tosefos I saw - the only time there was a possibility that Mitzrayim were not on their land was the 40 years mentioned in Navi.  Otherwise, noone seems to say that Mitzrayim was moved around (since Yosef, who only did internal Transfer)
-
 ```
 
 
@@ -14764,14 +14249,12 @@ Tuvya Marcus  asks:
 
 
 ```
-
 Rabbi wanted to matir the Givonim.
 If Senchariv came and moved the 10 shevatim - why are the givonim still the same people?
 
 Also, I don't understand Tosefos:  Hefker beis din hefker.  But doesn't this also require to be greater in minyan and chochma?  Was Rebbi's BD greater than Yehoshua?
 
 Tuvya Marcus , Jerusalem Israel
-
 ```
 
 
@@ -14814,14 +14297,12 @@ Avrumi Hersh asks:
 
 
 ```
-
 91b bottom. 
 R popa tried to pasken like may hava ley lemeebad  rashi explains that he was mattir a woman who was muttar with edim to go back to her husband. But reb huna said that all the mishnayos says we don't pasken that way and the terutzim are dechukim.
 But the gemoro said on omud A, that rav paskens like reb shimon that its muttar, and the whole shakla vtarya is only if the chachomim agree to thus concept of may hava ley lemeebad, but the halocha is clear like reb shimon!?
 (This q is especially on rashi, who explains that reb popas psak was talking exactly about this kind of returning a woman who was mutar with edim)
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -14840,7 +14321,6 @@ Yasher Koach for this insight. I see the Rif identifies your point as an indicat
 I hope this helps!
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -14862,7 +14342,6 @@ Avrumi Hersh asks:
 
 
 ```
-
 101a
 Why is a sofek Cohen required to work to save his families from shame.
 It's all his parents fault.
@@ -14870,7 +14349,6 @@ Why does he have to bear any responsibility to hus respective family "yichus" an
 It seems inhumane?
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -14911,7 +14389,6 @@ Avrumi Hersh asks:
 
 
 ```
-
 101a
 Why is a sofek Cohen required to work to save his families from shame.
 It's all his parents fault.
@@ -14919,7 +14396,6 @@ Why does he have to bear any responsibility to hus respective family "yichus" an
 It seems inhumane?
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -14963,7 +14439,6 @@ Greg asks:
 
 
 ```
-
 Thank you answering my previous questions.
 
 My friend who's also learning yevamos asked me this question.  Rav Yehuda amar Rav said that the Mishnah which discuses the age of chalitza for a minor girl and [basically] says her chalitza is meaningless is going like Rebbi Meir.  Rebbi is consistent with his Mishnah when he orders Avdan to check whether a girl is a gedola before doing chalitza.
@@ -14981,7 +14456,6 @@ Thank you for all your efforts.
 Greg
 
 Greg, United States
-
 ```
 
 
@@ -15024,7 +14498,6 @@ Avraham Sacks asks:
 
 
 ```
-
 How does R' Yehudah learn from Mitzcho (instead of Metzach) that if the tzitz is broken Lo Meratzeh?
 
 Avraham Sacks, Ramat Beit Shemesh ?
@@ -15070,13 +14543,11 @@ Ari asks:
 
 
 ```
-
 According to Rebbi Yehuda (who we dont pasken like) that the eastern boder of Eretz Yisrael just keeps going further west, will crete and cyprus be considered part of retz Yisrael?
 Also how far west would it go according to Rebbi Yehuda?  Would a theoretically hold that southern flodida or even  parts of central/ southern america are part of Eretz Yisrael?
 Thanks for spending time to answer my questions
 
 Ari, israel
-
 ```
 
 
@@ -15124,13 +14595,11 @@ Ari asks:
 
 
 ```
-
 According to Rebbi Yehuda (who we dont pasken like) that the eastern boder of Eretz Yisrael just keeps going further west, will crete and cyprus be considered part of retz Yisrael?
 Also how far west would it go according to Rebbi Yehuda?  Would a theoretically hold that southern flodida or even  parts of central/ southern america are part of Eretz Yisrael?
 Thanks for spending time to answer my questions
 
 Ari, israel
-
 ```
 
 
@@ -15149,7 +14618,6 @@ The cut-off seems to be no farther west than the Strait of Gibraltar. In other w
 I hope this helps!
 Best wishes,
 Yishai Rasowsky
-
 ```
 
 
@@ -15171,7 +14639,6 @@ Davic1 asks:
 
 
 ```
-
 Greetings again! 
 
 I was very curious why it is that the mishnah in Kiddushin 80 about yichud does not even mention WHO or WHEN the takkana was established even according to R. Shimon, and that it was a comment of R. Yochanan/R. Yishmael that shed light on that based on a posuk (which itself is a bit hard to understand). If there was a scriptural basis for the takkana, why wasn't it mentioned in the mishnah, and indeed, WHY would we care about a scriptural source at all whenever a takkana is issued by the Sanhedrin, what difference does it make whether or not there was a scriptural basis??!
@@ -15186,7 +14653,6 @@ I am not sure I understand really why there would be need for a prohibition of y
 
 Thanks,
 David Goldman
-
 ```
 
 
@@ -15238,7 +14704,6 @@ Avrumi Hersh asks:
 
 
 ```
-
 5b bottom
 The gemoro says in the ika deomri,
 Do you need the dam then it's ossur.
@@ -15248,7 +14713,6 @@ Then he gemoro says, im timtzi lomar you just want the hanooh, is it muttar or o
 Obviously we hold like reb shimon, otherwise what was the tzad that it would be muttar if it was hanoas atzmo?    The gemoro seems to have an unnecessary im timtzi lomar, in this ika deomri?
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -15294,14 +14758,12 @@ Davic1 asks:
 
 
 ```
-
 Greetings. Many meforshim do not interpret Shmos 23 as referring to an actual angel (Matat). If so, how do they understand the Gemara where Rav Idis explicitly says the verse refers to an angel (rather than Yehoshua)?
 
 Personally I do not feel comfortable at all with midrashic references attributing to Matat qualities almost like Hashem.
 
 Thanks,
-David Goldman 
-
+David Goldman
 ```
 
 
@@ -15352,7 +14814,6 @@ David asks:
 
 
 ```
-
 Shalom,
 
 Based on the below sources, in a real-world scenario can a female Safek Mamzer marry an Israelite?  A Kohen?  A Challal?
@@ -15366,7 +14827,6 @@ Thank you in advance for taking the time to answer my questions.
 
 Warm regards,
 David, Los Angeles, USA
-
 ```
 
 
@@ -15409,7 +14869,6 @@ Heshi Kuhnreich asks:
 
 
 ```
-
 Shalolm u'Verachah,
 
 The Gemara Daf 102 on top asks, u'Mi Ika Ki Hai Gavna, whether we find  someone who wears two pairs of shoes. The Gemara replies that we found R. Yehudah who wore five pairs (due to illness). The Gemara at the bottom however says, Lo Yetayel Adam v'Kordkisin b'Soch Beiso which would seem to indicate that it is only prohibited inside but permissible outside. If so, the Gemara on top could have answered from the case of b'Kordkisin which seems to be a more common occurrence than the situation of R. Yehudah.
@@ -15472,14 +14931,12 @@ Avrumi Hersh asks:
 
 
 ```
-
 121a middle
 A man was fishing and he was thought to be dead. But he survived overnight in a fishhole. Rebbi said, 'how amazing that chazal said mayim without limit the wife is osur'
 The gemoro asks why not say the same with limited water. The gemoro answers because the entire story is not shciach.   
 So what was the chiddush of rebbi?   You don't see anything in this story that shows the greatness of chazal to assur a woman who's husband was lost in unlimited waters.
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -15520,7 +14977,6 @@ Menachem Zaman asks:
 
 
 ```
-
 >>Tosfos says that if the kosel fell in one person's reshus, he has a migu to be believed to say I built it because he can taina I bought it.
 
 And why is he believd to say he bought it? Because he has a raya of shah harbeh.
@@ -15592,7 +15048,6 @@ So he would not be believed to say that he built it, since that would be like ta
 This is exactly my point. When the wall was standing there was a safeik who the wall belonged to so they would divide the wall because as Tosfos says v'Im Hayu Ba'in la'Chalok b'Od she'ha'Kosel Kayam Hayu Cholkin b'Shaveh mi'Safek. 
 
 So while the wall was standing there was a psak yachlokoo. As I asked you last time Rav, the psak yachlokoo is m'toras safeik (and not vadai). So now the wall is in his reshus, he has a tefisa now a raya that the wall is his because of shah harbeh. So since the psak yachlkoo was m'toras safeik, why can't shah harbeh relitigate the case and say he built the wall? Why shouldn't shah harbeh be abe to overtake a psak yachlokoo m'toras safeik?
-
 ```
 
 
@@ -15635,7 +15090,6 @@ Mordechai Abisror asks:
 
 
 ```
-
 On the daily quiz (last question) it says  its a machloikes if truknin is subject to chala, but the Gra says when the gemarah says when rav dimi came and said it was peturin, its really chayavin, does anyone argue on the Gra, (and holds of the quiz that it is a machloikes)?
 
 >>6. Truknin (an inferior bread made by placing flour and water in a cavity in the oven) is Chayavin in Chalah.
@@ -15648,8 +15102,7 @@ e) Only if baked as Matzah
 6. (c)<<
 
 Thank you,
-Mordechai Abisror, Long branch New Jersey 
-
+Mordechai Abisror, Long branch New Jersey
 ```
 
 
@@ -15685,7 +15138,6 @@ Robert Mandel asks:
 
 
 ```
-
 Shalom Kollel Hadaf,
 
 Metaphorically evident in Genesis 2:9, The Lord G-d caused to grow the tree of life (His Torah) in the middle of the garden (planet earth), and the tree of knowledge (of His commandments, laws, and mitzvot) was (awareness) of all good and evil at first breath.   
@@ -15700,7 +15152,6 @@ Your insight is appreciated.
 
 B"H
 Robert Mandel, Houston, USA
-
 ```
 
 
@@ -15758,13 +15209,11 @@ Sender Klein asks:
 
 
 ```
-
 Question from the case of Sukka on 30b - we have a concern with taking from the schach of a sukka (not on Sukkos) because of Stirah as Rashi explains on the mishna.
 
 Why don't we say that adding to or removing from an ohel arai is mutar, such as adding to a roof once there is one tefach?  Or is this a permanent sukka?
 
 Sender Klein, United States
-
 ```
 
 
@@ -15826,7 +15275,6 @@ kerfish asks:
 
 
 ```
-
 >>Is shmita nowadays deraisa or derabon and why?  I have heard different reasons its derabon (you need bias kulchem and all Jews have to be in Israel, you need the shevatim to be sitting in their respective teriories, we have no urim veturim) but dont know which ones are true and not true.
 Thanksfor ll your help    
 
@@ -15876,8 +15324,7 @@ You wrote "But more directly related to your point, the Rishonim (4) write that 
 But its very logical to assume we have at least on Jew of each shevet in Eretz Yisrael.  Do we have to come on to the Rishonim who hold that you need a majority of each shevet to call it deorisa?  According to the opinions that you don't need a majority of each and every shevet it should still become deorisa when we get a majority of Jews in Israel.  Is this correct or not?
 Also what about terumas and maseras?  Will that become deorisa when we have a majority of Jews in Israel (according to the opinions it's derabanan today because we don't have bias kulchem)?
 Also, if you need a majority of each shevet.  Does that mean even during bayis rishon after he 10 tribes were sent to golus by Sancherib that Shemita was derabaon even then during bayis rishon?  If it was derabaon its interesting because its brought down that klal yisrael was sent to golus for 70 years for the 70 shemitas they were not shomer.  But mny of thos shemitas were only derabonon?  Why were they sent to golus for something that's "only" derabon?
-Thanks and chanukah sameach 
-
+Thanks and chanukah sameach
 ```
 
 
@@ -15922,7 +15369,6 @@ Menachem Zaman asks:
 
 
 ```
-
 I think lfi Rav, he says that we do go after rov in monetary cases, and Shmuel says no we don't
 
 What rov is Rav talking about? D'is d'kaman or even d'leis d'kaman?
@@ -15930,7 +15376,6 @@ What rov is Rav talking about? D'is d'kaman or even d'leis d'kaman?
 Also Shmuel? Does he categorically reject using rov in monetary cases? Or is it only rov d'leis d'kaman.
 
 Menachem Zaman, Israel
-
 ```
 
 
@@ -15982,7 +15427,6 @@ Menachem Zaman asks:
 
 
 ```
-
 I think lfi Rav, he says that we do go after rov in monetary cases, and Shmuel says no we don't
 
 What rov is Rav talking about? D'is d'kaman or even d'leis d'kaman?
@@ -15990,7 +15434,6 @@ What rov is Rav talking about? D'is d'kaman or even d'leis d'kaman?
 Also Shmuel? Does he categorically reject using rov in monetary cases? Or is it only rov d'leis d'kaman.
 
 Menachem Zaman, Israel
-
 ```
 
 
@@ -16036,7 +15479,6 @@ Menachem Zaman asks:
 
 
 ```
-
 The Gemara in Kiddushin 69 say is giving eitza in how a mamzer can have children who are not mamzerim. So the advice lfi Rav Simlai is to steal something and get sold as an eved ivri and then his offspring from his union with a cannanite slave will yield him children who are not mamzerim:
 
 d'Mansiv Leih Eitzah v'Amar Leih Zil Gnov v'Izdabin b'Eved Ivri
@@ -16047,7 +15489,6 @@ I specifcially rememebr in Bava Kamma somehere in the dafim of the 60s that you 
 I took it as a rule steaking is just wrong no matter what. In light of that, I can't understand Rav Simlai's suggestion?? Why is one stealing okay and one is not . . .?
 
 Menachem Zaman, Sherman Oaks
-
 ```
 
 
@@ -16094,7 +15535,6 @@ Joshua Danziger asks:
 
 
 ```
-
 >>I have a general question about the concept of besulah and the appropriate kesuba amounts. Much of the discussion focuses on whether the besulim are intact are not, gedola katana, mukatz etz etc.
 
 My question is, is the husband mostly interested in whether his wife has been with another man in which case the besulim are just being used as evidence, or is the assumption he actually wants to break the besulim himself (and thus there’s inherent and not just evidentiary value of the besulim)? The first makes sense to me and the latter seems a bit strange but seems like the crux of the mukatz etz discussion.
@@ -16128,7 +15568,6 @@ Thank you! A follow up if I may, I really like the rosh kollels answer.
 2) is the strength of this connection part of the reason a kohen can’t marry a divorcee? Bc she still has an emotional connection on some level to a living man? I realize there’s a flaw in the logic since if she was widowed then remarried and divorced, or divorced and the husband subsequently died she still has a “shem” of gerusha even without the man who made her a kli being alive.
 
 Thank you!
-
 ```
 
 
@@ -16171,14 +15610,12 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 A simple question, and perhaps I’m missing something. At the end of the daf, rava asks like whom RYBN holds. But isn’t RYBN a tanna? Why does he have to hold like anyone? Or is it just presumed his shita aligns with one of the others and the gemara wants to fit it into the right category?
 
 Thank you!
 Josh
-
 ```
 
 
@@ -16224,11 +15661,9 @@ Meir Gerber asks:
 
 
 ```
-
 Question: What indication is there in the language of the Mishna is there that allows the gemara to suggest that there was an additional rov consisting of Keronos shel Tzipori (Just to make the halacha fit)
 
 Meir Gerber, United States
-
 ```
 
 
@@ -16270,14 +15705,12 @@ Menachem Zaman asks:
 
 
 ```
-
 I never understood why to establish a chazakah you need to do something 3 times, but to make a kinyan in a sugya, you have to do chazara 4 times.
 
 Why should by learning to make a kinyan require 4 times of repitition.
 
 
 Menachem Zaman, Sherman Oaks
-
 ```
 
 
@@ -16329,7 +15762,6 @@ Lenny Bogatin asks:
 
 
 ```
-
 The Gemorah (and Ran) dismiss R' Zeira suggestion that R' Eliezer (or R' Elazar) could have the opinion (as per a Mishna in Tohoras) that a doubtful Nazirus should be treated leniently.   The Gemarah with Ram come up with a Rabinial matter (of Safek liquid) that R' Eliezer holds stringently (as tamey),   and, therefore, make a resolution that R' Eliezer could not at the same time treat a more important Torah level   case of Nazirus (when in Safek) in a lenient fashion.
 
 But, is that logic really 100% applicable? 
@@ -16360,7 +15792,6 @@ By treating this case leniently we would just yield to H-m's 'hint'.  And we can
 Sure, R' Zeira (about R' Elizer) doesn't have a 100% proof for these considerations to be valid or not, but he may still be right that it was R' Eiezer (just like, maybe, R.Yehuda, or/and others) who holds that Safek Nazirut is NOT valid.     So, why is the Gemorah's editor so dismissive of R' Zeira (or R'  Eliezer) ? 
 
 Lenny
-
 ```
 
 
@@ -16400,7 +15831,6 @@ M. Deutsch asks:
 
 
 ```
-
 Rav Chisda says that for Non-Jewish kings we count from Tishrei, while for Jewish kings we count from Nissan.
  
 Couple of practical points
@@ -16414,7 +15844,6 @@ Couple of practical points
  
 Shkoyach
 Moshe
-
 ```
 
 
@@ -16465,11 +15894,9 @@ A K asks:
 
 
 ```
-
 Are the years that the chashmonoim ruled Eretz Yisrael part of golus Yaven, or is it not a golus at all?  I heard it is considered part of golus Yaven but I dont know a mekor for this.  Is there a mekor this way or that way? And if it is golus Yaven what is the sevorah to say its golus Yaven?
 
 A K,
-
 ```
 
 
@@ -16513,7 +15940,6 @@ Soheil Zaman asks:
 
 
 ```
-
 Dear DafYomi.co.il,
 
 I have three questions about the nature of a chakira if you could help me Rav:
@@ -16525,7 +15951,6 @@ I have three questions about the nature of a chakira if you could help me Rav:
 3) If not, then what is considered a "true" chakira? 
 
 Soheil Zaman, Sherman Oaks
-
 ```
 
 
@@ -16575,11 +16000,9 @@ Menachem Zaman asks:
 
 
 ```
-
 What is the dynamics between the interaction of a Makshan and a Tartsan? Is the Makshan’s hava mina conclusively refuted or is his challenge simply deflected? Meaning, does the Makshan conceded to the Tartsan or even after the Tartsan's response, the Makshan holds by his question. 
 
 Soheil Zaman, Sherman Oaks
-
 ```
 
 
@@ -16626,7 +16049,6 @@ Avrumi Hersh asks:
 
 
 ```
-
 13a bottom
 Reb yosi washed in cold water cos he had double avelus and we said that if you gave double avelus then you can trim your hair with a taar (rashi explains only a minimal trim) and you can wash your clothes in water only.
 So why does the gemoro say that he washed with cold water all 7 ? Surely he should only be allowed to wash a minimal amount necessary, the same way he can only cut his hair and wash clothes in the minimum way?
@@ -16634,7 +16056,6 @@ So why does the gemoro say that he washed with cold water all 7 ? Surely he shou
 (This question is only in our girsa of the gemoro, kol zayin but rashis girsa is: toch zayin)
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -16681,7 +16102,6 @@ Sholem asks:
 
 
 ```
-
 >>An 'Odom Choshuv' should not bow down in public unless he is sure that he will be answered.
 
 We all know that everyone's Tefilois are never rejected.  Although he might be answered (immediately), these Tefilois are 'put away' for another occasion.
@@ -16714,7 +16134,6 @@ Thank you for replying….
 You mention Moshe Rabeinu whose 515 Tefilois to be allowed to enter Eretz Yisroel were ‘seemingly’ unanswered.  However according to most meforshim had he persisted by adding to these Tefilois Hashem would have no option but to accede to his request.
 
 Sholem
-
 ```
 
 
@@ -16753,11 +16172,9 @@ Avrumi Hersh asks:
 
 
 ```
-
 18b. Why did both lulyanus and pappus need to confess to save the yidden, why wasn't one of them enough?
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -16808,13 +16225,11 @@ Avrumi Hersh asks:
 
 
 ```
-
 23b abba chilkiya  specifically tried to hide his involvement in the rain coming but the rabonon anyway understood that it was him, and they asked him why the clouds came because of his wife and not because of him.
 
 How does the gemoro know the story of him and his wife in the 2 corners of the attic, if he specifically hid his actions, and how did the rabonon know that it came from his wifes side?
 
 Avrumi Hersh, London england
-
 ```
 
 
@@ -16858,7 +16273,6 @@ Michael Geller asks:
 
 
 ```
-
 The Bavli prints the word teiku when the question remains unresolved. 
 The Yerushalmi does not do that. 
 Is there a reason? 
@@ -16866,7 +16280,6 @@ Thank you.
 
 Michael L. Geller
 Dallas, TX
-
 ```
 
 
@@ -16911,11 +16324,9 @@ Tuvya Marcus asks:
 
 
 ```
-
 Is there another Tana besides Rabbi Eliezer who says Ro'in? I remember in Pesachim and in Zevachim or Menachos also it was R"E
 
 Tuvya Marcus, Jerusalem Israel
-
 ```
 
 
@@ -16957,11 +16368,9 @@ Tuvya Marcus asks:
 
 
 ```
-
 Is there another Tana besides Rabbi Eliezer who says Ro'in? I remember in Pesachim and in Zevachim or Menachos also it was R"E
 
 Tuvya Marcus, Jerusalem Israel
-
 ```
 
 
@@ -16981,7 +16390,7 @@ I see another place that I felt might be related to what you were searching for.
 Best wishes for Chag Sameach!
 Yishai Rasowsky
 Sources:
-1. 
+1.
 ```
 
 
@@ -17003,11 +16412,9 @@ Sholem asks:
 
 
 ```
-
 Why is it permitted to ask a 'goy' to bury a niftar on Yom Tov, because of kovoid hamess and not on Shabbos
 
 Sholem, UK
-
 ```
 
 
@@ -17052,11 +16459,9 @@ Sholem asks:
 
 
 ```
-
 Why is it permitted to ask a 'goy' to bury a niftar on Yom Tov, because of kovoid hamess and not on Shabbos
 
 Sholem, UK
-
 ```
 
 
@@ -17115,11 +16520,9 @@ Sholem asks:
 
 
 ```
-
 Why is it permitted to ask a 'goy' to bury a niftar on Yom Tov, because of kovoid hamess and not on Shabbos
 
 Sholem, UK
-
 ```
 
 
@@ -17144,7 +16547,6 @@ Yishai Rasowsky
 Sources:
 1. https://dafyomi.co.il/bkama/tosfos/bk-ts-081.htm#:~:text=%D7%90%D7%9C%D7%90%20%D7%9C%D7%A4%D7%99%20%D7%A9%D7%94%D7%95%D7%90,via%20a%20Nochri%20...
 2. https://www.sefaria.org.il/Magen_Avraham.311.13?lang=he&with=all&lang2=he#:~:text=%D7%9B%D7%91%D7%A8%20%D7%94%D7%90%D7%A8%D7%99%D7%9A%20%D7%91%D7%96%D7%94,%D7%A9%D7%9C%20%D7%93%D7%91%D7%A8%D7%99%D7%94%27%20%D7%A2%D7%9B%22%D7%9C
-
 ```
 
 
@@ -17166,7 +16568,6 @@ Pesach Rogoway asks:
 
 
 ```
-
 Question: But the other cases are all subject to Machlokes Beis Hillel and Beis Shamai!?
 
 (o)
@@ -17174,7 +16575,6 @@ Answer: We don't regard Beis Shamai as a contest to Beis Hillel.
 WHY BE SO INSULTING TOWARD BEIT SHAMAI? PERHAPS THE MAIN  PURPOSE OF GEMARA IS TO PRESENT DIFFERENT OPINIONS ON THE LAW. ISN'T BEIT SHAMAI ENTITLED TO THEIRS?  AND SOMETIMES THEY WIN THE MACHLOKET. AND IT WAS BEIT SHAMAI WHO CONCLUSIVELY CONCEDE TO BEIT HILLEL IN A VERY RESPECTFUL WAY.
 
 Pesach Rogoway, Israel
-
 ```
 
 
@@ -17195,7 +16595,6 @@ May you continue to attain greatness in Torah learning and Yiras Shamayim!
 Best wishes,
 Yishai Rasowsky
 Sources:
-
 ```
 
 
@@ -17217,7 +16616,6 @@ Pesach Rogoway asks:
 
 
 ```
-
 SALTING MEAT FOR COOKING ON YOM TOV
 
 (a)...
@@ -17228,7 +16626,6 @@ R. Ada b. Ahavah acted cunningly, and salted one piece of meat (in order to eat 
 2.IF THE REASON FOR FORBIDDING IT IS SO AS NOT TO EXERT ONESELF, WOULDN'T IT BE LESS EXERTION IF HE SALTED THE WHOLE SIDE OF BEEF AT ONE TIME INSTEAD OF PIECE BY PIECE?
 
 Pesach Rogoway, Israel
-
 ```
 
 
@@ -17280,13 +16677,11 @@ Moshe Reinitz asks:
 
 
 ```
-
 The english chart doesnÂ’t indicate that the differences are according to Beis Shammai. Does that need to be stated?
 https://dafyomi.co.il/beitzah/charts/bt-ct-012.htm
 
 Gmar Chasima Tova
 Moshe U. Reinitz
-
 ```
 
 
@@ -17339,11 +16734,9 @@ Chananiah Yankelove asks:
 
 
 ```
-
 Why is it that acc. to Rabah we learn Acc. to Beis Shammei out the law of Challah U' Matanos from Terumah while Beis Hillel say the Terumah is learned from Challah U'matanos which make it forbidden to give on Yom Tov? ( Is this some sort of Ma Mitzinu or is there a reason to make Terumah more forbidden because it has a source from the Torah)
 
 Chananiah Yankelove, Baltimore,MD,United States
-
 ```
 
 
@@ -17393,7 +16786,6 @@ Jack Walfish asks:
 
 
 ```
-
 I have another inquiry related  the recent Dapim on Beitza 12b, 14a, and 17b. 
 
 The question is whether a Stam Mishna has automatically Greater authority than a Tosefta as per the Klal of Rav Yochanan that Halacha K’stam Mishna. 
@@ -17406,7 +16798,6 @@ On 17b Rava must tell us that the Halacha is like our stam Mishna with regard To
 
 The best,
 Jack, KGH New York
-
 ```
 
 
@@ -17447,13 +16838,11 @@ Sholem asks:
 
 
 ```
-
 Rebbi says that it is muter to make an Eiruv Chateirois on Yom Tov, since it is permitted to carry from one Chotzer to another.
 
 There is a big difference with and without an Eiruv.  Permission to carry on Yom Tov is restricted to 'letzoirach' - a need.  For example carrying on Yom Tov (without an Eiruv) is problematic after Shkia.  Whereas, with an Eiruv these restrictions do not exist.
 
 Sholem, UK
-
 ```
 
 
@@ -17504,13 +16893,11 @@ Sholem asks:
 
 
 ```
-
 Rebbi says that it is muter to make an Eiruv Chateirois on Yom Tov, since it is permitted to carry from one Chotzer to another.
 
 There is a big difference with and without an Eiruv.  Permission to carry on Yom Tov is restricted to 'letzoirach' - a need.  For example carrying on Yom Tov (without an Eiruv) is problematic after Shkia.  Whereas, with an Eiruv these restrictions do not exist.
 
 Sholem, UK
-
 ```
 
 
@@ -17575,13 +16962,11 @@ Sholem asks:
 
 
 ```
-
 Rebbi says that it is muter to make an Eiruv Chateirois on Yom Tov, since it is permitted to carry from one Chotzer to another.
 
 There is a big difference with and without an Eiruv.  Permission to carry on Yom Tov is restricted to 'letzoirach' - a need.  For example carrying on Yom Tov (without an Eiruv) is problematic after Shkia.  Whereas, with an Eiruv these restrictions do not exist.
 
 Sholem, UK
-
 ```
 
 
@@ -17620,13 +17005,11 @@ Simon Levy asks:
 
 
 ```
-
 A question which has troubled me for a number of years - why do we not use a Shabbat Mussaf model with Yom Tov additions when it's Shabbat Rosh Chodesh/Chol Hamoed? Why do we insist on using a totally different layout from the usual Shabbat tefilla for this specific tefilla?
 
 In addition, what's the rationale for following Rebbi when it comes to this? The first Beraisa on the DAF refers to Yom Tov which falls on a Shabbat - why do we then follow him when it comes to Shabbat Rosh Chodesh/Chol Hamoed - it's a separate Beraisa and the gemara doesn't mention Rebbi at all...
 
 Simon Levy, Modiin
-
 ```
 
 
@@ -17676,12 +17059,10 @@ Daniel Gray asks:
 
 
 ```
-
 Rashi DH Aval Nedarim
 Same logic would apply to a Korban Neder where Bal Te'acher applies immediately after Yom Tov, so why not allow him to sacrifice it on last day of Yom Tov?
 
 Daniel Gray, Canada
-
 ```
 
 
@@ -17721,12 +17102,10 @@ Sender Klein asks:
 
 
 ```
-
 The Gemara gives a few suggestions about how to block the light of a candle on Yom Tov, and if no alternative is available, concludes that one may not put it out.
 Why can't one simply move the candle out of the house?
 
 Sender Klein, United States
-
 ```
 
 
@@ -17772,11 +17151,9 @@ Chaim asks:
 
 
 ```
-
 Rashi on the Mishnah says that the child's agalah is tamei because the child is a Zav. Why do we say that the laws of tumah apply to a Katan when usually halacha doesn't really apply to them (other than then through the father's obligation of chinuch) until they are a gadol? How would the child become tahor? Can they bring a Korban or would they have to wait until they are bar mitzvah? If they are a kohen, does that mean they can't eat terumah until they are a gadol?
 
 Chaim, Melbourne, Australia
-
 ```
 
 
@@ -17821,11 +17198,9 @@ RA Alpert asks:
 
 
 ```
-
 Is the comment that since they were not Rachamonim, these Bavliim must be from the Eiruv Rav, meant literally? If so, how is this possible--didn't we learn that Ezra took up with him all persons with posul/sofeik yechus, and left Bovel with very good Yechus?
 
 RA Alpert, NYC, USA
-
 ```
 
 
@@ -17880,11 +17255,9 @@ RA Alpert asks:
 
 
 ```
-
 Is the comment that since they were not Rachamonim, these Bavliim must be from the Eiruv Rav, meant literally? If so, how is this possible--didn't we learn that Ezra took up with him all persons with posul/sofeik yechus, and left Bovel with very good Yechus?
 
 RA Alpert, NYC, USA
-
 ```
 
 
@@ -17929,11 +17302,9 @@ H David Levine asks:
 
 
 ```
-
 I ordered a men's kittle, but it buttons on the left, like womens' garments in the U.S.  Did I get the wrong kittle, or is this the custom for kittles?  Should I otherwise suspect beged ishah?
 
 H David Levine, Roanoke, VA  USA
-
 ```
 
 
@@ -17972,11 +17343,9 @@ Daniel Gray asks:
 
 
 ```
-
 Why does Rashi deviate from Shmuel Brochos 23b in two ways: next to head vs under AND reason of angels needed at all?
 
-Daniel Gray, Toronto Canada  
-
+Daniel Gray, Toronto Canada
 ```
 
 
@@ -18048,8 +17417,7 @@ Yishai Rasowsky<<
 ---
 Menachem Weiman asks:
 
-Thanks. I was wondering if possibly Rashi held that the obligation to eat was only for the other chagim but since Sukkos has the drasha of "teishvu k'ain teduro" the idea of eating the way you want takes precedence. 
-
+Thanks. I was wondering if possibly Rashi held that the obligation to eat was only for the other chagim but since Sukkos has the drasha of "teishvu k'ain teduro" the idea of eating the way you want takes precedence.
 ```
 
 
@@ -18102,11 +17470,9 @@ Yisrael Rutman asks:
 
 
 ```
-
 Why is there no similar expression of Divine rejection in conjunction with other mitzvos? On the contrary, we are expected to fulfill the mitzvos even under duress. If it rains at other times of year, we do not say that Hashem does not want our tefillos in the shul we have to walk to in the rain. Except for cases of onsin, such as serious illness or other incapacity, we say l’fum tzara agra, according to the hardship is the reward. We don’t seek out obstacles in performing mitzvos, but when they come our way, we try to overcome them. Why not say that Hashem is offering more reward for waiting for the rain to stop so that we can return to the Sukkah?
 
 Yisrael Rutman, Pardes Hanah, Israel
-
 ```
 
 
@@ -18162,11 +17528,9 @@ Yisrael Rutman asks:
 
 
 ```
-
 Why is there no similar expression of Divine rejection in conjunction with other mitzvos? On the contrary, we are expected to fulfill the mitzvos even under duress. If it rains at other times of year, we do not say that Hashem does not want our tefillos in the shul we have to walk to in the rain. Except for cases of onsin, such as serious illness or other incapacity, we say l’fum tzara agra, according to the hardship is the reward. We don’t seek out obstacles in performing mitzvos, but when they come our way, we try to overcome them. Why not say that Hashem is offering more reward for waiting for the rain to stop so that we can return to the Sukkah?
 
 Yisrael Rutman, Pardes Hanah, Israel
-
 ```
 
 
@@ -18212,7 +17576,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 In the Yom Kippur davening the song “anu amecha” ends with the statement “anu maamirecha, vatah mamareinu”.
@@ -18222,7 +17585,6 @@ Is this related at all the the mamar of yibum? I would have expected language li
 Any insights are appreciated!
 
 Josh
-
 ```
 
 
@@ -18278,7 +17640,6 @@ Naftoli Willner asks:
 
 
 ```
-
 >>I submitted the following question a number of weeks ago.  Perhaps I missed the answer (I don't think so), or perhaps since it is not on the current area of the Daf Yomi it is not appropriate.  If that is the case, I appologize and let me know.
 
 I hope it is OK to ask a question on a non-daf yomi topic.
@@ -18354,7 +17715,6 @@ Naftoli Willner
 Thank you again,
 
 Naftoli
-
 ```
 
 
@@ -18398,14 +17758,12 @@ Dino Feigelstock asks:
 
 
 ```
-
 Shalom!
 
 The guemara at the top of amud bet seems to suggest that, if when AVAR VEAFA the food would have been permitted, the Baraita should have suggested (as a solution to one who did not make eruv tabshilin) to cook on Yom Tov for the next day. How the Baraita would suggest something that is ASUR, AFILU MERABANAN? (that’s seems to be the answer of the gemara, but how the question even comes to the mind?). Please note that, as I understand it, the MAHARM SHIF states that the gemara suggests that the Baraita should have suggested to cook on Yom Tov for the next day LECHATECHILA (not if this already happened).
 
 Dino Feigelstock, Washington DC, USA
 The Kollel replies:
-
 ```
 
 
@@ -18448,11 +17806,9 @@ Nati raymond asks:
 
 
 ```
-
 Is it true or false that someone who breaks shabbat in public intentionally has an eternal gehinom. If so what would be the source
 
 Nati raymond, london
-
 ```
 
 
@@ -18480,60 +17836,6 @@ I would like to add two qualifications. One is that a person can always repent a
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
-```
-
-
-
-
-
-
-
-
-
----
-## GENERAL: Gehinom
-
-Nati raymond asks:
-
-
-
-
-
-
-```
-
-How comes in Bava Metzia it says everyone goes up from gehinom except for three and then in perek chelek sanhedrin we say everyone has a chelek in olam haba
- but there's a different list of people who don't have a chelek in olam haba. Then it also says in the Zohar more people who don't leave gehinom. So what do we mean when we say everyone has a chelek in olam haba/leaves gehinom   except for categories which seem to contradict?
-
-Thank you and have a great day
-
-Nati raymond, United Kingdom
-
-```
-
-
-
-
-
-The Kollel replies:
-
-
-
-
-
-```
-Shalom Nati,
-The topic you are asking about is very deep and has lots of sources to be learnt thoroughly. 
-I think the right way to start off, is to learn the third chapter of Hilchos Tshuvah of the Rambam, where he makes different lists and categories. The default of every Jew is that he has a part designated for him, and only him, in what is called 'Olam ha'Bah. Unfortunately, when a person sins, he can definitely lose his part. The Rambam first brings the 24 types of people who do not have a part in Olam ha'Bah at all. These is pretty much the same list in Perek Chelek in Sanhedrin. He then goes on to bring another list of people who are mentioned in different places in Chazal, (including Bava Metzia 58), and says that these sins, can cause a person to lose his part in Olam ha'Bah if he commits them regularly. Let me just note, that there is a big discussion in the Rishonim regarding Ba Al Eshes Ish, since the Gemara (Bava Metzia 59) says that this person, although killed by Beis Din, he still does have a Chelek in Olam ha'Bah. 
-The Rambam concludes that people on both lists, can always do Tshuva, and get there Chelek in Olam ha'Bah back. 
-There is an opinion in Rabeinu Bechaye (va'Yikra 18;19) that all these who are mentioned in the Mishna as those who lose their Chalek, this is only their personal part in Olam ha'bah, but they still have a Chelek which is given to them as Tzedaka even if they do not deserve it. 
-There are also different opinions what the concept of 'Yordim le'Gehenom ve'Einam Olim'. Iv'e seen in the past some who say that since if these will go inti Gehenom they will have no way to exit, there are different kinds of punishments like Gilgulim or of the sort. 
-I am not sure what Zohar you mean. Do you have a reference?
- In some case (like Giluy Arayos) we find that a person can lose his chelek in Olam ha'Bah not only in the Zohar. In others, it can hint to something conceptual.
-I hope this helps,
-Aharon Steiner
-
 ```
 
 
@@ -18555,7 +17857,6 @@ Yehuda asks:
 
 
 ```
-
 >>In the Mishnah on daf 20b, it says for the entire day you can fulfill the Mitzvah of blowing the shofar and taking the lulav. However, in the Gemara, when it brings proofs that these are day Mitzvos, it switches the order of the Mishnah to lulav THEN shofar, rather than shofar then lulav.
 What is the reason the order is switched in the Gemara?
 
@@ -18578,7 +17879,6 @@ Yishai Rasowsky<<
 Shmuel Berkovicz adds:
 
 See Aderes Eliahu (Rikki) and Kesef Rachamim (Chori) that were sensitive to this issue.
-
 ```
 
 
@@ -18620,14 +17920,12 @@ Avrumi Hersh  asks:
 
 
 ```
-
 9b last line
 The gemoro says that reb yochonon says, that chikiya should agree, that the chiddush of the mishna which says that "harey olay mincha from seorim" is not excluding adoshim, cos the chiddush by seorim is even bigger. The chiddush is that perhaps it's not a chazorah of his words "mincha" instead he means to say that originally he only agreed to a minchas nedovo of seorim and if that's not possible then he won't give anything. Km"l.
 
 But why is that a chiddush, surely according to beis shammai the rule of hekdesh tous is, that you are chayav to do anything you say, even if you expressedly made a tnay, e.g. seorim or nothing. Just like beis shammai says if you made a tnay of a certain animal that comes out my house 1st and a totally different animal emerges, this is still hekdesh tous and it still works.  So acc. To chizkiya in beis shammai this is no extra chiddush at all. This is the same rules?
 
 Avrumi Hersh , London england
-
 ```
 
 
@@ -18662,7 +17960,6 @@ b. Possibly one could resolve this by saying that the Mishnah is not intending t
 Since I didn't find my proposed resolutions discussed in the commentaries, I cannot tell you that I have a definite answer right now. But for the time being I hope our discussion helps contribute to your fascinating analysis of this topic. Meanwhile, I will to defer to other members of the Kollel in case they are able to offer additional and help and insights on this challenege you raised.
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -18684,7 +17981,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello Kollel!
 
 The Gemara quotes someone called r yehoshua ben lakish. Who is he and what’s his relation to reish lakish?
@@ -18692,7 +17988,6 @@ The Gemara quotes someone called r yehoshua ben lakish. Who is he and what’s his
 Thank you.
 
 Josh
-
 ```
 
 
@@ -18737,14 +18032,12 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello Kollel!
 
 The Gemara discusses someone pledging erech of a fork to hekdesh. Setting aside the q of whether utensils have erech, and assuming the neder is valid what is the status of the fork before it’s evaluated? Does the person have to not use it lest it’s value decline? Would it be meilah if he does?
 
 Chag sameach!
 Josh
-
 ```
 
 
@@ -18787,12 +18080,10 @@ D Fhima asks:
 
 
 ```
-
 His hair weighed 200 Shekalim, weighed with the Royal Shekalim, heavier than usual.
 any idea what this translates to in the metric system?
 
 D Fhima, Gateshead, UK
-
 ```
 
 
@@ -18814,8 +18105,6 @@ Josephus (The Antiquities of the Jews 7:8), writing almost two millenia ago, tel
 I'm sorry there is some ambiguity because of the discrepancy in units and conversions, but I hope this helps you!
 Warmest regards,
 Yishai Rasowsky
-
-
 ```
 
 
@@ -18837,13 +18126,10 @@ HG Schild asks:
 
 
 ```
-
-
 Why the detour through Terumah and potted plants?
 What does this have to do with the main topic?
 
 hg
-
 ```
 
 
@@ -18866,7 +18152,6 @@ The example there in Sukkah is a discussion about Taharos, which Rashi says has 
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -18888,7 +18173,6 @@ Joshua Danziger asks:
 
 
 ```
-
 >>Hello kollel!
 
 My daughter had a question on the parsha.
@@ -18939,7 +18223,6 @@ Josh asks:
 Thank you Rav Yishai. According to the last answer is there room to say the flood didn’t go everywhere in the world, including places like North America or Australia? This resolves difficulties in reconciling geological and habitation records with the idea of a global flood; it introduces new difficulties I suppose about whether the aborigines for example are bnei noach or something else.
 
 Josh
-
 ```
 
 
@@ -18958,7 +18241,6 @@ Yes, there is. Rabbi Yitzchak Sheilat wrote a Sefer based on teachings of Rav Ge
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -18980,7 +18262,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 My daughter had a question on the parsha.
@@ -18991,7 +18272,6 @@ My daughter had a question on the parsha.
 Good questions from a six year old!
 
 Josh
-
 ```
 
 
@@ -19054,7 +18334,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 My daughter had a question on the parsha.
@@ -19065,7 +18344,6 @@ My daughter had a question on the parsha.
 Good questions from a six year old!
 
 Josh
-
 ```
 
 
@@ -19086,7 +18364,6 @@ Great to hear from you. I am also impressed by the questions from your daughter!
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -19108,7 +18385,6 @@ Davic1 asks:
 
 
 ```
-
 >>Greetings for the new year!. What is the reason the Torah does not list the signs of kosher birds the way it does for fish and land animals as found in the Talmud in Chulin 59? And why does it name birds if the naming is unnecessary? Actually the same question could be asked about land animals.Since the Torah states that only animals that chew cud and have split hooves are kosher, why mention the pig and camel etc. which we know are not kosher?
 Thanks,
 David Goldman<<
@@ -19142,8 +18418,7 @@ I guess from my personal perspective the reason therefore remains a mystery!
 Now there is also the question of why in Parshas Noach animals (7x7 and 2x2) are described as tameh and tahor without identifying what tameh means or tabor means! Especially since the halachos in this regard are only mentioned after Sefer Bereshis, unlike the case of the gid hanasheh. 
 And even if the Torah tells us that  before Noach only tahor animals could be used for korbanos, since before the Flood humans could not eat meat, so regarding food it was irrelevant whether an animal was tahor or tameh even for eating korbanos because they didn't eat korbanos. So why would the Torah tell us, except to inform LATER GENERATIONS which animals were preferential, 7x7, i.e. kosher animals for food.
 
-David Goldman 
-
+David Goldman
 ```
 
 
@@ -19189,13 +18464,11 @@ Yisrael Rutman asks:
 
 
 ```
-
 Shalom,
 I don't understand. It works fine for Adam HaRishon, but with billions of people now on the planet, how can each one say the world was created just for him/her? Please let me know if you have any marei mekomos.
 Thank you
 
 Yisrael Rutman, Pardes Chana, Israel
-
 ```
 
 
@@ -19240,7 +18513,6 @@ Benzi  asks:
 
 
 ```
-
 >>Rashi says in DH d'Urbenei k'Ein Klei Metzudos she'Tzadin Dagim Ketanim she'Osim B'Guma. what does rashi mean when he says she'Osim B'Guma?
 
 Benzi , London<<
@@ -19259,7 +18531,6 @@ Eliezer Chrysler<<
 Benzi asks:
 
 Thanks but how do you read it in rashi.
-
 ```
 
 
@@ -19279,7 +18550,6 @@ I think we would read the Rashi like this: "The bird hunters' shelters are made 
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -19301,7 +18571,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 A general question. What tribe does a convert belong to? I’d always assumed in the times
@@ -19313,7 +18582,6 @@ In general, what chelek in eretz yisrael would a convert have, and how would tha
 
 Thank you!
 Josh
-
 ```
 
 
@@ -19337,7 +18605,6 @@ I did not have the following on hand, but I see others cite the Midrash HaGadol 
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -19359,7 +18626,6 @@ Joshua Danziger asks:
 
 
 ```
-
 >>Hello kollel!
 
 My daughter had a question on the parsha.
@@ -19410,7 +18676,6 @@ Josh asks:
 Thank you Rav Yishai. According to the last answer is there room to say the flood didn’t go everywhere in the world, including places like North America or Australia? This resolves difficulties in reconciling geological and habitation records with the idea of a global flood; it introduces new difficulties I suppose about whether the aborigines for example are bnei noach or something else.
 
 Josh
-
 ```
 
 
@@ -19434,7 +18699,7 @@ ADDITION:
 As I suspect you might be aware of, there are differing views amongst the major commentaries on this issue. 
 For example, Ramban (Bereishis 8:11) writes that the Mabul was indeed over the whole world. And he cites the Pirkei d'Rebbi Eliezer (Chapter 23) which maintains that even according to the opinion that the flood waters didn't *rain* into Eretz Yisrael, still the water from Chutz l'Aretz did rush into Israel from the outside. 
 You'll note this a a bit different than the portrayal we found in Zevachim 113a-b of Rebbi Yochanan who believes that the land of Israel remained unflooded whatsoever, but there was lethal Hevel that suffused the land of Israel. 
-On the other hand, Tosfos (Zevachim 113a DH Lo Yarad) in his final Terutz notes that when the Torah describes the Mabul as covering all the tall mountains under the entire sky (see Bereishis 7:19). This, unlike Ramban, would be more consonant with an interpretation like that of Rav Nadel. 
+On the other hand, Tosfos (Zevachim 113a DH Lo Yarad) in his final Terutz notes that when the Torah describes the Mabul as covering all the tall mountains under the entire sky (see Bereishis 7:19). This, unlike Ramban, would be more consonant with an interpretation like that of Rav Nadel.
 ```
 
 
@@ -19455,8 +18720,6 @@ EZ Gross asked:
 
 
 ```
-
-
 Hi
 
 1. What's the Din of Eish b'Ru'ach Metzuyah that damaged a Nochri or the property of a Nochri.
@@ -19465,7 +18728,6 @@ Hi
 
 Thanks you so much for all your help
 Eli Gross
-
 ```
 
 
@@ -19493,8 +18755,6 @@ You asked about a Ruach Metzuyah. The Gemara (Bava Kama 60a) says that when a wi
 There are many more details here that we didn't even discuss. But for the time being, I hope this helps as a start!
 Warmest regards,
 Yishai Rasowsky
-
-
 ```
 
 
@@ -19515,8 +18775,6 @@ EZ Gross asked:
 
 
 ```
-
-
 Hi
 
 5. Is there any difference between a Nochri and a Ger Toshav when it comes to Nezikin or death?
@@ -19524,7 +18782,6 @@ including Tza'ar, Sheves, etc.?
 
 Thanks you so much for all your help
 Eli Gross
-
 ```
 
 
@@ -19566,8 +18823,6 @@ EZ Gross asked:
 
 
 ```
-
-
 Hi
 
 5. Is there any difference between a Nochri and a Ger Toshav when it comes to Nezikin or death?
@@ -19575,7 +18830,6 @@ including Tza'ar, Sheves, etc.?
 
 Thanks you so much for all your help
 Eli Gross
-
 ```
 
 
@@ -19616,11 +18870,9 @@ Nati Cohen asks:
 
 
 ```
-
 Is it possible to do teshuva for being chayav karet? If the normal steps of teshuva are implemented - would this be enough?
 
 Nati Cohen, United Kingdom
-
 ```
 
 
@@ -19666,7 +18918,6 @@ Joshua Danziger asks:
 
 
 ```
-
 >>Hello kollel!
 
 This is a general question.  Is there any inyan to mention a nearby body of water in addition to the city name when writing a ketuba? At a friend for shabbos lunch, I saw their ketuba which mentions they were married in the Italian town of strassa, on the shore of lake maggiore.
@@ -19691,7 +18942,6 @@ Yishai Rasowsky<<
 Josh asks:
 
 Thanks rav yishai. So in general is better lechatchila in ketubot to mention the nearby water? Or is it at all specific to lakes or small towns?
-
 ```
 
 
@@ -19710,7 +18960,6 @@ I want to clarify something. Originally, you asked -- if I understood you correc
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -19732,7 +18981,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 This is a general question.  Is there any inyan to mention a nearby body of water in addition to the city name when writing a ketuba? At a friend for shabbos lunch, I saw their ketuba which mentions they were married in the Italian town of strassa, on the shore of lake maggiore.
@@ -19742,7 +18990,6 @@ Is it a concept by gittin, since they’re generally stricter?
 
 Thank you!
 Josh
-
 ```
 
 
@@ -19785,7 +19032,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel! 
 
 My shiur today discussed when the ketubah is chal, and a comment from the haflaah discussing whether it may only become a chiyuv at the moment of death or divorce.
@@ -19795,7 +19041,6 @@ My question is bzman hazeh let’s say it’s the chassan tish. The witnesses sign a
 
 Thank you and shabbat shalom!
 Josh
-
 ```
 
 
@@ -19824,7 +19069,6 @@ There is a difference, though, between a contract for a loan and a contract for 
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -19846,7 +19090,6 @@ Joshua Danziger asks:
 
 
 ```
-
 >>Hello kollel! 
 
 My shiur today discussed when the ketubah is chal, and a comment from the haflaah discussing whether it may only become a chiyuv at the moment of death or divorce.
@@ -19871,7 +19114,6 @@ Joshua Danziger asks:
 Thanks rav yishai. The other thing is that the ketuba is actually signed by witnesses and the shtar in your example I assume is not signed bc the loan didn’t happen.
 
 In my case if somehow the woman was able to get hold of the ketuba she could probably come to beit din and try to collect under it, claiming to be divorced?
-
 ```
 
 
@@ -19893,7 +19135,6 @@ I appreciate your following up to clarify. I hope this helps.
 Happy Chanukah!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -19915,7 +19156,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel! 
 
 My shiur today discussed when the ketubah is chal, and a comment from the haflaah discussing whether it may only become a chiyuv at the moment of death or divorce.
@@ -19925,7 +19165,6 @@ My question is bzman hazeh let’s say it’s the chassan tish. The witnesses sign a
 
 Thank you and shabbat shalom!
 Josh
-
 ```
 
 
@@ -19945,7 +19184,6 @@ In that case, the Kesubah would not ever have become operative. The reason is be
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -19967,9 +19205,7 @@ simcha cohen asks:
 
 
 ```
-
 It says on 107b that the woman that claims she is divorced does not seem to give up entirely her mezones. Why isnt she mochel her mezones claim? isnt it like To'en Chitim u'Modeh Lo b'Se'orim?
-
 ```
 
 
@@ -20015,14 +19251,12 @@ Sheano Yodea Lshol asks:
 
 
 ```
-
 (1) What is the difference between a vow (or oath) and a contract?
 (2) If one fails to keep a vow (and has not been released from the vow) to one's fellow men, in order to receive forgiveness from HaShem, in addition to tefilah, teshuva, and tzidakah, is it necessary to do at least one of the following three items (1) keep the vow, or (2) make one's fellow man whole with respect to any loss they may have suffered due to our not keeping our vow or (3) seek release from the person whose interest was affected by the vow we did not keep?
 Thank you,
 Sheano Yodea Lshol.
 
 Sheano Yodea Lshol, Baltimore MD, USA
-
 ```
 
 
@@ -20050,7 +19284,6 @@ Allow me to elaborate that it is probably important to consider at least one oth
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -20072,14 +19305,12 @@ Sheano Yodea Lshol asks:
 
 
 ```
-
 (1) What is the difference between a vow (or oath) and a contract?
 (2) If one fails to keep a vow (and has not been released from the vow) to one's fellow men, in order to receive forgiveness from HaShem, in addition to tefilah, teshuva, and tzidakah, is it necessary to do at least one of the following three items (1) keep the vow, or (2) make one's fellow man whole with respect to any loss they may have suffered due to our not keeping our vow or (3) seek release from the person whose interest was affected by the vow we did not keep?
 Thank you,
 Sheano Yodea Lshol.
 
 Sheano Yodea Lshol, Baltimore MD, USA
-
 ```
 
 
@@ -20101,7 +19332,6 @@ Secondly, recall that in addition to the standard steps of Teshuvah -- which typ
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -20123,14 +19353,12 @@ Avrumi Hersh asks:
 
 
 ```
-
 31a top
 The gemoro says that the 1st 2 cases of the mishna (keeping shabbos and eating garlic, the ran explains on 30a bottom, that means eating garlic on Friday nights) both of these cases Jews and kutim are metzuvah veoseh, but goyim are osim without any tzivuy.
 
 Why would goyim eat garlic on Friday nights? I understand that goyim would take off weekends but why garlic?
 
 Avrumi Hersh, United Kingdom
-
 ```
 
 
@@ -20153,7 +19381,6 @@ Now, recall the Machlokess Tanaim regarding whether the conversion of the Kusim 
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -20175,11 +19402,9 @@ Daniel Gray asks:
 
 
 ```
-
 Why not use Hashem's bikur cholim to Avrohom as source?
 
 Daniel Gray, Toronto Canada
-
 ```
 
 
@@ -20222,7 +19447,6 @@ I hope this helps!
 May you continue to grow in Torah and Yiras Shamayim.
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -20244,7 +19468,6 @@ Menachem Weiman asks:
 
 
 ```
-
 >>What's the grammatical difference between the word "hanoder" that we have in mishnayos meseches nedarim, and the word "hamadir" that we have in mishnayos meseches kesuvos? The meforshim in meseches nedarim seem to be using them as synonymous.
 
 Menachem Weiman, St. Louis, USA<<
@@ -20267,7 +19490,6 @@ Thank you for your kind response. That was helpful. On a side note, my sources r
 
 Thanks,
 Menachem
-
 ```
 
 
@@ -20306,11 +19528,9 @@ Menachem Weiman asks:
 
 
 ```
-
 What's the grammatical difference between the word "hanoder" that we have in mishnayos meseches nedarim, and the word "hamadir" that we have in mishnayos meseches kesuvos? The meforshim in meseches nedarim seem to be using them as synonymous.
 
 Menachem Weiman, St. Louis, USA
-
 ```
 
 
@@ -20333,7 +19553,6 @@ Usually, the terms are distuinguished as follows. But you may find some commenta
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -20355,11 +19574,9 @@ Shmuel Jacobs asks:
 
 
 ```
-
 On 3b we learn the account of an Aramaean who pretended to be a Jew and ate from the Korban Pesach. When he was discovered he was executed. Why was execution the correct punishment? Kol Tov, Shmuel Jacobs
 
 Shmuel Jacobs, Israel
-
 ```
 
 
@@ -20387,7 +19604,7 @@ ADDITION:
 I wanted to share a couple of additional points with you:
 A) Some Mefarshim take a totally different approach and maintain that the prohibition for which the gentile was liable the death penalty was that of entering the Azarah. See the comment of the Netziv in his Meromei Sadeh (DH Badku). This could be a problem because of the gentile's bodily Tumah, and/or because there was a law of the king (Hordos for example) that forbade a gentile from entering too far into the central areas Har Habayis.
 B) Some suggest that the gentile was guilty of "stealing" from the Jewish members of the Chaburah with whom he ate. See Rav Elchonon Wasserman in his Kovetz Shiurim (#6). Other point out that this Terutz will not necessarily hold up if we assume the goy *paid* fair and square for his portion. This is because there are Rishonim who maintain that by paying for an item that actually takes away the Isur Gezel (see Tosfos in Bava Kama 62a Chamsan and in Sanhedrin 25b DH m'Ikara). But others argue, and hold that there is still an Isur Gezel even if the "thief" pays (view of the Ri Migash). It may be that only according to the latter view would the Cheshbon of the Netziv remain solid. See Rav Shmuel Rozovsky in Chidushei R' Shmuel (#30).
-C) As I alluded to in the previous message, not all Rishonim agree to the premise that a gentile himself is violating the law of "Toshav v'Sachir Lo Yochal Bo" when he eats from a Korban Pesach. According to some, it is only the Jew who is violating that Mitzvah. In that case it would be debatable whether the Jewish people could take the life of a gentile, in order to facilitate the Jews' observance of the this law. 
+C) As I alluded to in the previous message, not all Rishonim agree to the premise that a gentile himself is violating the law of "Toshav v'Sachir Lo Yochal Bo" when he eats from a Korban Pesach. According to some, it is only the Jew who is violating that Mitzvah. In that case it would be debatable whether the Jewish people could take the life of a gentile, in order to facilitate the Jews' observance of the this law.
 ```
 
 
@@ -20409,11 +19626,9 @@ Shmuel Jacobs asks:
 
 
 ```
-
 On 3b we learn the account of an Aramaean who pretended to be a Jew and ate from the Korban Pesach. When he was discovered he was executed. Why was execution the correct punishment? Kol Tov, Shmuel Jacobs
 
 Shmuel Jacobs, Israel
-
 ```
 
 
@@ -20436,7 +19651,6 @@ You are asking an excellent question. I see the Minchas Chinuch (M.C.) offers a 
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -20458,11 +19672,9 @@ Avraham Sacks asks:
 
 
 ```
-
 Why would the Kohen Gadol need a reminder from the linen sheet that the avodah of the day is with linen clothing? Is there a deeper meaning?   
 
 Avraham Sacks, Ramat Beit Shemesh
-
 ```
 
 
@@ -20521,7 +19733,6 @@ Chaim Chesler asks:
 
 
 ```
-
 I am familiar in Bava Basra 31a where the case of two men inheriting the same land from their fathers is addressed. 
 
 Now we know that Beis Din has the duty to argue all possible claims for the litigants (as compared with secular court judges). An example of this is in the Tallis case on Bava Metzia 2, Beis Din seems to deduce that they grabbed it at the same time, despite that not being their claims, and they construct an oath consistent with their claims in accordance with that deduction.
@@ -20532,7 +19743,6 @@ After all, what ends up being the relevance of each man claiming the plural form
 
 Thank you for your attention,
 Chaim Chessler
-
 ```
 
 
@@ -20574,7 +19784,6 @@ Eric Metchik asks:
 
 
 ```
-
 >>A question has come up in connection with my chavrusa on Chumash Bereshis and I am hoping you can help us. We were learning the pasuk 1:29 in which Rashi explains that Hashem made man and animals equivalent in that they were not given permission (before the time of Noach) to eat animals, but rather were allowed to eat every green herb together. The Ramban on this posuk seems to disagree with Rashi in terms of the types of allowed vegetable matter for animals and humans. He writes that Hashem gave to Adam and Chava all the grasses that give seeds and all the fruit of the trees. To the animals and the birds, He gave every green herb but not the fruit of the trees and not the seeds. 
 
 Essentially, our question is : why does the Ramban disagree with the Rashi about the interpretation of this posuk, and what is (are) the reason(s) that the Ramban makes a differentiation between man and animals in terms of the types of vegetable matter that they were allowed to eat?
@@ -20618,7 +19827,6 @@ Another question came up in connection with verse 8 in Chpt. 2. The Rashi mentio
 Thank you again for all your help and ideas.
 
 Kol tov,
-
 ```
 
 
@@ -20661,7 +19869,6 @@ Eric Metchik asks:
 
 
 ```
-
 >>A question has come up in connection with my chavrusa on Chumash Bereshis and I am hoping you can help us. We were learning the pasuk 1:29 in which Rashi explains that Hashem made man and animals equivalent in that they were not given permission (before the time of Noach) to eat animals, but rather were allowed to eat every green herb together. The Ramban on this posuk seems to disagree with Rashi in terms of the types of allowed vegetable matter for animals and humans. He writes that Hashem gave to Adam and Chava all the grasses that give seeds and all the fruit of the trees. To the animals and the birds, He gave every green herb but not the fruit of the trees and not the seeds. 
 
 Essentially, our question is : why does the Ramban disagree with the Rashi about the interpretation of this posuk, and what is (are) the reason(s) that the Ramban makes a differentiation between man and animals in terms of the types of vegetable matter that they were allowed to eat?
@@ -20705,7 +19912,6 @@ Another question came up in connection with verse 8 in Chpt. 2. The Rashi mentio
 Thank you again for all your help and ideas.
 
 Kol tov,
-
 ```
 
 
@@ -20748,7 +19954,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 I learned something that struck me as strange. The mishna says a live animal can function as a golel, blocking the entrance to a burial cave. And if it does so, it becomes tamei.
@@ -20760,7 +19965,6 @@ How come we don’t have a chashash for korbanot that maybe the animal was once a 
 
 Thank you!
 Josh
-
 ```
 
 
@@ -20781,7 +19985,6 @@ Also, contrary to what one might be tempted to think based on this Gemara alone,
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -20803,7 +20006,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 The mishna discusses residents of a courtyard and the specific process when some don’t join the eruv and how the situation can be remedied.
@@ -20814,7 +20016,6 @@ From the reshus of the non Jewish authorities).
 Thank you!
 
 Josh
-
 ```
 
 
@@ -20859,12 +20060,10 @@ Yehuda asks:
 
 
 ```
-
 In the Mishnah on daf 20b, it says for the entire day you can fulfill the Mitzvah of blowing the shofar and taking the lulav. However, in the Gemara, when it brings proofs that these are day Mitzvos, it switches the order of the Mishnah to lulav THEN shofar, rather than shofar then lulav.
 What is the reason the order is switched in the Gemara?
 
 Yehuda, United States
-
 ```
 
 
@@ -20890,7 +20089,6 @@ Just to add another dimension to the discussion of the fascinating point you rai
 I wish that I had a more definitive answer for you, and if I do find one, Bli Neder I will try to share it; but for the time being, I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -20912,14 +20110,12 @@ Avrumi Hersh  asks:
 
 
 ```
-
 9b last line
 The gemoro says that reb yochonon says, that chikiya should agree, that the chiddush of the mishna which says that "harey olay mincha from seorim" is not excluding adoshim, cos the chiddush by seorim is even bigger. The chiddush is that perhaps it's not a chazorah of his words "mincha" instead he means to say that originally he only agreed to a minchas nedovo of seorim and if that's not possible then he won't give anything. Km"l.
 
 But why is that a chiddush, surely according to beis shammai the rule of hekdesh tous is, that you are chayav to do anything you say, even if you expressedly made a tnay, e.g. seorim or nothing. Just like beis shammai says if you made a tnay of a certain animal that comes out my house 1st and a totally different animal emerges, this is still hekdesh tous and it still works.  So acc. To chizkiya in beis shammai this is no extra chiddush at all. This is the same rules?
 
 Avrumi Hersh , London england
-
 ```
 
 
@@ -20962,11 +20158,9 @@ Yisrael Rutman asks:
 
 
 ```
-
 Rashi to Bereishis 18:4 says that the malach prophesied on Pesach that the birth of Yitzchak would be the next Pesach. Yet, our Gemora says the malach spoke on Sukkos! I've been looking around but haven't found my question. What am I missing here?
 
 Yisrael Rutman, Pardes Chana, Israel
-
 ```
 
 
@@ -20985,7 +20179,6 @@ Great to hear from you.
 Yes, Baruch Shekivanta. The opinion which says that it was on Pesach that the visiting Malachim foretold Yitzchak's birth indeed disagrees with our Gemara. Please see Tosfos on this Daf, DH Ela about halfway through, where he quotes the Seder Olam and Mechilta. See also the Maharsha on that portion of the Tosfos. In addition, there is a Rashba which is also on DH Ela. I hope this helps to clarify that you are in good company with these illustrious commentaries!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21007,12 +20200,10 @@ D Fhima asks:
 
 
 ```
-
 His hair weighed 200 Shekalim, weighed with the Royal Shekalim, heavier than usual.
 any idea what this translates to in the metric system?
 
 D Fhima, Gateshead, UK
-
 ```
 
 
@@ -21110,11 +20301,9 @@ Martin Feldman asks:
 
 
 ```
-
 Rashi on Avodah Zarah 10A seems to indicate that Paul, John, and Peter purposefully introduced the New Testament as a deception to lead corrupt priests away from the nation of Israel and separate them for the good of Clal Yisrael. Is this true? I have been taught that the New Testament was compiled by the church and not by Jews.
 
 Martin Feldman, Jerusalem, Israel
-
 ```
 
 
@@ -21165,7 +20354,6 @@ Eric Metchik asks:
 
 
 ```
-
 A question has come up in connection with my chavrusa on Chumash Bereshis and I am hoping you can help us. We were learning the pasuk 1:29 in which Rashi explains that Hashem made man and animals equivalent in that they were not given permission (before the time of Noach) to eat animals, but rather were allowed to eat every green herb together. The Ramban on this posuk seems to disagree with Rashi in terms of the types of allowed vegetable matter for animals and humans. He writes that Hashem gave to Adam and Chava all the grasses that give seeds and all the fruit of the trees. To the animals and the birds, He gave every green herb but not the fruit of the trees and not the seeds. 
 
 Essentially, our question is : why does the Ramban disagree with the Rashi about the interpretation of this posuk, and what is (are) the reason(s) that the Ramban makes a differentiation between man and animals in terms of the types of vegetable matter that they were allowed to eat?
@@ -21183,7 +20371,6 @@ Department of Criminal Justice
 Salem State University
 352 Lafayette St.
 Salem, MA  01970
-
 ```
 
 
@@ -21211,7 +20398,6 @@ I do see, however, that the Seforno also learns like Ramban, not like Rashi. And
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21233,7 +20419,6 @@ Joshua Danziger asks:
 
 
 ```
-
 >>Hello kollel, I was learning kesubos 63 and had a few questions
 
 1) the gemara says Ben azai was r akiva son in law. But wasn’t Ben azai famously not married?
@@ -21274,7 +20459,6 @@ Josh Danziger asks:
 Rav yishai coming back to the very last point…is this why modern Hebrew speakers refer to tallitot even thought most people from an ashkenaz background refer to “talleisim”?
 
 Thank you!
-
 ```
 
 
@@ -21318,7 +20502,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel and Chag sameach,
 
 The mishna discusses a man dividing his estate between three wives. The presumption is they all married the same day.
@@ -21330,7 +20513,6 @@ Two questions
 Thank you.
 
 Josh
-
 ```
 
 
@@ -21358,7 +20540,6 @@ I hope this helps!
 Chanukah Sameach!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21380,7 +20561,6 @@ Joshua Danziger asks:
 
 
 ```
-
 >>Hello kollel!
 
 The first tosafos in makkot discusses how we can accept the testimony in the initial four cases since it seems to be testimony not subject to hazama.
@@ -21401,7 +20581,6 @@ Yishai Rasowsky<<
 Josh asks:
 
 Thanks rav yishai. It wasn’t clear to me that the rambam meant that hazamah wasn’t relevant only by loans; from the language in mishneh torah it seemed he didn’t require it for any monetary issues.
-
 ```
 
 
@@ -21422,7 +20601,6 @@ By the way, another important source -- in addition to the Rambam you found -- t
 I hope this is what you were looking for!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21444,7 +20622,6 @@ robert daykin asks:
 
 
 ```
-
 Hello kollel!
 
 The first tosafos in makkot discusses how we can accept the testimony in the initial four cases since it seems to be testimony not subject to hazama.
@@ -21453,7 +20630,6 @@ My question is, in hilchos malveh vloveh 17:9 the rambam says that needing to be
 
 Thank you!
 Josh
-
 ```
 
 
@@ -21473,7 +20649,6 @@ In the Rambam that you quoted, he writes that the reason we do not require that 
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21495,11 +20670,9 @@ Nati raymond asks:
 
 
 ```
-
 On the bottom toisfos of the first amud - why must we be talking about the abouve the normal decline. Surely the sell to cohanim logic is still there by normal decline?
 
 Nati raymond, United Kingdom
-
 ```
 
 
@@ -21525,7 +20698,6 @@ When, however, the extent of decay is *normal*, both opinions agree that the cus
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21547,11 +20719,9 @@ H David Levine asks:
 
 
 ```
-
 Rabbi Elefant, the COO of OU Kosher, speaks about this daf in his shiur, https://alldaf.org/p/139328, and brings in the name of, 'mefarshim,' that tefilah b'tzibur is a segula to avoiding poverty as the commutation of a sentence of mes.  Perhaps childlessness is to someone a greater ill, or one should wish to avoid both.  What segula is there to answer perhaps for all sides?
 
 H David Levine, Roanoke, VA  USA
-
 ```
 
 
@@ -21581,7 +20751,6 @@ I hear you are asking for Segulos that will help overcome not just poverty but c
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21603,11 +20772,9 @@ TB asks:
 
 
 ```
-
 The Gemoro says v'Tzarich she'Yazkir Yetzias Mitzrayim b'Kidush ha'Yom. But we only say Zechre l'Yetzias Mitzrayim in Kiddush by night, not by day (which is just pesukim and hagofen)?
 
 TB, UK
-
 ```
 
 
@@ -21629,7 +20796,6 @@ The Gemara you cited calls it "Yom", even though it is in fact referring to what
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21651,14 +20817,12 @@ Avraham Sacks asks:
 
 
 ```
-
 Shalom,
 The Braisa says that the korban stands in the north with its face toward the west.  Rashi writes: with its back to the east.  How can the animal be positioned with its back to the east after the Gemarra already mentioned the bull needed to be positioned north to south and not west to east because there is a decree lest the animal defecate opposite the mizbeiach? 
 Thank you for your help,
 Avraham Sacks
 
 Avraham Sacks, Ramat Beit Shemesh
-
 ```
 
 
@@ -21704,14 +20868,12 @@ Avraham Sacks asks:
 
 
 ```
-
 Shalom,
 The Braisa says that the korban stands in the north with its face toward the west.  Rashi writes: with its back to the east.  How can the animal be positioned with its back to the east after the Gemarra already mentioned the bull needed to be positioned north to south and not west to east because there is a decree lest the animal defecate opposite the mizbeiach? 
 Thank you for your help,
 Avraham Sacks
 
 Avraham Sacks, Ramat Beit Shemesh
-
 ```
 
 
@@ -21731,7 +20893,6 @@ You are making an excellent point. The Meiri also indicates that the hind quarte
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21753,11 +20914,9 @@ Avraham Sacks asks:
 
 
 ```
-
 How do we learn out that a person can not touch what is set aside for his fellow from the incidents of Beis Garmu and Beis Avtinas?  They did not reveal their secrets to the Chachamim, so it seems the Chachamim were compelled to reinstate them. 
 Thank you for your help,
 Avraham Sacks
-
 ```
 
 
@@ -21778,7 +20937,6 @@ In the case of Beis Garmu and Beis Avtinas, they might have been tempted to worr
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21800,12 +20958,10 @@ Avraham Sacks asks:
 
 
 ```
-
 It is written in Rashi Hu Yalitz Lo Yimnauhu v'Lo Ya'azruhu
 Reish Lakish said Ba l'Tamei Poschin Lo. Since an opening is made for him it seems he is helped.  What does Rashi mean by "v'Lo Ya'azruhu"
 
 Avraham Sacks, Ramat Beit Shemesh
-
 ```
 
 
@@ -21826,7 +20982,6 @@ Just to be aware, other commentaries maintain that Haba Litamei Poschin Lo actua
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -21848,11 +21003,9 @@ Davic1 asks:
 
 
 ```
-
 Greetings for the new year!. What is the reason the Torah does not list the signs of kosher birds the way it does for fish and land animals as found in the Talmud in Chulin 59? And why does it name birds if the naming is unnecessary? Actually the same question could be asked about land animals.Since the Torah states that only animals that chew cud and have split hooves are kosher, why mention the pig and camel etc. which we know are not kosher?
 Thanks,
-David Goldman 
-
+David Goldman
 ```
 
 
@@ -21898,7 +21051,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel, I was learning kesubos 63 and had a few questions
 
 1) the gemara says Ben azai was r akiva son in law. But wasn’t Ben azai famously not married?
@@ -21907,7 +21059,6 @@ Hello kollel, I was learning kesubos 63 and had a few questions
 
 Thank you!
 Josh
-
 ```
 
 
@@ -21952,14 +21103,12 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel and Shana tova!
 
 Maybe a simple question. If a husband rebels, we increase the kesuba he owes his wife. But since he has to give the get willingly in order to trigger the kesuba payment, isn’t this a penalty he may never actually have to pay? 
 
 Thank you!
 Josh
-
 ```
 
 
@@ -21982,7 +21131,6 @@ Other interesting places to look would be on Daf 77a where Chazal discuss the ci
 I hope this helps!
 Gemar Chasimah Tovah,
 Yishai Rasowsky
-
 ```
 
 
@@ -22004,7 +21152,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel!
 
 Gmar chasima tova!
@@ -22015,7 +21162,6 @@ Does that mean according to shmuel that if someone has a debt they could work on
 
 Thank you!
 Josh
-
 ```
 
 
@@ -22037,7 +21183,6 @@ But in the case which the Ritva and you raised, where a person works on Shabbos 
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -22059,11 +21204,9 @@ Avrumi hersh asks:
 
 
 ```
-
 question on gemoro 96a, we say that the almonoh is required to do all the melochos for the yesomim the same way she had to do for her husband, besides for mezogas hakos and hatzoas hamittah, which Rashi explains is innapropriate to do for the yorshim. What if the yorshim were her own sons, in that case would she be chayav to do these melochos also?
 
 Avrumi hersh, London england
-
 ```
 
 
@@ -22112,13 +21255,11 @@ Zeev Rosenbaum asks:
 
 
 ```
-
 Why are two different terms used to describe the Azarah? First it is referred to as Lifnim min ha'Kela'im (when describing where Kodshei Kodshm are eaten) and later as b'Chol Makom ba'Azarah (when describing where Kodshim Kalim are slaughtered?
 
 Yasher Koach, Zeev Dov Rosenbaum
 
-Zeev Rosenbaum, Jerusalem, Israel 
-
+Zeev Rosenbaum, Jerusalem, Israel
 ```
 
 
@@ -22144,7 +21285,6 @@ His other explanation is because the Tana, in this Perek particularly, which con
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 
@@ -22166,7 +21306,6 @@ Davic1 asks:
 
 
 ```
-
 >>Greetings. It just occurred to me that I don’t understand why the sounds of the shofar should be compared specifically to sounds of wailing and groaning. This would contradict the very spirit of Rosh Hashanah as a YOMTOV in which sadness is prohibited. Indeed, the teachings from the braises in Rosh Hashanah as related to “Yom Hadin” and other features of the liturgy also contradict or at least create an ambivalence for a day that is specified as a YOMTOV in the Torah.
 
 In any event, why couldn’t the sounds be compared preferably to sounds of alert, notification, reporting, etc. instead of anything alluding to sadness??!!
@@ -22192,7 +21331,6 @@ I am not sure it should be described as duality, because neither the Torah nor t
 Does such a meaning get “translated” into an understand of TERUAH as found in other places in the Torah, such as Bamidbar 10:5-9? OR in Yehoshua 6:5? And does the Aramaic targum prevail against a simple meaning in lashon kodesh itself?
 
 DG
-
 ```
 
 
@@ -22233,7 +21371,6 @@ Joshua Danziger asks:
 
 
 ```
-
 Hello kollel and Chag sameach!
 
 I was at a sukkah meal and two questions came up. One was why the bracha is Al netilat lullav and not al netilat arbah minim. I see this was answered jn one of the replies on the site; the answer is the bracha would be too general. But donï¿½t we have lots of general brachot? ï¿½Bore pri haetzï¿½ ha-adama, and of course shehakol are all very general. Is there any other approach?
@@ -22243,7 +21380,6 @@ And secondly, why is the shecheyanu reversed the 2nd night in chutz? If we are t
 Thank you!
 
 Josh
-
 ```
 
 
@@ -22276,7 +21412,6 @@ f. Mefarshim also point out that this view of the Rosh only bears relevance when
 I hope this helps!
 Warmest regards,
 Yishai Rasowsky
-
 ```
 
 

@@ -42,13 +42,20 @@ for file in files:
             my_reply = text[reply_start:].lstrip()
             my_reply = my_reply.replace("\n", "\n\n")
             my_reply = my_reply.replace("\n\n", "\n")
-            reply = '\n\n---\n## ' + text[second_line:email_start - 1] + text[email_finish + 1:asker_finish + 1] + '\n\n\n\n\n```\n' + text[asker_finish:question_finish] + '\n```\n\n' + '\n\n\n\nThe Kollel replies:\n\n\n\n' + '\n\n```\n' + my_reply + '\n```\n\n\n\n\n\n\n\n'
+            reply = '\n\n---\n## ' + text[second_line:email_start - 1] + text[email_finish + 1:asker_finish + 1] + '\n\n\n\n\n```\n' + text[asker_finish:question_finish].strip() + '\n```\n\n' + '\n\n\n\nThe Kollel replies:\n\n\n\n' + '\n\n```\n' + my_reply.strip() + '\n```\n\n\n\n\n\n\n\n'
             replies.append(reply)
     except Exception as e:
         print(e)
         continue            
     
 with open("README.md", "w") as f:
+    f.write("""Selected queries and replies from 
+THE DAFYOMI DISCUSSION LIST
+brought to you by Kollel Iyun Hadaf of Yerushalayim
+Rosh Kollel: Rabbi Mordecai Kornfeld
+daf@dafyomi.co.il""")
+
+
     for reply in replies[:]:
         f.write(reply)
         # html_text = markdown.markdown(reply)
