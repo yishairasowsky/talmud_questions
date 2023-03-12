@@ -1,8 +1,12 @@
-Selected queries and replies from 
-THE DAFYOMI DISCUSSION LIST
+<div style="text-align:center">Selected queries and replies from 
+
+## THE DAFYOMI DISCUSSION LIST
+
 brought to you by Kollel Iyun Hadaf of Yerushalayim
+
 Rosh Kollel: Rabbi Mordecai Kornfeld
-daf@dafyomi.co.il
+
+daf@dafyomi.co.il</div>
 
 ---
 ## Beitzah 028: Ein Mashgichin v'Chaf Moznayim

@@ -36,14 +36,21 @@ for file in files:
     except Exception as e:
         print(e)
         continue            
-    
-with open("README.md", "w") as f:
-    f.write("""Selected queries and replies from 
-THE DAFYOMI DISCUSSION LIST
-brought to you by Kollel Iyun Hadaf of Yerushalayim
-Rosh Kollel: Rabbi Mordecai Kornfeld
-daf@dafyomi.co.il""")
 
+header_text = """Selected queries and replies from 
+
+## THE DAFYOMI DISCUSSION LIST
+
+brought to you by Kollel Iyun Hadaf of Yerushalayim
+
+Rosh Kollel: Rabbi Mordecai Kornfeld
+
+daf@dafyomi.co.il"""
+
+header_centered = f'<div style="text-align:center">{header_text}</div>'
+
+with open("README.md", "w") as f:
+    f.write(header_centered)
 
     for reply in replies[:]:
         f.write(reply)
