@@ -1,7 +1,7 @@
-import markdown
 import os
 root = os.getcwd()
-root = os.path.join(root, 'replies')
+# root = os.path.join(root, 'replies')
+root = os.path.join(root, 'private-do-not-open','replies')
 subfolders = [ f.path for f in os.scandir(root) if f.is_dir() ]
 files = []
 for subfolder in subfolders:
@@ -10,18 +10,7 @@ for subfolder in subfolders:
     # print(subfolder)
     subfiles = [f.path for f in os.scandir(subfolder)]
     files += subfiles
-my_file = files[0]
-with open(my_file) as f: # Use file to refer to the file object
-    text = f.read()
-    text_anon = ''
-    record = True
-    for char in text:
-        if char == '<':
-            record = False
-        if record:
-            text_anon += char
-        if char == '>':
-            record = True
+
 replies = []
 
 for file in files:
