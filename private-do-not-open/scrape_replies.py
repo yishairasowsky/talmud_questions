@@ -1,4 +1,9 @@
+# from md2pdf.core import md2pdf
+# import markdown
 import os
+
+md_file = 'README.md'
+
 root = os.getcwd()
 # root = os.path.join(root, 'replies')
 root = os.path.join(root, 'private-do-not-open','replies')
@@ -41,6 +46,8 @@ header_text = """Selected queries and replies from
 
 ## THE DAFYOMI DISCUSSION LIST
 
+https://www.dafyomi.co.il/askollel.htm
+
 brought to you by Kollel Iyun Hadaf of Yerushalayim
 
 Rosh Kollel: Rabbi Mordecai Kornfeld
@@ -49,10 +56,24 @@ daf@dafyomi.co.il"""
 
 header_centered = f'<div style="text-align:center">{header_text}</div>'
 
-with open("README.md", "w") as f:
+with open(md_file, "w") as f:
     f.write(header_centered)
 
     for reply in replies[:]:
         f.write(reply)
         # html_text = markdown.markdown(reply)
         # f.write(html_text)
+
+with open(md_file, 'r') as input_file:
+    text = input_file.read()
+    # html = markdown.markdown(text)
+
+# with open('QandA.html', 'w') as output_file:
+#     output_file.write(html)
+
+    
+# md2pdf('out.pdf',
+#        md_content=None,
+#        md_file_path=md_file,
+#        css_file_path=None,
+#        base_url=None)
