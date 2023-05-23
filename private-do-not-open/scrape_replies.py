@@ -1,8 +1,9 @@
 # from md2pdf.core import md2pdf
 # import markdown
 import os
+import re
 
-md_file = 'README.md'
+md_file = 'Lamdeni Chukecha.md'
 
 root = os.getcwd()
 # root = os.path.join(root, 'replies')
@@ -36,44 +37,32 @@ for file in files:
             my_reply = text[reply_start:].lstrip()
             my_reply = my_reply.replace("\n", "\n\n")
             my_reply = my_reply.replace("\n\n", "\n")
-            reply = '\n\n---\n## ' + text[second_line:email_start - 1] + text[email_finish + 1:asker_finish + 1] + '\n\n\n\n\n```\n' + text[asker_finish:question_finish].strip() + '\n```\n\n' + '\n\n\n\nThe Kollel replies:\n\n\n\n' + '\n\n```\n' + my_reply.strip() + '\n```\n\n\n\n\n\n\n\n'
+            reply = '\n\n---\n## ' + text[second_line:email_start - 1] + text[email_finish + 1:asker_finish + 1] + '\n\n\n\n\n\n' + text[asker_finish:question_finish].strip() + '\n\n\n' + '\n\n\n\nThe Kollel replies:\n\n\n\n' + '\n\n\n' + my_reply.strip() + '\n\n\n\n\n\n\n\n\n'
+            reply = re.sub(r'%[0-9A-Fa-f]{2}', '', reply)  
+            reply = reply.replace("<<", "")
+            reply = reply.replace("\n---", "\n\n\n---")
+            reply = reply.replace(">>", "")
+            reply = reply.replace("\n", "\n\n")
             replies.append(reply)
     except Exception as e:
         print(e)
         continue            
 
-header_text = """Selected queries and replies from 
-
-## THE DAFYOMI DISCUSSION LIST
-
+header_text = """LAMDEINI CHUKECHA
+Selected queries and replies from
+THE DAFYOMI DISCUSSION LIST
 https://www.dafyomi.co.il/askollel.htm
-
 brought to you by Kollel Iyun Hadaf of Yerushalayim
-
 Rosh Kollel: Rabbi Mordecai Kornfeld
-
 daf@dafyomi.co.il"""
 
-header_centered = f'<div style="text-align:center">{header_text}</div>'
+header_centered = '\n\n'.join([f'<div style="text-align:center">{header_text_portion}</div>' for header_text_portion in header_text.split('\n')])
 
 with open(md_file, "w") as f:
     f.write(header_centered)
 
     for reply in replies[:]:
         f.write(reply)
-        # html_text = markdown.markdown(reply)
-        # f.write(html_text)
 
 with open(md_file, 'r') as input_file:
     text = input_file.read()
-    # html = markdown.markdown(text)
-
-# with open('QandA.html', 'w') as output_file:
-#     output_file.write(html)
-
-    
-# md2pdf('out.pdf',
-#        md_content=None,
-#        md_file_path=md_file,
-#        css_file_path=None,
-#        base_url=None)

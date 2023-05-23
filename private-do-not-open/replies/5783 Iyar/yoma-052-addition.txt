@@ -1,0 +1,42 @@
+(Please include header and footer when redistributing this material.)
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Yoma 052: Amah Teraksin
+
+Avraham Sacks <asrbs13@gmail.com> asks:
+
+R’ Nassan brought a passuk from Malachim 6:2 where it is written the length of the Heichal and Kodesh Hakadashim were 60 amos. R’ Nassan said perhaps the 60 amah length in the passuk is only including open space and not the amah taraksin.
+R’ Nassan supports this by bringing mishah 4:7 in Middos. The the length calculates to 61 amahs in the mishnah because it included the amah taraksin space separately.  How is mishah 4:7 in Middos a support for R’ Nassan since the mishnah is describing the second Beis Hamikdash and the passuk from Malachim 6:2 is describing the first Beis Hamikdash?  It seems the amah taraksin of the first Beis Hamikdash could conceivably have been part of either the Heichal or the Kodesh Hakadashim and the overall length was indeed 60 amahs, but the overall length in the second Beis Hamikdash was 61 amahs because the Chachamim were in doubt whether the amah taraksin was part of the Heichal or the Kodesh Hakadashim
+Thank you for your help
+
+Avraham Sacks, Ramat Beit Shemesh
+------------------------------------------------------------
+The Kollel replies:
+Shalom R' Avraham,
+Great to hear from you. I love your initiative in analyzing this Gemara. I also feel that parts of this Sugya are difficult to understand. I'll be happy to share my comments, and will be glad if it helps clarify a few points for us together.
+Rebbi Nasan reports that the Chachamim were unsure whether the Amah Teraksin of the Bayis Rishon was part of the Heichal or part of the Kodesh ha'Kodashim. 
+Ravina suggested the potential proof from verses in Melachim (60=40+20). He then dismissed this by suggesting that the 60 Amos include only the open space, but not the solid walls. Support for this is cited based on a Mishnah in Midos (4:7) which counts the wall space and air space separately. 
+If I can paraphse your main question, it was: "How is the Mishnah a proof to Ravina, if the Mishnah is discussing the Bayis Sheini whereas the Melachim is discussing the Bayis Rishon? Couldn't it be that the Bayis Rishon had the Amah Teraksin in either the Heichal or Kodesh, whereas the Chachamim in Bayis Sheini were in doubt so they excluded it from both.
+I appreciate hearing this thoughtful and challenging inquiry! Potentially it can be argued that making a separate and excluded space for the Amah Teraskin wouldn't necessary accomplish much, even if the Chachamim were in doubt, since now it for sure will have been placed in the wrong position, i.e. not part of either the Heichal nor the Kodesh ha'Kodashim. This is unlike the resolution regarding the curtains (near end of 52a), since there we are able to cover both options.
+I hope this helps!
+Warmest regards,
+Yishai Rasowsky
+
+--------------------------------------------
+ADDITION:
+Shalom R' Avraham,
+It occurs to me now that a more straightforward and defensible response to your excellent question might be implicit from a comment of the Tosfos Yeshanim (Yoma 51b DH Avod Shtei Parochos). He explains that in the Bayis Sheini the reason they could not change the length of the Kodesh and Kodesh ha'Kodashim was because the dimensions were ordained by written divine command (see Divrei ha'Yamim I:28:19). 
+I'm not sure if this precedent is conclusive (see my reservation below), but I believe that this also may be the reason why we cannot maintain the position that in the Bayis Rishon the was Amah Teraksin was *not* counted separately while in the Bayis Sheini the Amah between the Parochos *was* counted separately. 
+My reservation is just that maybe there was a stronger Hakpadah on the dimensions of each compartment (20 and 40), and there was a more relaxed requirement about how far away they were spaced from each other (totally adjacent or separated by one Amah).
+I hope this helps clarify a drop more!
+Shavua Tov!
+Yishai Rasowsky
