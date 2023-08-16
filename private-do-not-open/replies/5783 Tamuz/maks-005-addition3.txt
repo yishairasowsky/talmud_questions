@@ -1,0 +1,50 @@
+(Please include header and footer when redistributing this material.)
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Makos 005: Shem Eidim Zomemim
+
+Joshua Danziger <jrdanziger@gmail.com> asks:
+
+Hello kollel!
+
+The Gemara discusses a case of eidim zomemim who testify on someone who had gmar din and it seems they aren’t punished.
+
+My question is this. A shiur I listened to brought the brisker ravs approach that there is a status of eidim zomemim which one receives if they conspire. This relates to ideas of when they’re mafreah. I’d think in this case even though there’s gmar din, the witnesses should have “shem eidim zomemim” and even if not punished they’d have their prior testimonies invalidated etc.
+
+Appreciate your clarification!
+
+Josh
+---------------------
+The Kollel replies:
+
+Shalom R' Danziger,
+Great to hear from you.
+I didn't immediately locate where the statement of the Brisker Rav is found. If you would like to share a link to a recording of the Shiur you heard, I would be happy to listen to it. I believe your point is logical and correct: Even though in a particular scenario the Edim will not receive the punishment "Kaasher Zamam," nevertheless their testimonies will be Pasul since ultimately they were undermined by the latter witnesses. (As you might know, Abaye and Rava in Sanhedrin 27a dispute whether this Pesul applies only to their testimonies which were made after their being undermined, or to all testimonies subsequent to their false Edus.)
+Warmest regards,
+Yishai Rasowsky
+-----------------------------
+ADDITION:
+Shalom! I see in the Otzar Mefarshei ha'Talmud (Makos Daf 5, footnote 100) a couple of comments relevant to our discussion. 
+First, the view of Rav Moshe Rozin in Nezer ha'Kodesh who himself remained in doubt regarding whether the first set of Edim actually become Pasul vis-a-vis their other testimonies. This is a Chidush in my eyes, because straight logic would seem to imply that there is no reason to validate the first set in our case any more than regular Edim Zomemim, regardless of the technicality whether they receive a punishment of Kaasher Zamam. 
+They cite the view of the Meiri on our Sugya also. He maintains that the first and second set of witnesses are treated as Muchsheshes against one another. This means that although we know one set is lying, and therefore we must treat them with suspicion. However, we do not invalidate either set individually; we only do so if they join together, since then it would be certain that someone within the combined group is a liar. 
+Warmest regards,
+Yishai
+------------------------------------
+ADDITION part 2:
+It is possible to say that this question is dependent upon the dispute between the Ran and the Shach regarding the understanding the opinion of the Baal ha'Maor. Because, as a little background, there is a ruling of the Rif, which says that when the first set of witnesses do not verbally testify but they instead do so in the form of a Shtar, then a second set of witnesses who comes along and claims that the first set of witnesses where elsewhere at the time of the supposed event, then the first set of witnesses become disqualified. The Baal ha'Maor maintains that "there is no Hazamah in the case of a Shtar." What does he mean? According to the Ran, the Baal ha'Maor means that since Hazamah is a Chidush, therefore it only applies to verbal testimony, but not to written. And therefore we do not disqualify the first witnesses in the Shtar. But according to the Shach (Choshen Mishpat 38:2), even the Baal ha'Maor agrees that the first set of witnesses are disqualified; all he meant to say was that the first set of witnesses do not get a punishment of Kaasher Zamam. So therefore, potentially, in our case, according to the Shach's interpretation, there seems to be room to say that even though the first set of witnesses do not get the punishment Kaasher Zamam, since the defendant already had a Gmar Din, nevertheless they still will be disqualified. From here alone, I do not believe we have a proof of what the Ran would hold in our case. Because theoretically even if he holds that in the case of a Shtar there's no Hazamah at all, even to Posel the first set, nevertheless maybe in our this case there is because it is verbal and not written.
+------------------------------------
+ADDITION part 3:
+Many thanks to Rabbi David Dombrowski who provided sources which if anything can be seen as affirmation of your suggestion that the Edim should still be invalidated even if they do not receive the punishment of Kaasher Zamam. However, in the following cases, the reason why the punishment is not given is not because the original defendant was previously convicted but because of other reasons as mentioned below.
+1. Ritva (Makkos 2b DH Teida) in the name of the Ramban discusses a case in which the reason that the punishment of Kaasher Zamam is not enforced is because the defendant was already punished ("Kaasher Asah"). He writes that even though the first set of (lying) witnesses are not punished but still they are disqualified based on superceding testimony of the second set of witnesses.
+2. Rambam (Hilchos Eidus 20:1) discusses what happens if the the second set of witnesses undermine the first set before the verdict has been rules on the basis of the testimony of the first set. In such a case the first set is not punished (Mishnah on 5b). But, the Rambam writes, the first set are indeed still disqualified as witnesses. See also the Ohr Somayach (Ibid. 18:6) who brings this and other proofs to this effect. 
+Warmest regards, 
+Yishai Rasowsky

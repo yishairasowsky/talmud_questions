@@ -1,0 +1,52 @@
+(Please include header and footer when redistributing this material.)
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Beitzah 011: TosafoS DH Amar Rechavah
+
+Dino Feigelstock <dinoaf@hotmail.com> asks:
+
+Shalom!   As always, thank you for your help.
+
+1) You state ìSummary: Tosfos disagrees with Rashi's explanationî. I understand that Tosfos is just quoting Rashiís explanation (and adds a clarification at the very end of the Tosafot). Therefore, I understand that Tosafot does not disagree with Rashi. Could you please clarify?
+
+2) In the Tosafot itself, you quote ìÓ¯·È È‰Â„‰ ˘È‡‰î. Your version ìMeRabi Yehuda Nesiaî makes sense because it is exactly Rashiís lashon. However, in the Tosafot of my Gemara it is stated ìMeRabi Yehuda Hanasiî (which is problematic because it is not Rashi's lashon). Do you have another version than the one I have, or it was a typo?
+
+3) BTW: the Yosef Daat you publish is very helpful to me. Who produced this publication? Your yeshiva?
+
+Thanks and kol tuv!
+
+dino
+
+
+Dino Feigelstock, Washington DC, USA
+----------------------------------------------
+The Kollel replies:
+Shalom R' Feigelstock!
+Wonderful to hear from you. Thank you for your thoughtful feedback and insightful questions! 
+1. Yes, you are correct! Just as Rashi himself rejected the Yeish Mefarshim, so does Tosfos (Beitzah 11b DH Amar Rachba) follows suit. Therefore, perhaps a better way to phrase the summary of Tosfos would be along these lines: "Tosfos cites Rashi's rejection of an alternative commentary." I will immediately pass this on the team in charge of the website material. Yasher Koach! By the way, later commentaries point out that Rashi himself in Pesachim (52b DH Rebbe Yehudah) appears to have adopted this rejected Peirush. See Maharam Shif.
+2. You are correct! Rashi said "Rebbe Yehudah Nesiah" whereas Tosfos says "Rebbe Yehudah ha'Nasi". Granted, literally, the terms Nasi and Nesiah mean the same thing. But still one might suspect there is an inconsistency here. Because people often assume that "Nesiah" was title carried specifically by the grandson of "Rebbe". But the truth is we seem to find "Nesiah" used as a title for both Sages. See, for example, the story on Avodah Zarah 6b; from the context, it seems to involve the older of the two Sages, since he consults with Reish Lakish as a colleague. Therefore, it right to assume that Rashi and Tosfos are referring to the same Sage. I still certainly appreciate you pointing this out, because it may be wise to change the text of Tosfos on the website to "ha'Nasi", in order to reflect what appears in the standard Gemara. Let me forward this as well to the team in charge of the website material.
+3. The wonderful Sefer "Yosef Daas" was published by Rabbi Yosef Ben-Arza, a senior member of the Kollel. I am glad that you find it so helpful!
+Warmest regards,
+Yishai Rasowsky
+--------------------
+ADDITION:
+Shalom R' Feigelstock!
+I want to admit a mistake of mine on this subject, and try to clarify the issue a little more. I did try to verify whether any Gemaras refer to Rebbe by the title "Nesiah". A few of the *potential* instances I discovered were the following. I realized that they are not definitive, as we will see.
+1. As we discussed above, in Avodah Zarah 6b, "Rebbe Yehudah Nesiah" consults Reish Lakish about how to deal with a pagan's gift. I had naively thought that this must be a reference to Rebbe because Reish Lakish appears in the narrative to be suborinate to him. But others pointed out to me that Reish Lakish was young enough to have such a relationship with Rebbe's grandson. By the way, in Shabbos 119b, Reish Lakish even cites Rebbe Yehudah Nesiah regarding the value of children learning Torah. So, the same premise would appear to apply there as well.
+2. In Yevamos 115a there is an interaction between Shmuel's father and "Rebbe Yehudah Nesiah". Many people might infer, based on the chronology, that this refers to Rebbe rather than his grandson, since Shmuel himself was in the generation immediately subsequent to Rebbe. Yet I see the Sefer Toldos Tanaim v'Amoraim understood even this case to be referring to the grandson.
+3. In Bechoros 11a, Rebbe Yehuda Nesiah sent a Shailah to Rebbe Tarfon about a donkey. Chronologically, I suspected this could not be referring to Rebbe's grandson, and therefore I inferred that it must be referring to Rebbe himself. But the commentaries point out that even that would be a stretch, given how early on Rebbe Tarfon lived. See Hagahos Yaavetz.
+4. In Avodah Zarah 37a "Rebbe Yehudah Nesiah" is recounted as having been Matir Shemen, and yet the Mishnah on 35b says that it was "Rebbe" who was Matir Shemen. But, despite how it sounds on the surface, this also does not prove what I had claimed. Because some commentaries say that the Girsa "Rebbe" is a mistake, and that really the Mishnah is referring to the grandson just like the Gemara states (see Rashi and Tosfos); and others say that Rebbe himself is indeed the Sage mentioned in the Mishnah, and yet the later Takanah of his grandson was needed because Rebbe's was not originally accepted (see the Ran on the Rif).
+5. In Avodah Zarah 33b, in the top Tosfos (DH Bau Mineih), we do find that Rebbe's *grandson* is referred to by the name "Rebbe Yehudah ha'Nasi". Tosfos refers to him in this way even though our Girsa in the corresponding Gemara (Moed Katan 12b) states that it is "Rebbe Yehudah Nesiah". This *might* match up with the view of Tosfos that you identified in Beitzah who used the term ha'Nasi even though Rashi had used the term Nesiah. At the same time, however, it is hard to know where a printer's error might have crept in.
+So, I retract my statement, since it is not clear to me anymore that there is *necessarily* any place where "Nesiah" is used for Rebbe. On the other hand, we do have Tosfos in two places (Beitzah and Avodah Zarah) that refer to Rebbe's grandson as ha'Nasi.
+Thank you for helping to clarify the issue with me!
+Warmest regards,
+Yishai Rasowsky
