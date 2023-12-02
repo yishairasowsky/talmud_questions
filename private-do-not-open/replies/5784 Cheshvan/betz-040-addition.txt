@@ -1,0 +1,44 @@
+(Please include header and footer when redistributing this material.)
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      daf@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Beitzah 040: Responses to the apparent Rebbi
+
+Dino Feigelstock <dinoaf@hotmail.com> asks:
+
+Shalom! As always, thank you for your help.
+
+Regarding a Baraita, the Gemara asks “UMI ET LE LEREBBI MUKTZE?...” (bottom of 40a). This question arises because, given that Rebbi explained the opinion of R’ Shimon on muktzeh, the Gemara assumes that Rebbi agrees with R’ Shimon’s opinion on muktze.
+The Gemara responds (second IBAIT EIMA) that the fact that Rebbi explained the opinion R’ Shimon on muktzeh, does not necessarily mean that Rebbi agrees with R’ Shimon opinion on muktze (“VELE, LO SVIRA LE…”).
+However, the Gemara does not explain why the fact that Rebbi explained the opinion of R’ Shimon on muktzeh, does not necessarily mean that Rebbi agrees with R’ Shimon’s opinion on muktze. Therefore, although the Gemara teaches us how to interpret the texts, the Gemara does not explain why, and it seems to me that HAIKAR CHASER MIN HASEFER.
+Same can be said about the third response the Gemara gives: Rebbi says to Rabanan, recognize that these animals are “BAYTOT”, and Rabanan respond “NO, THEY ARE MIDBARIOT”, without explaining the reasoning of Rebbi and Rabanan.
+I saw this kind of question and answer (without further explanation) in many places in the Gemara, and I wonder if you have a thought about this.
+
+Thanks!!!
+Dino Feigelstock, Washington DC, USA
+----------------------------------------------
+The Kollel replies:
+Shalom R' Feigelstock,
+Great to hear from you.
+I cannot say that I have a deep explanation which might be what you're looking for. But I can share with you two simple approaches that occur to me regarding your excellent questions. 
+Regarding what you wrote about the Gemara's second answer (Rebbe was explaining Rebbi Shimon but does not agree with him), it seems correct that Gemara's working assumption, unless contradicted by evidence to the contrary, is that when one younger Chacham cites and explains the opinon of an older Chacham, then it is most plausible to assume that the younger one subscribes to the view of the older. But again this is only if there is no substantive reason to indicate otherwise. So here, if we do have reason to believe that Rebbi does indeed hold of Muktzeh -- namely, based on the fact that he appears in the discussion that distinguishes between the Baysos and Midbariyos -- then it becomes a much more reasonable and legitimate move for the Gemara suggest that he in fact does not subscribe to Rebbi Shimon's ruling; rather, Rebbi was only explaining it for the sake of clarifying the opposing viewpoint.
+Regarding what you wrote about the Gemara's third and final answer (l'Divreihem d'Rabanan k'Amar Lehu), it sounds like you are saying that Rebbi and the Rabanan are presented as simply disagreeing with each other, and the Gemara is not addressing the rationale or the reasons why each side maintains its position and refuses to agree with the opponent. At the moment I did not come across a subtle and brilliant explanation to reveal what assumptions are behind each view, if that is what you are seeking. But what we do is see is that Rebbi is more lenient regarding Muktzeh in this case than are the Rabanan. In that sense, whenever we see an argument like this, the two opposing rulings in a particular circumstance can be reflective of a global stance that each sage adopts towards that issue. I will have to keep my eyes and mind open for more insight into this very significant issue, which -- as you said -- applies not only here but in many other places in Gemara.
+Warmest regards,
+Yishai Rasowsky
+----------------------------------------------
+ADDITION:
+Shalom R' Feigelstock! 
+I see now a couple of interesting points cited in the Mesivta volume on Beitzah Daf 40b. 
+I will first share what seems to be the most relevant to your question regarding the Gemara's final answer. The Toldos Yaakov maintains that Rebbe's position is based on the following premise. The Chachamim admit that animals which spend the night inside the Techum are not Muktzeh. Therefore, claims Rebbe, this indicates that whenever there are two opposing reasons to view the animals as either Muktzeh (because they spend the day outside the Techum) or as Mutar (because they spend the night inside the Techum), the Chachamim adopt the Maikel stance. But, if that is so, claims Rebbe, then by the same reasoning, the Chachamim should also permit the animals who spend half the year outside the Techum, On the grounds that here too they are considered Baysos for the entire half year which they are in the Techum, and it shouldn't matter that the timeframe is longer than the previous case. The Chachamim themselves, on the other hand, disagree with this, and instead maintain their stringent position to forbid those animals, on the grounds that the length of timeframe does indeed matter; because the animals who only come back home when the rain commences are out of range -- and hence Muktzeh -- for the entire dry season; unlike the animals who come back every evening, which thus prevents them from become Muktzeh for any day of the year. 
+The other comment I saw was based on the Tzelach who suggests the following regarding the Gemara's first answer. (Granted, your analysis was focused on the second and third answers, but I thought it might help to share this nevertheless.) The Tzelach asserts that according to the first answer of the Gemara, both Rebbe and the Chachamim subscribe to the view of Rebbi Shimon; they just argue whether the cows which spend half the year outside of the Techum are indeed comparable to Grogeros and Tzimukim (Chachamim) or not (Rebbi). This is as opposed to saying that only Rebbi subscribes to Rebbi Shimon's view whereas the Chachamim hold like Rebbi Yehudah.
+Of course I'll be happy to continue the discussion with you when there are any developments, and I'm always glad to hear your insights. 
+Warmest regards,
+Yishai Rasowsky
