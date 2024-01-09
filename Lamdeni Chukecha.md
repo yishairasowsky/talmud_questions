@@ -45258,6 +45258,676 @@ Yishai Rasowsky
 
 ---
 
+## Avodah Zarah 021: Lo Sechanem
+
+
+
+Joel Greenberg asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Rambam (hilchos avodei zara 10 6) says that the lav of lo yoshvu b'artzecha) is only when yad yisrael takifa.  The Pri Migadim (orech chaim 306, ashel avram sif katan 20 d"h baretz yirael)  applies this to the issur of lo sechanim.
+
+How can he do this?  They are 2 separate issurim with nafkei minas (for example lo yoshvu will asur renting to a goy as well as the Ramabm writes in sefer hamitzvas but by lo sechanim we don't say that).  Just because the Rambam says that by lo yoshu b'aretech doesnt mean we will say that by lo sechanim?
+
+
+
+Joel Greenberg,
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shalom R' Greenberg,
+
+Great to hear from you.
+
+Baruch Shekivanta! I see your Svara to distinguish between the two laws in the Sefer Divrei Yirmiyahu commenting on that passage of the Rambam.
+
+Baed on the words of the Pri Megadim, one is reminded of the Mehalech of the Sefer Teshuvos Shemen Hamaor, which I do not have on hand right now, wherein the author claims that there is only an Isur Lo Tichanem when most of Eretz Yisrael is in Jewish possession, but not in his day (late 19th century) when Eretz Yisrael was mostly in the hands of Akum anyway.
+
+On the other hand, the Chazon notably made two objections to this: First, each piece of land could have its own Isur Lo Tichanem, so the fact that most of Eretz Yisrael belongs to gentiles doesn't take away the prohibition from a small portion of Eretz Yisrael that is in the hands of a Jew. And secondly, said the Chazon Ish, today (20th century) anyway it's not true, because most of Eretz Yisrael is in Jewish hands.
+
+I hope this helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+
+
+
+
+-----------------------------------
+
+ADDITION:
+
+Shalom R' Greenberg,
+
+I want to make comes corrections and additions about the some of the sources relevant to this discussion. I hope it helps expand and clarify how the opinion of the Pri Megadim might fit into the larger picture.
+
+1. The view of the Shemen ha'Mor is in Y.D. Siman 4 and is cited in Tzitz ha'Kodesh Vol 1 16:3. It is not "Shemen ha'Maor" as I incorrectly wrote previously.)
+
+2. The Sefer Avodah Berurah (Avodah Zarah, Volume 1, page 451) cites a number of views on this topic. It is available here: https://www.hebrewbooks.org/pdfpager.aspx?req=50945&st=&pgnum=496&hilite=
+
+3. In the Collected Letters of Achiezer (Year 5697, Divrei Halachah #61-62), Rav Chaim Ozer writes that there is no Isur Lo Tichanem when gentiles anyway have possession of parts of Eretz Yisrael.
+
+4. The Chazon Ish is in Sheviis Siman 24.
+
+5. Toras Yehonasan (7:58) writes that if the gentile has other alnd in Eretz Yisrael logically it should be permitted to sell him more land. He bases this on a Diyuk from a Rambam (Hilchos Avodah Zarah 10:4) who writes that the reason for the Isur Lo Tichanem is so that the gentiles should not have a a permanent dwelling in Eretz Yisrael, which seems to imply that if they anyway have a dwelling space then there is no Isur. But the Toras Yehonasan himself did not want to be Matir on these grounds alone since he didn't find stronger explicit support from Rishonim. Chazon Ish (Y.D. 65:1 DH v'Ein) also forbids this.
+
+6. The Ra'avan (Siman 290) maintains that if the government possesses dominion and authority over a person's house, then we can say the real estate is not under exclusive Jewish control, then the Isur Lo Tichanem does not apply. 
+
+7. The Mesivta edition of Avodah Zarah (Daf 21) brings a number of views which hold that under various circumstances there is no Isur Lo Tichanem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Avodah Zarah 021: Lo Sechanem
+
+
+
+Joel Greenberg asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Rambam (hilchos avodei zara 10 6) says that the lav of lo yoshvu b'artzecha) is only when yad yisrael takifa.  The Pri Migadim (orech chaim 306, ashel avram sif katan 20 d"h baretz yirael)  applies this to the issur of lo sechanim.
+
+How can he do this?  They are 2 separate issurim with nafkei minas (for example lo yoshvu will asur renting to a goy as well as the Ramabm writes in sefer hamitzvas but by lo sechanim we don't say that).  Just because the Rambam says that by lo yoshu b'aretech doesnt mean we will say that by lo sechanim?
+
+
+
+Joel Greenberg,
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shalom R' Greenberg,
+
+Great to hear from you.
+
+Baruch Shekivanta! I see your Svara to distinguish between the two laws in the Sefer Divrei Yirmiyahu commenting on that passage of the Rambam.
+
+Baed on the words of the Pri Megadim, one is reminded of the Mehalech of the Sefer Teshuvos Shemen Hamaor, which I do not have on hand right now, wherein the author claims that there is only an Isur Lo Tichanem when most of Eretz Yisrael is in Jewish possession, but not in his day (late 19th century) when Eretz Yisrael was mostly in the hands of Akum anyway.
+
+On the other hand, the Chazon notably made two objections to this: First, each piece of land could have its own Isur Lo Tichanem, so the fact that most of Eretz Yisrael belongs to gentiles doesn't take away the prohibition from a small portion of Eretz Yisrael that is in the hands of a Jew. And secondly, said the Chazon Ish, today (20th century) anyway it's not true, because most of Eretz Yisrael is in Jewish hands.
+
+I hope this helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Bamidbar 06: Ba'al Ha'Turim 6:6
+
+
+
+HG Schild asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Al Nefesh Meis Lo Yavo- Lomar Lach she'Im Tishreh Alav Shechinah Machamas Nizro she'Lo Yomru she'Hu Doresh El ha'Meisim
+
+Where is he quoting from? Who else says this?
+
+
+
+hg
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shalom HG Schild,
+
+Great to hear from you.
+
+Baruch Hashem, there was a good deal of background that I could glean from the commentary on the Baal ha'Turim found in the Mikraos Gedolos Oz v'Hadar ha'Mevuar. They cite the Itur Bikurim as understanding the Baal ha'Turim's comment which you quoted as follows.
+
+We know there is a prohibition in the Torah to seek certain communication with the dead ("Doresh El ha'Meisim"; see Devarim 18:11). Well, suppose someone made himself a Nazir with good intentions. Then potentially God could give him the ability to foretell the future. The reason for this could be because Hashem's divine presence comes rest upon him. And he may be quite deserving of this, as the Torah says in 6:7 "the crown of God is on his head," and 6:8 "He is sanctified to Hashem". 
+
+But let's imagine that this Nazir would become Tamei Meis by contacting a dead body (or Halachically, as you know, even by being under the same roof). It is quite possible that people will claim about this Nazir that the only reason he knows the future is because he wrongfully sought that information from the deceased, in violation of the prohibition Doresh El ha'Meisim cited above. Therefore, the Torah forbids the Nazir from coming in contact with the dead, as you cited in 6:6, to dispel people from making this claim about the Nazir.
+
+Commentaries including the Moshav Zekeinim (Vayikra 21:1) point out that this is also part of the reason why a Kohen is not allowed to become Tamei l'Meis. (By the way, except possibly the view of the Raavad, this is prohibition applies even when the Kohen is already Tamei. One could argue that this otherwise difficult-to-understand Halachah actually fits well with the explanation given here.) Why is this so? Because part of the job of a Kohen is to foretell the future of the Jewish people. 
+
+How is that so? One explanation is that many prophets were Kohanim, such as Yermiyahu, Yechezkel, Yehoyada, Uriah, and Zechariah. But another explanation -- perhaps more obvious -- is that through the Kohen's Urim v'Tumim the Jewish people would be told information about the future. 
+
+Such a thought is actually expressed by the Baal ha'Turim himself on Vayikra 21:1. There he explains why the prohibition of a Kohen becoming Tamei l'Meis (in the beginning of Parashas Emor) immediately follows the law of Ov v'Yidoni (at the end of Parashas Kedoshim). One reason, he says, is because the Jewish people might desperately think "How can we know the future if we are forbidden to appeal to Ov v'Yidoni?" One answer is that you can ask the Kohen via the Urim v'Tumim. So we see the idea of Doresh El ha'Meisim -- in contrast to telling the future by Kosher means -- applies both to the Nazir and to the Kohen who are forbidden to become Tamei l'Meis. 
+
+By the way, regarding any earlier sources that speak about this entire issue, the Baal ha'Turim in Vayikra 21:1 cites the Midrash Tanchuma as relating the Kohen to the law of Ov v'Yidoni along the lines we discussed. But there seems to be a confusion of sources because we find the statement in Vayikra Rabbah 26:7 in the name of R' Levi citing R' Chama Bar Chanina.
+
+I hope this helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Chulin 045: Missing Spinal Marrow
+
+
+
+Mark May asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chulin 45b. Missing Spinal Marrow.
+
+In human anatomy, Marrow is contained in bone and would not refer to the neural contents or spinal cord.
+
+In Human medical experience, a crushed spine (referring to the vertebrae) is compatible with life. Even an injury to the spinal cord (neural element) below the brain stem is compatible with life.
+
+In an animal, an Injury to the spinal cord resulting in paralysis or loss of function of one or more limbs, I would think, would render the animal treifah (incompatible with surviving one year).
+
+
+
+My confusion is with the Talmudic terminology presented in Chulin 45b.
+
+Does Spinal Marrow refer to the Marrow in the vertebrae or neural substance in the spinal cord?
+
+The rabbis in this sugya argue the amount of Marrow lost to determine whether an animal is treifah.
+
+Please clarify for me.
+
+Thank you.
+
+
+
+Mark May, Raanana  IL
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shalom,
+
+Great to hear from you.
+
+
+
+Dear Mark May,
+
+
+
+Thank you for sharing your question and insights on the Gemara's discussion of Treifos. It's wonderful to see your specialized knowledge in this area, and I greatly appreciate your contribution to the topic. Please feel free to correct me if there's anything I mention below that needs further clarification or adjustment.
+
+
+
+As you indicated, anatomically speaking, the spinal cord does not contain bone marrow; rather, it consists of nerve fibers, support cells, and cerebrospinal fluid.
+
+
+
+Regarding the term "Moach" used in the Gemara, it is not referring to bone marrow specifically in our Sugya. Instead, it is used in a broader sense to represent the inner content or substance of something. In the context of this discussion, "Moach" denotes the neural tissue within the spinal cord.
+
+
+
+Therefore, the Gemara's debate focuses on determining whether the majority referred to pertains to the nerve tissue itself ("Rov Mocho") or the protective membranes surrounding the spinal cord ("Rov Oro") i.e. the meninges.
+
+
+
+From a medical standpoint, the two views presented in the Gemara are intriguing, since they are debating which aspect of the spinal cord holds greater significance in determining the viability of the animal; and modern medicine identifies the role of the nerve tissue as transmitting signals to and from the brain, while the meninges is there provide vital protection and support to the spinal cord.
+
+
+
+I hope this helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Gitin 003: Not a Kula but a Chumra
+
+
+
+Avrahom Kevelson  asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multiple times in Sotah Based on Ulah Eid echad k’shtayim…when does that apply when it’s not one after the other.
+
+Top of Gimil. A husband comes later and denies it… that’s obviously not going to be b'Toch Kdei Dibur!
+
+Then the tereitz when the Shaliach comes he gives it in front of 2 or 3…
+
+If the husband is adamant he’d be just as willing to say in front of 2 or 3 that the Shaliach misunderstood his directions etc…
+
+So the teiretz that a Shaliach takes steps to make sure his reputation isn’t ruined, could apply just as well to a husband especially pre-takanas Rabbeinu Gershom.
+
+Ulah also was talking about ervah! So the question applies as outlined as above… or the question goes back on Sotah ?!
+
+The Shaliach is an Eid echad period… yes he makes his Eidus before 2 or 3
+
+The Eid echad in Sotah says it in beis din of 23!
+
+
+
+Avrahom Kevelson , Brooklyn, NYC USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shalom R' Kevelson,
+
+Great to hear from you.
+
+I am honestly not sure I have fully grasped your question, but I can make a comment that may be of some assistance.
+
+In the context of Sotah (Sotah 31b; Rambam Hilchos Sotah 1:16-17) and Eglah Arufah (Sotah 47b; Rambam Hilchos Rotzeach 9:13) we do rely upon one Eid, provided that the opposing Eid has not testified yet.
+
+For example, if one Eid says that the suspected woman was Nitmeis, then she will *not* drink the Mei Sotah, even if another Eid comes later to contradict him. But if the second Eid came at the same time, then she must drink. 
+
+Similarly, if one witness says that he saw the murderer of the found victim, then the Sages do *not* perform the procedure of Eglah Arufah, even if another Eid comes later to contradict him. But if that second Eid came at the same time, then they would perform the procedure of Eglah Arufah.
+
+In terms of what is considered simultaneous, Tosfos (Sotah 31b DH Kan b'Vas) maintains that the Beis Din must have accepted and ruled on the basis of the first witness's testimony in order for us to ignore the second Eid. This is different than how he explains Rashi's view which is that simply hearing the testimony of the first witness is enough even without taking legal action on the basis of it.
+
+Regarding the possibility that the husband will come later and say that the Shaliach misunderstood his directions, you are right that they would accept the husband's testimony to contradict that of the Shaliach in such a case. But the Gemara means to say that since the Shaliach knows that he will have to deliver they get in front of two or three people, so we can assume that the Shaliach would only undertake this mission if he were very confident that there is no serious possibility that the husband will in fact come later to contradict him. 
+
+I hope this helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Nazir 005: Yamim
+
+
+
+Daniel Gray asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How does this gmara fit with Rashi Bamidbar 9-22 who says = Shanah?
+
+How does this gmara fit with Unkelous Bamidbar 9-22 who says = Idan b'Idan?
+
+
+
+Daniel Gray, Toronto Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shalom R' Gray,
+
+Great to hear from you.
+
+If I correctly understood your question, you want to know why it is that if we find three interpretations of the word "Yamim" in Nazir Daf 5 -- meaning a year, a month, or a week -- then why is it that Rashi interprets the word "Yamim" in b'Midbar 9:22 to mean a year, as opposed to a month or a week. Is that accurate? 
+
+If so, then we can say that from the context of the verse in b'Midbar 9:21-22 that the Torah is listing increasing increments of time; starting with one day, and then two, and then a month. So the next amount "Yamim" would have to be something larger than a month. So one year is the only relevant option amongst the three opinions above. 
+
+Regarding the comment of Onkelos who translates "Yamim" as Idan b'Idan, I think the understanding that we discussed above regarding Rashi would apply to Onkelos as well, since we do find in other contexts that the phrase Idan b'Idan means one year. For example:
+
+1. In Vayikra 25:29 itself regarding the Batei Arei Chomah, Onkelos translates "Yamim" as Idan b'Idan.
+
+2. In Shmuel I 27:7, Targum Yonasan Ben Uziel translates "Yamim" as Idan b'Idan which means a year as the Abarbanel on that verse explains.
+
+3. In Bereishis 24:55 Onkelos translates the term "Yamim" as Idan b'Idan and there is clearly means a year, because the subsequent amount listed is ten months. This is if we accept the contention of Rashi that verse (DH Oh Asor) that the increments are decreasing with the progression of the verse.
+
+I hope you'll let me know if I have missed something or not represented your question appropriately. But in the meantime I hope this helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ## Sanhedrin 030: Ma'aser Sheni in a Chest
 
 
@@ -45343,6 +46013,740 @@ I hope this helps!
 Warmest regards,
 
 Yishai Rasowsky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Sanhedrin 032: Rebbi Masya in Rome
+
+
+
+Joshua Danziger asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello kollel!
+
+
+
+In the list of the great rabbis of the age, there’s a mention of rav masya in romi. It seems out of place in a list which otherwise is all places in Israel. Do we know anything more about this rav and why he was in rome?
+
+
+
+Thank you.
+
+
+
+Josh
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shalom R' Danziger,
+
+Great to hear from you.
+
+I looked in the Toldos Tanaim v'Amoraim by Rabbi Aharon Hyman, which is available online [Link #1]. In the entry "Rabbi Masya Ben Charash", the author writes that his Rebbi was Rebbi Eliezer (see Yoma 53b); and that during the period of the Roman decrees at the time of the destruction of Beitar, he and other Sages considered the painful option of departing Eretz Yisrael (see also Yalkut Shimoni on Torah 885:4 [Link #2]), and eventually did so. 
+
+He later settled in Rome and founded a great Yeshiva there, as indicated by Daf 32b in Sanhedrin that you cited. Interestingly, the Hagahos Maimoniyos (Seif Katan #10 on the Rambam in Hilchos Sanhedrin, end of Perek 6:9) extols his Beis Din in Rome as being the greatest of all. In fact, when Rebbi Shimon Bar Yochai and other Sages visited Rome, they found Rebbi Masya there and (Meilah 17a; see also Yoma 53b). 
+
+Because he was quite distant from the community of Sages in Eretz Yisrael, not very many of his teachings remain recorded in the actual Mishnah. But some exceptions include:  Yoma 8:6 regarding Pikuach Nefesh; and Avos 4:15 reagrding greeting people and also how it is better to be a tail to lions than head to foxes (unlike the Roman society which advocated the opposite!). 
+
+We do find several of his rulings and opinions cited and taught elsewhere. For instance: Yoma 84a-b about letting blood, feeding an expecting mother who smelled food on Yom Kippur, and feeding dog liver to someone who was bitten by a rabid dog; Yoma 4b regarding Moshe ascending in a cloud; and even an amazing story in the Tanchuma (Buber edition, appendix to Chukas 1:1 [Link #3]) about his Mesirus Nefesh for Shemiras ha'Einayim (see also Yalmkut Shimoni on the Torah 161:2 [Link #4]).
+
+I hope this helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+Links:
+
+1. https://www.hebrewbooks.org/pdfpager.aspx?req=43958&st=&pgnum=80
+
+2. https://www.sefaria.org/Yalkut_Shimoni_on_Torah.885.4?vhe=Yalkut_Shimoni_on_Torah&lang=he
+
+3.  https://www.sefaria.org/Midrash_Tanchuma_Buber_Appendix_to_Chukat.1.1?vhe=Midrash_Tanhuma_haKadum_veHaYashan,_S._Buber,_1885&lang=he
+
+4. https://www.sefaria.org/Yalkut_Shimoni_on_Torah.161.2?vhe=Yalkut_Shimoni_on_Torah&lang=he
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Yoma 008: Perishah l'Kedushah
+
+
+
+Daniel Steinberg asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Beraisa of ‘Ain Bain’ states that the Kohain Gadol was separated for the purpose of Kedusha, which Rashi explains as “for the purpose of entering Machane Shechinah” on Yom Kippur. The Gemara says that the Beraisa of ‘Ain Bein’ could be like either R’Meir or R’Yosi. However, it seems to me that it CANNOT be like R’Yosi. This is because the Gemara on 4b cites R’Yosi (if it is the same R’Yosi), that the Torah was given on the 7th, and aligns the opinion of R’Akiva with him - i.e. that there was no such Prisha of Moshe in preparation for entering Machne Shechina; rather, the cloud covered the mountain prior to Matan Torah, not Moshe. It is only according to the opinion of R’Yosi HaGlili (see Beraisa 4a), and the Tanna Kamma in the Beraisa from Shabbos (cited on 4b), that the reason for separating the Kohein Gadol was in preparation for entering Machne Shechina (Shitas Reis Lakish from 3b). According to R’Akiva and R’Yosi, however, the reason for separating the Kohein Gadol must be the Gezeiras HaKosuv from Miluim (Shitas R’Yochanan from 2a).
+
+
+
+Daniel Steinberg, Columbus, OH USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shalom R' Steinberg,
+
+Gut Chodesh, and it's great to hear from you! I'm extremely impressed -- and stumped -- by your outstanding question. I can suggest the following possible directions of thought.
+
+Perhaps the Gemara *only* means to identify whose opinion is consistent with the Beraisa *specifically* vis-a-vis the number of days on which the Kohen undergoes Haza'ah. 
+
+As you know, it is on these grounds that the Gemara rules out Rebbi Chanina Sgan ha'Kohanim, since he differentiates the days of Haza'ah between Yom Kippur and Parah Adumah. But the Gemara does allow for the possibility of Rebbi Meir or Rebbi Yosi, since they -- like the Beraisa -- do *not* distinguish between days of Hazaah for Yom Kippur and Parah Adumah.
+
+But this is notwithstanding your excellent question. For if the Beraisa maintains that the reason for the seven days of separation is because he is about to enter the Machaneh Shechinah, as Reish Lakish learned (4a-b) from the cloud covering Moshe at Ma'amad Har Sinai, Rebbi Yosi -- like Rebbi Akiva -- interprets the days of the cloud covering Har Sinai itself. 
+
+But maybe the Gemara is intentionally ignoring this discrepancy, and choosing to focus on just one type of Chiluk between Yom Kippur and Parah Adumah. Support for this idea might be found in the first answer of Tosfos (8b DH d'I Rebbi Chanina), which maintains that the Gemara was only interested in addressing discrepancies that make the case of Yom Kippur superior to that of Parah Adumah or vice-versa.
+
+Alternatively, based on Tosfos' second answer (Ibid.), we might say that Perishaso l'Kedushah just tells us the location *where* he was to Tovel, but not that Machaneh Shechinah was *the reason* he was Poresh. 
+
+Furthermore, *perhaps* even according to Rashi, who -- you astutely pointed out -- indicates that the Perishah to Kedushah is for entering the Machaneh Shechinah, maybe the point is not so much expressing the opinion of Reish Lakish; but rather, perhaps it just is meant to be in contrast with the second case of Parah Adumah. Meaning, the Perishah for Parah Adumah is for the purpose of Taharah, and thus *it is the reason* for the prohibition contacting him. So the Reisha of the Beraisa, in effect, may be saying that for Yom Kippur "Don't think that there is a prohibition of others to touch him, because his Perishah is ["only" for entering the Machaneh Shechinah,] *not* for Taharah. 
+
+I thought support for this might also be found in the Tosfos we quoted above, because he writes (in the second Terutz) that we can read the Beraisa in the manner of "Trei Milei Ka'Chashiv", which implies that the interpretation in Tosfos' Hava Amina was "Chada Milsa Ka'Chashiv", which seems to mean that the purpose of the Perishah is [just] *supplying the reason* for the Heter/Isur for bodily contact.
+
+Finally, I hope you enjoy as much as I did the fact that the Sefer Mikdash David (Taharos, Siman 51 "Paras Chatas"; see link below) asks a question that in some form bears similarity to yours! He also claims that Rebbi Yosi cannot fit with this Beraisa, but for a different reason; that is, because, as the Tosefta (Parah Ch. 10) indicates, Rebbi Yosi holds that the reason for the prohibition of contact in the case of Parah Adumah is because the clothes of Ochlei Kodesh are Midras for "Chatas" (i.e. Parah). [I personally would just wonder why this Kashya is not assuaged by the second answer of Tosfos that we cited above, which views the statement in the Beraisa as "Trei Milei Ka'Chashiv".] 
+
+I look forward to any opportunity of carrying on this discussion and others with you R' Steinberg, but for the meantime I hope this input helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+Link to Mikdash David: https://www.hebrewbooks.org/pdfpager.aspx?req=14790&st=&pgnum=89&hilite=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Yoma 053: Cleaning After Yom Kipur
+
+
+
+Joshua Danziger asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello kollel!
+
+
+
+I believe the Gemara in tamid deals with how the parochet was cleaned, but how was the blood on the Aron or the even shetiyah (in the 2nd beit hamikdash) cleaned from the blood on each Yom Kippur? Was it from the general periodic flooding of the azarah? Or did the blood just build up over time?
+
+
+
+Thank you!
+
+
+
+Josh
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shalom R' Danziger,
+
+Great to hear from you. Thank you for your thought-provoking question. I appreciate your active engagement with the Kollel. 
+
+Interestingly enough, at the moment, to me it appears that there are conflicting sources about this issue, namely, whether the various blood spots that formed in the Beis ha'Mikdash were cleaned up or not. 
+
+On the one hand, we find in Midos 3:4 that they would indeed *whiten* the Mizbeach twice a year, once for Pesach and another time for Sukkos. One opinion in the Tannaim even adds that the Mizbeach was cleansed of the blood with a cloth every Erev Shabbos. And in one his explanations in his commentary, the Rosh posits that they even peeled off the older layer of plaster before painting on the new one. 
+
+On the other hand, the Gemara relates in Yoma 57a and Meilah 17b that Rebbe Elazar b'Rebbe Yosi, while in Rome, saw the Paroches and noticed drops of blood on it from the Par and Seir of Yom Kippur. This seems to indicate that the Paroches was *not* cleaned of blood.
+
+So, I am not sure how to resolve this apparent conflict, namely that some items were cleaned whereas it seems others were not cleaned; so, I will have to keep on the lookout for more material on this fascinating subject that you raised!
+
+I hope this helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Avodah Zarah 021: Lo Sechanem
+
+
+
+Joel Greenberg asks:
+
+>
+
+
+
+
+
+
+
+
+
+
+
+The Rambam (hilchos avodei zara 10 6) says that the lav of lo yoshvu b'artzecha) is only when yad yisrael takifa.  The Pri Migadim (orech chaim 306, ashel avram sif katan 20 d"h baretz yirael)  applies this to the issur of lo sechanim.
+
+How can he do this?  They are 2 separate issurim with nafkei minas (for example lo yoshvu will asur renting to a goy as well as the Ramabm writes in sefer hamitzvas but by lo sechanim we don't say that).  Just because the Rambam says that by lo yoshu b'aretech doesnt mean we will say that by lo sechanim?
+
+Joel Greenberg
+
+
+
+The Kollel replies:
+
+
+
+Baruch she'Kivanta! I found your Sevara to distinguish between the two laws in the Sefer Divrei Yirmeyahu, commenting on that passage of the Rambam.
+
+
+
+Based on the words of the Pri Megadim, one is reminded of the Mehalech of the Sefer Teshuvos Shemen ha'Me'or, which I do not have on hand right now, wherein the author claims that there is only an Isur Lo Sechanem when most of Eretz Yisrael is in Jewish possession, but not in his day (late 19th century) when Eretz Yisrael was mostly in the hands of Nochrim anyway.
+
+
+
+On the other hand, the Chazon Ish notably made two objections to this: First, each piece of land could have its own Isur Lo Sechanem, so the fact that most of Eretz Yisrael belongs to Nochrim does not take away the prohibition from a small portion of Eretz Yisrael that is in the hands of a Jew. And, second, said the Chazon Ish, today (20th century) anyway it is not true, because most of Eretz Yisrael is in Jewish hands.
+
+
+
+I hope this helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+
+
+
+
+---
+
+Joel asks:
+
+
+
+So if I understand you correctly (and please correct me if I am mistaken) according to the sefer divrei yirmeyahu even according to the Rambam lo sechanem and lo yoshvu are one issur and you are saying that maybe the Pri Migadim agrees to this chiduch.  If I remember correctly I did see that the Tashbetz holds this way and he says that Lo sechanem is just an asmachta.  But to say this in The Rambam is a big chiduch and just a simple reading of the Rambam it seems clear to me that he holds they are 2 separate isssurim.  How can that be peshat in the Rambam?
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shalom R' Greenberg!
+
+Delighted to hear from you again. 
+
+By the way, I wrote a follow up to our discussion on June 1, but I just noticed that due my own error it never went through to you; I just resubmitted it, and by now I hope you will have received it.
+
+Regarding your current question, I understand that the Divrei Yirmeyahu (see link below) actually says that there is a fundamental difference between "Lo Yeishvu" and "Lo Tichanem". As he writes, the former does not apply when the Jews and gentiles already live amongst each other, whereas the latter does apply. 
+
+Warmest regards,
+
+Yishai Rasowsky
+
+Link to Divrei Yirmeyahu:
+
+https://www.sefaria.org/Mishneh_Torah_Foreign_Worship_and_Customs_of_the_Nations.10.6?lang=he&with=DivreiYirmiyahu&lang2=he
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Gitin 034: Question on Daily Quiz
+
+
+
+Yossi Klein asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Hilchasa when one could be îáèì àú äâè how many did he need to do it in front of?
+
+a) 1
+
+b) 2
+
+c) 3
+
+d) 23
+
+e) 70
+
+
+
+Describe your issue below:
+
+
+
+Correct answer is B - two, not C.
+
+Hilchasa k'Nachman
+
+
+
+Kol tuv,
+
+Yossi
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dear R' Yossi Klein,
+
+Thank you for this e-mail. Yes, I see you are quite correct. 
+
+As the Gemara says, v'Hilchesa k'Nachman which Rashi explains to mean Bitul Bifnei Shnayim.
+
+Thank you for pointing this out! I will pass this along and the Kollel will bl'n try to change the quiz ASAP. May you continue to strive in Torah and Yiras Samayim!
+
+Warmest regards,
+
+Yishai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Yoma 008: Perishah l'Kedushah
+
+
+
+Daniel Steinberg asks:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Beraisa of ‘Ain Bain’ states that the Kohain Gadol was separated for the purpose of Kedusha, which Rashi explains as “for the purpose of entering Machane Shechinah” on Yom Kippur. The Gemara says that the Beraisa of ‘Ain Bein’ could be like either R’Meir or R’Yosi. However, it seems to me that it CANNOT be like R’Yosi. This is because the Gemara on 4b cites R’Yosi (if it is the same R’Yosi), that the Torah was given on the 7th, and aligns the opinion of R’Akiva with him - i.e. that there was no such Prisha of Moshe in preparation for entering Machne Shechina; rather, the cloud covered the mountain prior to Matan Torah, not Moshe. It is only according to the opinion of R’Yosi HaGlili (see Beraisa 4a), and the Tanna Kamma in the Beraisa from Shabbos (cited on 4b), that the reason for separating the Kohein Gadol was in preparation for entering Machne Shechina (Shitas Reis Lakish from 3b). According to R’Akiva and R’Yosi, however, the reason for separating the Kohein Gadol must be the Gezeiras HaKosuv from Miluim (Shitas R’Yochanan from 2a).
+
+Daniel Steinberg, Columbus, OH USA
+
+
+
+The Kollel replies:
+
+Shalom R' Steinberg,
+
+Gut Chodesh, and it's great to hear from you! I'm extremely impressed -- and stumped -- by your outstanding question. I can suggest the following possible directions of thought.
+
+Perhaps the Gemara *only* means to identify whose opinion is consistent with the Beraisa *specifically* vis-a-vis the number of days on which the Kohen undergoes Haza'ah. 
+
+As you know, it is on these grounds that the Gemara rules out Rebbi Chanina Sgan ha'Kohanim, since he differentiates the days of Haza'ah between Yom Kippur and Parah Adumah. But the Gemara does allow for the possibility of Rebbi Meir or Rebbi Yosi, since they -- like the Beraisa -- do *not* distinguish between days of Hazaah for Yom Kippur and Parah Adumah.
+
+But this is notwithstanding your excellent question. For if the Beraisa maintains that the reason for the seven days of separation is because he is about to enter the Machaneh Shechinah, as Reish Lakish learned (4a-b) from the cloud covering Moshe at Ma'amad Har Sinai, Rebbi Yosi -- like Rebbi Akiva -- interprets the days of the cloud covering Har Sinai itself. 
+
+But maybe the Gemara is intentionally ignoring this discrepancy, and choosing to focus on just one type of Chiluk between Yom Kippur and Parah Adumah. Support for this idea might be found in the first answer of Tosfos (8b DH d'I Rebbi Chanina), which maintains that the Gemara was only interested in addressing discrepancies that make the case of Yom Kippur superior to that of Parah Adumah or vice-versa.
+
+Alternatively, based on Tosfos' second answer (Ibid.), we might say that Perishaso l'Kedushah just tells us the location *where* he was to Tovel, but not that Machaneh Shechinah was *the reason* he was Poresh. 
+
+Furthermore, *perhaps* even according to Rashi, who -- you astutely pointed out -- indicates that the Perishah to Kedushah is for entering the Machaneh Shechinah, maybe the point is not so much expressing the opinion of Reish Lakish; but rather, perhaps it just is meant to be in contrast with the second case of Parah Adumah. Meaning, the Perishah for Parah Adumah is for the purpose of Taharah, and thus *it is the reason* for the prohibition contacting him. So the Reisha of the Beraisa, in effect, may be saying that for Yom Kippur "Don't think that there is a prohibition of others to touch him, because his Perishah is ["only" for entering the Machaneh Shechinah,] *not* for Taharah. 
+
+I thought support for this might also be found in the Tosfos we quoted above, because he writes (in the second Terutz) that we can read the Beraisa in the manner of "Trei Milei Ka'Chashiv", which implies that the interpretation in Tosfos' Hava Amina was "Chada Milsa Ka'Chashiv", which seems to mean that the purpose of the Perishah is [just] *supplying the reason* for the Heter/Isur for bodily contact.
+
+Finally, I hope you enjoy as much as I did the fact that the Sefer Mikdash David (Taharos, Siman 51 "Paras Chatas"; see link below) asks a question that in some form bears similarity to yours! He also claims that Rebbi Yosi cannot fit with this Beraisa, but for a different reason; that is, because, as the Tosefta (Parah Ch. 10) indicates, Rebbi Yosi holds that the reason for the prohibition of contact in the case of Parah Adumah is because the clothes of Ochlei Kodesh are Midras for "Chatas" (i.e. Parah). [I personally would just wonder why this Kashya is not assuaged by the second answer of Tosfos that we cited above, which views the statement in the Beraisa as "Trei Milei Ka'Chashiv".] 
+
+I look forward to any opportunity of carrying on this discussion and others with you R' Steinberg, but for the meantime I hope this input helps!
+
+Warmest regards,
+
+Yishai Rasowsky
+
+Link to Mikdash David: https://www.hebrewbooks.org/pdfpager.aspx?req=14790&st=&pgnum=89&hilite=
+
+
+
+
+
+---
+
+Daniel asks:
+
+
+
+Thank you, R'Yishai, for your well-thought out and comprehensive attention to my question! I'm very grateful.
+
+
+
+Indeed, according to Tosfos' 2nd Teretz, that the "Prisha for Kedusha/Tahara" cited by the "Ain Bain" Beraisa refers to the locations that the respective Kohanim were separated to - and not the nature of the Prisha, like Rashi explains - my Kasha, as well as the Mikdash David's, fall away.
+
+
+
+If I understood your other suggested answer (paragraph 3) to my question, that:
+
+
+
+-  according to Tosfos' 1st Teretz, the "Prisha for Kedusha/Tahara" mentioned by the "Ain Bain" Beraisa merely supplies the reason for the Heter/Issur of bodily contact by other Kohanim (and the Heter/Issur is the sole difference between the 2 Kohanim that the Tanna considers).
+
+
+
+- then it doesn't really matter what the nature of the Prisha of the Kohein Gadol is, whether it is on account of a Gezeiras HaKosuv from Miluim (how R'Yosi would have to hold), or on account of a Binyan Av from Har Sinai (the 'Prisha L'Kedusha' cited by the Tanna) - the main point is that the Prisha of the Kohein Gadol, unlike the Prisha of the Kohen Soref Es HaParah does not warrant an Issur of bodily contact by the other Kohanim.
+
+
+
+- Thus, the Beraisa is still in accordance with R'Yosi in regards to the Ikar (and only) difference between the 2 Kohanim: i.e. that there is no Issur of bodily contact by the Kohein Gadol, while by the Kohein Soref Es Parah, there is - notwithstanding the fact that R'Yosi happens to learn the nature of the Prisha of the Kohein Gadol differently than the Tanna of the Beraisa. .
+
+
+
+This answer resonates with me very much. Thank you!
+
+
+
+I will add one last point for consideration. It would seem that the Pshat of 'Prisha L'Kedusha is more in line with Rashi's explanation (and perhaps Tosfos' 1st Teretz as well - if he agrees) - that it is a preparation for entrance to Machne Shechina. The Loshon of 'Prisha L'Kedusha' very much aligns with the Loshon of the original Beraisa brought on 4a as a support for this very Shita: "...Moshe was Niskadesh by a cloud, in order to receive the Torah for Yisrael in Kedusha".
+
+
+
+And if the Pshat of Prisha L'Kedusha in the Ain Bain Beraisa is indeed in alignment with the opinion that we learn Prisha from Har Sinai - it would seem that this Beraisa is an additional Tannaitic support for Shitas Reish Lakish vs R'Yochanan, if we're keeping score.
+
+
+
+Reish Lakish - 1) our Mishnah that uses the word "Maskinin" instead of Mafrishin for the 2nd Kohein Gadol (see bottom 3b), 2) the Beraisa on 4a with R'Yosi HaGlili's opinion, 3) this Ain Bain Beraisa, 4) ...
+
+
+
+Thanks again!
+
+
+
+Warm regards,
+
+
+
+-Daniel Steinberg
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Kollel replies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
