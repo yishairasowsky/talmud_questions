@@ -1,0 +1,40 @@
+(Please include header and footer when redistributing this material.)
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      ask@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Nedarim 056: Top mishnah with gemara on Ula
+
+Paul Davidowitz <pdavidow@fastmail.fm> asks:
+
+What is the connection between nedarim and commerce?
+Why do we assume that we can equate them?
+The definition of bayit/aliyah might actually be different depending on the context.
+
+Paul Davidowitz
+------------------нннннннннннннннннннннннннннн
+The Kollel replies:
+Shalom R' Davidowitz,
+This is an excellent point that you are raising. True, at times, a single term that appears in two different contexts can mean carry two different meanings. See Tosfos in Menachos (37a DH Kibores) for an example of this regarding Tefillin.
+I will just add that we know there is a discussion between Rebbi Yochanan and Rebbi Yoshayah regarding whether in Nedarim we follow the Lashon of Bnei Adam or that of the Torah. The Ran on Nedarim 49a (DH v'Af Al Pi) cites this discussion. The accepted view is to follow that of Bnei Adam. 
+I believe there are many examples of places where we can see that for business and commerce dealings we also use a similar standard. For example routinely the gemara says l'Mai Nafka Minah? l'Mekach u'Memkar. Perhaps a more concrete example, which I came across in a search, is the comment of Tosfos on Shabbos 21a (DH l'Mai) where apparently the same standard is applied to both contexts.  
+Warmest regards,
+Yishai Rasowsky
+----------------------------------------
+ADDITION:
+Shalom R' Davidowitz,
+I notice that some commentaries touch on the issue you raised. Baruch Shekivanta! 
+First, let's be aware that the Rambam rules (in Hilchos Nedarim 9:15) that Someone who *vows* not to benefit from a Bayis is forbidden to benefit from the Aliyah as well, because an Aliyah is included in the connotation of the term Bayis. This is in contrast with another ruling of the Rambam (in Hilchos Mechirah 25:1) where he states that a person who *sells* a Bayis is presumed to have included in the Mechirah an Aliyah located above the Bayis if that Aliyah is open to the Bayis. 
+The Lechem Mishneh (Hilchos Nedarim ad loc.) maintains that these two rulings contradict each other. He reasons that the *unqualified* statement of the Rambam in Hilchos Nedarim implies that *any* Aliyah over a house is included in the term Bayis, whether it opens to the house or not; whereas in Hilchos Mechirah, the Rambam's qualification indicates that only an Aliyah that opens to the Bayis is included in the "Bayis", but an Aliyah that isn't open to the Bayis is not. This implies that the definition of Bayis with respect to Mecher is distinct from the definition of Bayis with respect to Neder. 
+The Lechem Mishneh is puzzled though, because it is apparent from our Gemara (Nedarim 56) that The definition Bayis in both contexts is the same!
+Other commentaries (I see Mesvita cites the Nidrei Zerizin) suggest the following. In a sale, the person merely holding a Shtar to prove his ownership is at a disadvantage, since the burden of proof is upon him to establish his possession of the contested property (see Menachos 109a). Therefore, when it comes to a sale, any Aliyah which is not open to the Bayis is *not* included unless the buyer can prove that it was included in the purchase. But when it comes to Nedarim, since we have a general rule that Stam Nedarim l'Hachmir (recall Nedarim 18b), therefore any Aliyah -- even those which are not open to the house -- are forbidden.
+I honestly do not see how exactly that would answer the question of the Lechem Mishneh. Because our Gemara which equates the two did not make a distinction on that basis.
+Warmest regards,
+Yishai Rasowsky

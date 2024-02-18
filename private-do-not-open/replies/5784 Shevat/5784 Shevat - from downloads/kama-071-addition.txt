@@ -1,0 +1,41 @@
+(Please include header and footer when redistributing this material.)
+_________________________________________________________________
+
+                 THE DAFYOMI DISCUSSION LIST
+
+      brought to you by Kollel Iyun Hadaf of Yerushalayim
+             Rosh Kollel: Rabbi Mordecai Kornfeld
+                      ask@dafyomi.co.il
+
+ [REPLY TO THIS MESSAGE TO DISCUSS THE DAF WITH THE KOLLEL]
+________________________________________________________________
+
+Bava Kama 071: Shechitha b'Shabbos
+
+Daniel Sheinfil <daniel.sheinfil@gmail.com> asks:
+
+Shavua Tov
+Bkvod haRav
+
+Please help me understand how Shechita bShabbos can be a good Shechita.
+
+Either one of two issues arise:
+
+1. A mechalel Shabbos bfarhesya is considered like a goy lkol davar and therefore the Shechita should be pasul
+
+2. Shechita on Shabbos is asur, and therefore, the Shechita would be considered a mitzvah habah baveirah.
+
+Thank you.
+Daniel Sheinfil  
+----------------------------------------------
+The Kollel replies:
+Shalom R' Sheinfil,
+Yes, these are excellent questions! With regards to the first point, the main place that I see this issue discussed amongst the commentaries is Chulin 14a. 
+The first consideration we should realize is that if it was Shogeg, like the Gemara (15a) concludes, then he is not a Mumar. But even on the Tzad that he was Meizid, Tosfos (DH ha'Shochet) offers two possibilities why the Shechitah should be Kosher. First, if we assume that the Shechitah was done in *private*, the person is not a Mumar (though Tosfos admits that Rebbi Meir would not agree with this). Second, even if the Shechitah was done in public, but if this is only his *first Chilul Shabbos*, then he does not yet obtain the status of a Mumar. 
+As I believe you can tell already, this is directly related to the issue of whether a Shechitah on Shabbos constitutes an Aveirah only once this slaughtering is completed, or even at the moment it has begun. The Ran (Chulin ad loc.) adopts the former view to be correct, whereas the Rambam (Peirush ha'Mishnayos, Chulin ad loc.) adopts the latter.
+Warmest regards,
+Yishai Rasowsky
+-----------------------------------------------
+ADDITION:
+Regarding your second excellent question, let's recall that there are two types of Mitzvos: Some where the *action* is what's important; and others where the *result* is what's important. Acharonim (e.g. Oneg Yom Tov and Rav Elchonon Wasserman) explain that Mitzvah ha'Baah b'Aveirah only applies to the former type, not the latter. So, for example, if someone performed Bris Milah on Shabbos -- we are talking she'Lo b'Zmanah, i.e. Shabbos wasn't the eighth day -- then although that is an Aveirah, but still ex post facto the Milah is Kosher, because ultimately the child was circumcised. Likewise, if a person has forbidden relations that results in the birth of a Mamzer, so although he committed a sin in the act, nevertheless the father can be Yotzei the Mitzvah of Peru u'Revu. [But to be fair, this second example is related to the discussion of whether the Mitzvah of Peru u'Revu is to l'Maaseh actually have children (Minchas Chinuch's view), or to go through the act in an attempt to have children (Tosfos' view).] So, too, the Shechitah performed on Shabbos even though it involved a sin of Chilul Shabbos, nevertheless it would not invalidate the meat after the animal has been slaughtered. 
+Regarding the second suggestion of Tosfos above, there is a dispute amongst the commentaries whether the individual does not become a Mumar *at all* for committing just one offense (see this view expressed in the Rav Akiva Eiger and the Mishneh l'Melech); or he does in fact become a Mumar even for one offense but that only kicks in after the first offense was completed (see the view expressed in the Ran).
